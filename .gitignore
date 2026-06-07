@@ -1,0 +1,14 @@
+agent.md
+.DS_Store
+.idea/
+.vscode/
+
+_site/
+_freeze/
+/.quarto/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj

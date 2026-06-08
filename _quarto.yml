@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "ARBO-WATCH"
@@ -74,7 +75,7 @@ format:
     code-tools: false
     code-copy: false
   revealjs:
-    theme: flatly
+    theme: default
     slide-number: true
     chalkboard: false
     preview-links: true

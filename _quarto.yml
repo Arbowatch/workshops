@@ -3,19 +3,79 @@ project:
 
 website:
   title: "ARBO-WATCH"
+  search: true
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - text: Workshops
+        menu:
+          - href: workshops/workshop-01/index.qmd
+            text: "Workshop 01 - Introduction to ARBO-WATCH"
+          - href: workshops/workshop-02/index.qmd
+            text: "Workshop 02 - Field Data Collection"
+          - href: workshops/workshop-03/index.qmd
+            text: "Workshop 03 - Data Analysis in R"
+    right:
+      - href: license.qmd
+        text: License
+      - icon: github
+        href: https://github.com/your-org/arbowatch-workshops
+        aria-label: GitHub
+
+  sidebar:
+    - id: workshop-01
+      title: "Workshop 01"
+      style: docked
+      collapse-level: 2
+      contents:
+        - text: "Overview"
+          href: workshops/workshop-01/index.qmd
+        - section: "Days"
+          contents:
+            - text: "Day 1 — 01 Mar 2024"
+              href: workshops/workshop-01/day-01.qmd
+            - text: "Day 2 — 02 Mar 2024"
+              href: workshops/workshop-01/day-02.qmd
+
+    - id: workshop-02
+      title: "Workshop 02"
+      style: docked
+      collapse-level: 2
+      contents:
+        - text: "Overview"
+          href: workshops/workshop-02/index.qmd
+        - section: "Days"
+          contents:
+            - text: "Day 1 — 01 Jun 2024"
+              href: workshops/workshop-02/day-01.qmd
+            - text: "Day 2 — 02 Jun 2024"
+              href: workshops/workshop-02/day-02.qmd
+
+    - id: workshop-03
+      title: "Workshop 03"
+      style: docked
+      collapse-level: 2
+      contents:
+        - text: "Overview"
+          href: workshops/workshop-03/index.qmd
+        - section: "Days"
+          contents:
+            - text: "Day 1 — 01 Sep 2024"
+              href: workshops/workshop-03/day-01.qmd
+            - text: "Day 2 — 02 Sep 2024"
+              href: workshops/workshop-03/day-02.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
     css: styles.css
     toc: true
-
-
+    toc-depth: 2
+    code-tools: false
+    code-copy: false
+  revealjs:
+    theme: flatly
+    slide-number: true
+    chalkboard: false
+    preview-links: true
 

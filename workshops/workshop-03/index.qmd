@@ -1,0 +1,55 @@
+---
+title: "Workshop 03 - Data Analysis in R"
+date: 2024-09-01
+facilitator: "Maria Lopez"
+categories: [r-programming, data-analysis, visualisation]
+description: "Cleaning, analysing, and visualising arboreal biodiversity data using R and the tidyverse."
+---
+
+## About This Workshop
+
+This workshop focuses on data analysis workflows for arboreal biodiversity data using R and the tidyverse. Participants will clean, summarise, and visualise field data collected in previous workshops, building reproducible analysis pipelines.
+
+---
+
+## Prerequisites
+
+Before attending, please ensure you have:
+
+- Completed Workshops 01 and 02
+- Updated R and RStudio to the latest versions
+- Installed required packages: `install.packages(c("tidyverse", "ggplot2"))`
+- Downloaded the workshop dataset from the Materials section below
+
+---
+
+## Timetable
+
+| Day | Date | Topics | Facilitator |
+|---|---|---|---|
+| [Day 1](day-01.qmd) | 01 Sep 2024 | Tidyverse intro, Data Cleaning, ggplot2 basics | Maria Lopez, John Smith |
+| [Day 2](day-02.qmd) | 02 Sep 2024 | Advanced summarisation, Final visualisation exercise | Maria Lopez, John Smith |
+
+---
+
+## Materials
+
+### Slides
+
+| Day | Link |
+|---|---|
+| Day 1 | [View Slides](slides.qmd){.btn .btn-sm .btn-primary} |
+| Day 2 | [View Slides](slides.qmd){.btn .btn-sm .btn-primary} |
+
+### R Scripts
+
+| File | Description |
+|---|---|
+| [analysis.R](analysis.R) | Full analysis script for both days |
+
+### Reference Documents
+
+| File | Description |
+|---|---|
+| [reference.pdf](reference.pdf) | tidyverse cheatsheet and ggplot2 reference |
+

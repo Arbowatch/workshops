@@ -1,7 +1,70 @@
 ---
 title: "ARBO-WATCH"
+subtitle: "A 4-year workshop series on arboreal biodiversity monitoring"
+listing:
+  id: workshop-listing
+  contents: workshops/*/index.qmd
+  type: table
+  fields: [date, title, facilitator]
+  sort: "date asc"
+  date-format: "DD MMM YYYY"
 ---
 
-This is a Quarto website.
+## About the Project
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+ARBO-WATCH is a 4-year workshop series focused on arboreal biodiversity monitoring. The project brings together researchers, field ecologists, and data scientists to develop and share methods for monitoring tree-dwelling species using modern data collection and analysis workflows.
+
+
+
+## Introduction Video
+
+{{< video https://www.youtube.com/watch?v=VIDEO_ID >}}
+
+
+
+## Educators
+
+::: {.grid}
+
+::: {.g-col-4}
+![Jane Doe](assets/images/educator-01.jpg){width=150 style="border-radius: 50%;"}
+
+**Jane Doe**  
+*Lead Facilitator*  
+Jane leads the ARBO-WATCH programme. She specialises in forest ecology and biodiversity assessment.
+:::
+
+::: {.g-col-4}
+![John Smith](assets/images/educator-02.jpg){width=150 style="border-radius: 50%;"}
+
+**John Smith**  
+*Data Science Instructor*  
+John teaches spatial data analysis and reproducible workflows using R and Quarto.
+:::
+
+::: {.g-col-4}
+![Maria Lopez](assets/images/educator-03.jpg){width=150 style="border-radius: 50%;"}
+
+**Maria Lopez**  
+*R Programming Instructor*  
+Maria specialises in ecological statistics and tidyverse-based data wrangling.
+:::
+
+:::
+
+
+
+## Participants
+
+| Name | Affiliation | Cohort |
+|---|---|---|
+| Alice Brown | University A | 2024 |
+| Bob Chen | Institute B | 2024 |
+| Carol Davis | Organisation C | 2025 |
+
+
+
+## Workshop Schedule
+
+::: {#workshop-listing}
+:::

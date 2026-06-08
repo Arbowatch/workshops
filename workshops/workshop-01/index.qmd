@@ -1,0 +1,56 @@
+---
+title: "Workshop 01 - Introduction to ARBO-WATCH"
+date: 2024-03-01
+facilitator: "Jane Doe"
+categories: [introduction, arboreal-monitoring]
+description: "An introduction to the ARBO-WATCH project, its goals, and the monitoring framework."
+---
+
+## About This Workshop
+
+This workshop introduces participants to the ARBO-WATCH project — its goals, structure, and the monitoring framework that underpins the 4-year programme. By the end of this workshop, participants will understand the field and data workflows used throughout the series.
+
+---
+
+## Prerequisites
+
+Before attending, please ensure you have:
+
+- Installed [R](https://cran.r-project.org/) (version ≥ 4.2) and [RStudio](https://posit.co/download/rstudio-desktop/)
+- Installed the `tidyverse` package: `install.packages("tidyverse")`
+- Read the project background document (see Materials below)
+- Brought a laptop with at least 4 GB of free disk space
+
+---
+
+## Timetable
+
+| Day | Date | Topics | Facilitator |
+|---|---|---|---|
+| [Day 1](day-01.qmd) | 01 Mar 2024 | Welcome, Project Overview, Intro to Arboreal Monitoring | Jane Doe |
+| [Day 2](day-02.qmd) | 02 Mar 2024 | Monitoring Protocols, Deep Dive, Group Discussion | Jane Doe, Maria Lopez |
+
+---
+
+## Materials
+
+### Slides
+
+| Day | Link |
+|---|---|
+| Day 1 | [View Slides](slides.qmd){.btn .btn-sm .btn-primary} |
+| Day 2 | [View Slides](slides.qmd){.btn .btn-sm .btn-primary} |
+
+### R Scripts
+
+| File | Description |
+|---|---|
+| [analysis.R](analysis.R) | Workshop 01 R script |
+
+### Reference Documents
+
+| File | Description |
+|---|---|
+| [reference.pdf](reference.pdf) | Background reading for Workshop 01 |
+
+

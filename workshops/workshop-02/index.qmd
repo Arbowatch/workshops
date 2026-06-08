@@ -1,0 +1,55 @@
+---
+title: "Workshop 02 - Field Data Collection"
+date: 2024-06-01
+facilitator: "John Smith"
+categories: [field-methods, data-collection]
+description: "Methods and protocols for collecting arboreal biodiversity data in the field."
+---
+
+## About This Workshop
+
+This workshop covers the standardised protocols for collecting arboreal biodiversity data in the field. Participants will practice point count surveys, transect methods, GPS data logging, and field data entry and validation.
+
+---
+
+## Prerequisites
+
+Before attending, please ensure you have:
+
+- Completed Workshop 01
+- Installed the `sf` package in R: `install.packages("sf")`
+- Reviewed the field safety guidelines (see Materials below)
+- Brought sturdy footwear and waterproof field sheets
+
+---
+
+## Timetable
+
+| Day | Date | Topics | Facilitator |
+|---|---|---|---|
+| [Day 1](day-01.qmd) | 01 Jun 2024 | Field Safety, Data Collection Methods, GPS Exercise | John Smith, Jane Doe |
+| [Day 2](day-02.qmd) | 02 Jun 2024 | Transect Surveys, Data Entry and Validation | John Smith |
+
+---
+
+## Materials
+
+### Slides
+
+| Day | Link |
+|---|---|
+| Day 1 | [View Slides](slides.qmd){.btn .btn-sm .btn-primary} |
+| Day 2 | [View Slides](slides.qmd){.btn .btn-sm .btn-primary} |
+
+### R Scripts
+
+| File | Description |
+|---|---|
+| [analysis.R](analysis.R) | Field data summarisation script |
+
+### Reference Documents
+
+| File | Description |
+|---|---|
+| [reference.pdf](reference.pdf) | Field protocols and data sheet templates |
+

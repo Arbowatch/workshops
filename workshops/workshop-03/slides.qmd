@@ -1,0 +1,78 @@
+---
+title: "Workshop 03 - Data Analysis in R"
+subtitle: "Tidyverse Workflows for Biodiversity Data"
+author: "Maria Lopez"
+date: 2024-09-01
+format:
+  revealjs:
+    theme: default
+    slide-number: true
+    footer: "ARBO-WATCH — Workshop 03"
+---
+
+## Overview
+
+- Introduction to the tidyverse
+- Cleaning and wrangling field data
+- Visualising biodiversity patterns with ggplot2
+
+---
+
+## The Tidyverse
+
+- A collection of R packages designed for data science
+- Consistent grammar: `dplyr`, `tidyr`, `ggplot2`, `readr`
+- Pipe-based workflows: `|>`
+
+---
+
+## Data Cleaning
+
+```{.r}
+df_clean <- df |>
+  drop_na(species, count) |>
+  filter(count > 0) |>
+  mutate(date = as.Date(date))
+```
+
+- Remove rows with missing critical values
+- Filter out invalid records
+- Parse dates correctly
+
+---
+
+## Data Wrangling
+
+```{.r}
+species_summary <- df_clean |>
+  group_by(species) |>
+  summarise(
+    total_count = sum(count),
+    n_sites = n_distinct(site),
+    .groups = "drop"
+  )
+```
+
+- Aggregate counts per species
+- Count number of distinct sites per species
+
+---
+
+## Visualisation
+
+```{.r}
+species_summary |>
+  slice_max(total_count, n = 10) |>
+  ggplot(aes(x = reorder(species, total_count), y = total_count)) +
+  geom_col(fill = "#2E7D32") +
+  coord_flip() +
+  theme_minimal()
+```
+
+---
+
+## Summary
+
+- Tidyverse provides a consistent, readable workflow
+- Always inspect and clean data before analysis
+- ggplot2 makes it easy to produce publication-quality figures

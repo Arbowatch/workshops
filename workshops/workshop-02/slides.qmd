@@ -1,0 +1,62 @@
+---
+title: "Workshop 02 - Field Data Collection"
+subtitle: "Methods and Protocols for Arboreal Surveys"
+author: "John Smith"
+date: 2024-06-01
+format:
+  revealjs:
+    theme: default
+    slide-number: true
+    footer: "ARBO-WATCH — Workshop 02"
+---
+
+## Overview
+
+- Field safety and survey protocols
+- Point count and transect methods
+- Recording and validating field data
+
+---
+
+## Field Safety
+
+- Always work in pairs in the field
+- Notify base camp of your location and expected return
+- Carry a first aid kit and emergency contact list
+
+---
+
+## Point Count Method
+
+- Stand at a fixed point for a set time (e.g. 10 minutes)
+- Record all arboreal species seen or heard within a radius
+- Repeat at multiple points across the study area
+
+---
+
+## Transect Surveys
+
+- Walk a fixed route at a slow pace
+- Record species, distance, and canopy height
+- Use GPS to log the transect path
+
+---
+
+## Data Recording
+
+```{.r}
+# Example field data structure
+# site, date, observer, species, count, canopy_height_m, notes
+```
+
+- Use standardised field sheets
+- Double-check species identifications in the field
+- Enter data into the digital system within 24 hours
+
+---
+
+## Summary
+
+- Consistent protocols ensure comparable data across sites
+- GPS tracking links observations to spatial context
+- Cleaned field data feeds directly into R analysis workflows

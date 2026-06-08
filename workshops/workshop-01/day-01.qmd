@@ -1,0 +1,49 @@
+---
+title: "Workshop 01 — Day 1"
+subtitle: "Welcome & Introduction to Arboreal Monitoring"
+date: 2024-03-01
+---
+
+## Schedule
+
+| Time | Topic | Facilitator |
+|---|---|---|
+| 09:00 - 09:30 | Welcome & Project Overview | Jane Doe |
+| 09:30 - 10:30 | Introduction to Arboreal Monitoring | Jane Doe |
+| 10:30 - 10:45 | Break | |
+| 10:45 - 12:00 | Hands-on Exercise: Getting Started | Maria Lopez |
+
+## Video Recording
+
+{{< video https://www.youtube.com/watch?v=VIDEO_ID >}}
+
+## Slides
+
+[View Slides](slides.qmd){.btn .btn-primary}
+
+## R Code
+
+```{.r filename="analysis.R"}
+library(tidyverse)
+
+# Load example dataset
+df <- read_csv("data.csv")
+
+# Quick summary
+glimpse(df)
+
+df |>
+  ggplot(aes(x = species, y = count)) +
+  geom_col() +
+  theme_minimal() +
+  labs(title = "Species Counts - Workshop 01, Day 1")
+```
+
+[Download R Script](analysis.R){.btn .btn-outline-primary}
+
+## Reference Document
+
+<iframe src="reference.pdf" width="100%" height="600px" style="border: none;"></iframe>
+
+[Download PDF](reference.pdf){.btn .btn-outline-primary}
+

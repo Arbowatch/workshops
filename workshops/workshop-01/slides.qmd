@@ -1,0 +1,57 @@
+---
+title: "Workshop 01 - Introduction to ARBO-WATCH"
+subtitle: "Project Overview and Monitoring Framework"
+author: "Jane Doe"
+date: 2024-03-01
+format:
+  revealjs:
+    theme: default
+    slide-number: true
+    footer: "ARBO-WATCH — Workshop 01"
+---
+
+## Welcome
+
+- Introduction to the ARBO-WATCH project
+- Goals and scope of the 4-year programme
+- Meet the team
+
+---
+
+## What is Arboreal Monitoring?
+
+- Systematic observation of tree-dwelling species
+- Long-term data collection for biodiversity assessment
+- Integration of field methods and digital tools
+
+---
+
+## Project Structure
+
+- 4 years, multiple workshops per year
+- Mix of theory, field practice, and data analysis
+- Open materials and reproducible workflows
+
+---
+
+## Tools We Will Use
+
+- R and the tidyverse
+- Quarto for reproducible reporting
+- Field data sheets and GPS devices
+
+---
+
+## Hands-on Exercise
+
+- Install R and RStudio
+- Explore the sample dataset
+- Produce your first summary table
+
+---
+
+## Summary
+
+- ARBO-WATCH monitors arboreal biodiversity over 4 years
+- Workshops combine field skills with data analysis
+- All materials are freely available under CC BY 4.0

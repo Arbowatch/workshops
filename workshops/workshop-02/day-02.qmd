@@ -1,0 +1,48 @@
+---
+title: "Workshop 02 — Day 2"
+subtitle: "Transect Surveys, Data Entry & Validation"
+date: 2024-06-02
+---
+
+## Schedule
+
+| Time | Topic | Facilitator |
+|---|---|---|
+| 09:00 - 09:30 | Recap & Field Data Review | John Smith |
+| 09:30 - 10:30 | Transect Survey Practice | Jane Doe |
+| 10:30 - 10:45 | Break | |
+| 10:45 - 12:00 | Data Entry and Validation | John Smith |
+
+## Video Recording
+
+{{< video https://www.youtube.com/watch?v=VIDEO_ID >}}
+
+## Slides
+
+[View Slides](slides.qmd){.btn .btn-primary}
+
+## R Code
+
+```{.r filename="analysis.R"}
+library(tidyverse)
+
+# Validate field entries
+df <- read_csv("field_data.csv")
+
+df |>
+  filter(is.na(species) | is.na(count)) |>
+  nrow()  # should be 0 after cleaning
+
+df |>
+  distinct(site) |>
+  arrange(site)
+```
+
+[Download R Script](analysis.R){.btn .btn-outline-primary}
+
+## Reference Document
+
+<iframe src="reference.pdf" width="100%" height="600px" style="border: none;"></iframe>
+
+[Download PDF](reference.pdf){.btn .btn-outline-primary}
+

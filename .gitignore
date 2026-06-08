@@ -12,3 +12,5 @@ _freeze/
 .RData
 .Rproj.user/
 *.Rproj
+
+**/*.quarto_ipynb

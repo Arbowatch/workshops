@@ -1,0 +1,47 @@
+---
+title: "Workshop 02 — Day 1"
+subtitle: "Field Safety, Data Collection Methods & GPS Exercise"
+date: 2024-06-01
+---
+
+## Schedule
+
+| Time | Topic | Facilitator |
+|---|---|---|
+| 09:00 - 09:30 | Field Safety & Protocols | John Smith |
+| 09:30 - 10:30 | Data Collection Methods | John Smith |
+| 10:30 - 10:45 | Break | |
+| 10:45 - 12:00 | GPS and Data Sheets Exercise | Jane Doe |
+
+## Video Recording
+
+{{< video https://www.youtube.com/watch?v=VIDEO_ID >}}
+
+## Slides
+
+[View Slides](slides.qmd){.btn .btn-primary}
+
+## R Code
+
+```{.r filename="analysis.R"}
+library(tidyverse)
+library(sf)
+
+# Load field data
+df <- read_csv("field_data.csv")
+
+# Summarise observations by site
+df |>
+  group_by(site, species) |>
+  summarise(total = sum(count), .groups = "drop") |>
+  arrange(site, desc(total))
+```
+
+[Download R Script](analysis.R){.btn .btn-outline-primary}
+
+## Reference Document
+
+<iframe src="reference.pdf" width="100%" height="600px" style="border: none;"></iframe>
+
+[Download PDF](reference.pdf){.btn .btn-outline-primary}
+

@@ -1,1 +1,83 @@
-/* css styles */
+/* =========================================================
+   ARBO-WATCH — Custom Styles
+   ========================================================= */
+
+/* ----- Navbar ----- */
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+/* ----- Page headings ----- */
+h2 {
+  padding-bottom: 0.3rem;
+  margin-top: 2rem;
+}
+
+/* ----- Sidebar ----- */
+.sidebar-navigation .sidebar-section-item {
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  margin-top: 0.75rem;
+}
+
+.sidebar-navigation .sidebar-item a {
+  font-size: 0.9rem;
+}
+
+.sidebar-navigation .sidebar-item-container .active {
+  font-weight: 600;
+  border-radius: 4px;
+}
+
+/* ----- Educator profile grid ----- */
+.grid {
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.g-col-4 img {
+  display: block;
+  margin: 0 auto 1rem auto;
+}
+
+.g-col-4 {
+  text-align: center;
+}
+
+/* ----- Buttons ----- */
+.btn {
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+  border-radius: 4px;
+}
+
+/* ----- Tables ----- */
+table {
+  font-size: 0.93rem;
+  width: 100%;
+}
+
+thead th {
+  font-weight: 600;
+}
+
+/* ----- Workshop listing table ----- */
+.listing-table {
+  font-size: 0.95rem;
+}
+
+/* ----- PDF iframe ----- */
+iframe {
+  margin-bottom: 1rem;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+/* ----- Schedule table (day pages) ----- */
+.schedule-table td:first-child {
+  white-space: nowrap;
+  font-weight: 500;
+}

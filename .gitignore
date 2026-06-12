@@ -7,6 +7,12 @@ _site/
 _freeze/
 /.quarto/
 
+# Quarto rendered outputs (go to _site/ via output-dir)
+/*.html
+/index-listing.json
+workshops/**/*.html
+site_libs/
+
 # R
 .Rhistory
 .RData

@@ -12,11 +12,9 @@ website:
       - text: Workshops
         menu:
           - href: workshops/workshop-01/index.qmd
-            text: "Workshop 01 - Introduction to ARBO-WATCH"
+            text: "Module I - Data Collection and Management"
           - href: workshops/workshop-02/index.qmd
-            text: "Workshop 02 - Field Data Collection"
-          - href: workshops/workshop-03/index.qmd
-            text: "Workshop 03 - Data Analysis in R"
+            text: "Module II - Introduction to R for Public Health Surveillance"
     right:
       - href: license.qmd
         text: License
@@ -26,7 +24,7 @@ website:
 
   sidebar:
     - id: workshop-01
-      title: "Workshop 01"
+      title: "Module I - Data Collection and Management"
       style: docked
       collapse-level: 2
       contents:
@@ -34,13 +32,21 @@ website:
           href: workshops/workshop-01/index.qmd
         - section: "Days"
           contents:
-            - text: "Day 1 — 01 Mar 2024"
+            - text: "Day 1 — Data Collection and Ethics"
               href: workshops/workshop-01/day-01.qmd
-            - text: "Day 2 — 02 Mar 2024"
+            - text: "Day 2 — Digital Data Collection Tools: Getting Started"
               href: workshops/workshop-01/day-02.qmd
+            - text: "Day 3 — KoboToolbox: Getting Hands-On"
+              href: workshops/workshop-01/day-03.qmd
+            - text: "Day 4 — KoboToolbox: Advanced"
+              href: workshops/workshop-01/day-04.qmd
+            - text: "Day 5 — Fundamentals of Excel"
+              href: workshops/workshop-01/day-05.qmd
+            - text: "Day 6 — Fundamentals of Excel"
+              href: workshops/workshop-01/day-06.qmd
 
     - id: workshop-02
-      title: "Workshop 02"
+      title: "Module II - Introduction to R for Public Health Surveillance"
       style: docked
       collapse-level: 2
       contents:
@@ -53,19 +59,6 @@ website:
             - text: "Day 2 — 02 Jun 2024"
               href: workshops/workshop-02/day-02.qmd
 
-    - id: workshop-03
-      title: "Workshop 03"
-      style: docked
-      collapse-level: 2
-      contents:
-        - text: "Overview"
-          href: workshops/workshop-03/index.qmd
-        - section: "Days"
-          contents:
-            - text: "Day 1 — 01 Sep 2024"
-              href: workshops/workshop-03/day-01.qmd
-            - text: "Day 2 — 02 Sep 2024"
-              href: workshops/workshop-03/day-02.qmd
 
 format:
   html:
@@ -79,4 +72,3 @@ format:
     slide-number: true
     chalkboard: false
     preview-links: true
-

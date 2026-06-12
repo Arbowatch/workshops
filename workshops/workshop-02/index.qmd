@@ -1,14 +1,13 @@
 ---
-title: "Workshop 02 - Field Data Collection"
-date: 2024-06-01
-facilitator: "John Smith"
-categories: [field-methods, data-collection]
-description: "Methods and protocols for collecting arboreal biodiversity data in the field."
+title: "Introduction to R for Public Health Surveillance"
+date: 2025-10-27
+categories: [intro-to-R, data-collection]
+description: "Introduction to R for public health surveillance."
 ---
 
 ## About This Workshop
 
-This workshop covers the standardised protocols for collecting arboreal biodiversity data in the field. Participants will practice point count surveys, transect methods, GPS data logging, and field data entry and validation.
+This workshop introduces participants to the basics of R programming for public health surveillance. Participants will learn how to import, clean, and visualize data, as well as perform basic statistical analyses.
 
 ---
 

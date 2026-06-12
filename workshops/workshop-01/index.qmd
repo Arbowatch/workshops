@@ -1,56 +1,55 @@
 ---
-title: "Workshop 01 - Introduction to ARBO-WATCH"
-date: 2024-03-01
-facilitator: "Jane Doe"
-categories: [introduction, arboreal-monitoring]
-description: "An introduction to the ARBO-WATCH project, its goals, and the monitoring framework."
+title: "Data Collection and Management"
+date: 2025-08-25
+categories: [data-management, data-collection]
+description: "Data collection and management"
 ---
 
 ## About This Workshop
 
 This workshop introduces participants to the ARBO-WATCH project — its goals, structure, and the monitoring framework that underpins the 4-year programme. By the end of this workshop, participants will understand the field and data workflows used throughout the series.
 
----
+
 
 ## Prerequisites
 
 Before attending, please ensure you have:
 
 - Installed [R](https://cran.r-project.org/) (version ≥ 4.2) and [RStudio](https://posit.co/download/rstudio-desktop/)
-- Installed the `tidyverse` package: `install.packages("tidyverse")`
-- Read the project background document (see Materials below)
-- Brought a laptop with at least 4 GB of free disk space
+- Downloaded and installed [QGIS](https://qgis.org/en/site/forusers/download.html) software
+- Installed Kobo Toolbox on your mobile device (available on [Google Play](https://play.google.com/store/apps/details?id=org.koboc.collect.android) and [App Store](https://apps.apple.com/app/id323229106))
+- Have a working laptop/computer with at least 4 GB of free disk space
 
----
+
 
 ## Timetable
 
-| Day | Date | Topics | Facilitator |
-|---|---|---|---|
-| [Day 1](day-01.qmd) | 01 Mar 2024 | Welcome, Project Overview, Intro to Arboreal Monitoring | Jane Doe |
-| [Day 2](day-02.qmd) | 02 Mar 2024 | Monitoring Protocols, Deep Dive, Group Discussion | Jane Doe, Maria Lopez |
+**25 August – 2 September 2025**
 
----
+| Date                  | Time           | Topic                                            | Activities                                                                                                                                                | Facilitator                     |
+| --------------------- | -------------- | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| [**21 Aug 2025 (Thu)**](day-01.qmd) | 10:00–11:00 AM | Pre-Training Session                             | Welcome & orientation, icebreaker, Google Classroom & breakout rooms, plenary debrief, tech check, Q&A                                                    | Henry Kissinger                 |
+| [**25 Aug 2025 (Mon)**](day-02.qmd) | 8:00–8:20 AM   | Opening Remarks & Training Launch                | Training launch                                                                                                                                           | Bernard Bett                    |
+|                       | 8:25–10:00 AM  | Data Collection and Ethics                       | Pre-training survey, understanding data, principles of data collection, collection methods, tools, data management, quality management, security & ethics | Anthony Waititu                 |
+|                       | 4:00–5:00 PM   | Practical Session                                | Data collection and ethics practicals                                                                                                                     | Mentors                         |
+| [**26 Aug 2025 (Tue)**](day-03.qmd) | 8:00–10:00 AM  | Google Forms                                     | Introduction, form creation, question types, settings, themes, preview & publishing                                                                       | Charity Wamwea                  |
+|                       | 4:00–5:00 PM   | Practical Session                                | Google Forms practicals                                                                                                                                   | Mentors                         |
+| [**27 Aug 2025 (Wed)**](day-04.qmd) | 8:00–10:00 AM  | Kobo Toolbox                                     | Introduction, setup, form building, form management, data analysis, offline collection                                                                    | Henry Kissinger                 |
+|                       | 4:00–5:00 PM   | Practical Session                                | Kobo Toolbox practicals                                                                                                                                   | Mentors                         |
+| [**28 Aug 2025 (Thu)**](day-05.qmd) | 8:00–10:00 AM  | Excel for Data-Driven Decision Making (Part I)   | Data analysis processes and methods, Excel formulas and functions                                                                                         | Charity Wamwea / Caroline Mugo  |
+|                       | 4:00–5:00 PM   | Practical Session                                | Excel practicals                                                                                                                                          | Mentors                         |
+| [**1 Sep 2025 (Mon)**](day-06.qmd)  | 8:00–10:00 AM  | Excel for Data-Driven Decision Making (Part II)  | Data validation techniques, Power Query, Pivot Tables                                                                                                     | Winnie Chacha / Caroline Mugo   |
+|                       | 4:00–5:00 PM   | Practical Session                                | Excel practicals                                                                                                                                          | Mentors                         |
+| [**2 Sep 2025 (Tue)**](day-07.qmd)  | 8:00–10:00 AM  | Excel for Data-Driven Decision Making (Part III) | Data visualization, Excel charting, Pivot Charts, Interactive Dashboards, Post-training survey                                                            | Henry Kissinger / Winnie Chacha |
+|                       | 4:00–5:00 PM   | Practical Session                                | Excel practicals                                                                                                                                          | Mentors                         |
+
+
 
 ## Materials
 
-### Slides
+#### Pre-Training Manual
+[Download Pre-Training Manual](pre-training-manual.pdf){.btn .btn-primary}
 
-| Day | Link |
-|---|---|
-| Day 1 | [View Slides](slides.qmd){.btn .btn-sm .btn-primary} |
-| Day 2 | [View Slides](slides.qmd){.btn .btn-sm .btn-primary} |
-
-### R Scripts
-
-| File | Description |
-|---|---|
-| [analysis.R](analysis.R) | Workshop 01 R script |
-
-### Reference Documents
-
-| File | Description |
-|---|---|
-| [reference.pdf](reference.pdf) | Background reading for Workshop 01 |
-
+#### List of Participants and Sessions Groups
+[Download Participants List](participants.pdf){.btn .btn-primary}
 

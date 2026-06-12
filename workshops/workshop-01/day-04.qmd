@@ -1,6 +1,6 @@
 ---
-title: "Workshop 01 — Day 2"
-subtitle: "Monitoring Protocols & Group Discussion"
+title: "Digital Data Collection Tools - KoboCollect"
+subtitle: "Advanced Features and Best Practices"
 date: 2024-03-02
 ---
 
@@ -8,10 +8,10 @@ date: 2024-03-02
 
 | Time | Topic | Facilitator |
 |---|---|---|
-| 09:00 - 09:30 | Recap of Day 1 | Jane Doe |
-| 09:30 - 10:30 | Deep Dive: Monitoring Protocols | Jane Doe |
+| 09:00 - 09:30 | Recap of Day 3 | Jane Doe |
+| 09:30 - 10:30 | Advanced Features of KoboCollect | Jane Doe |
 | 10:30 - 10:45 | Break | |
-| 10:45 - 12:00 | Group Discussion & Q&A | Maria Lopez |
+| 10:45 - 12:00 | Best Practices & Q&A | Maria Lopez |
 
 ## Video Recording
 

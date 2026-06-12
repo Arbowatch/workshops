@@ -1,6 +1,6 @@
 ---
-title: "Workshop 01 — Day 2"
-subtitle: "Monitoring Protocols & Group Discussion"
+title: "Digital Data Collection Tools - KoboCollect"
+subtitle: "Getting Started"
 date: 2024-03-02
 ---
 

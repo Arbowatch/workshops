@@ -1,6 +1,5 @@
 ---
-title: "Workshop 01 — Day 1"
-subtitle: "Welcome & Introduction to Arboreal Monitoring"
+title: "Data Collection and Ethics"
 date: 2024-03-01
 ---
 
@@ -21,29 +20,10 @@ date: 2024-03-01
 
 [View Slides](slides.qmd){.btn .btn-primary}
 
-## R Code
 
-```{.r filename="analysis.R"}
-library(tidyverse)
-
-# Load example dataset
-df <- read_csv("data.csv")
-
-# Quick summary
-glimpse(df)
-
-df |>
-  ggplot(aes(x = species, y = count)) +
-  geom_col() +
-  theme_minimal() +
-  labs(title = "Species Counts - Workshop 01, Day 1")
-```
-
-[Download R Script](analysis.R){.btn .btn-outline-primary}
-
-## Reference Document
+## Reference Documents
 
 <iframe src="reference.pdf" width="100%" height="600px" style="border: none;"></iframe>
 
-[Download PDF](reference.pdf){.btn .btn-outline-primary}
+[Download PDF](materials/day_1/Data%20Collection%20and%20Ethics%20Slides.pdf){.btn .btn-outline-primary}
 

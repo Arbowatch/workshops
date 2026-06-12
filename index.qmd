@@ -1,6 +1,6 @@
 ---
 title: "ARBO-WATCH"
-subtitle: "A 4-year workshop series on arboreal biodiversity monitoring"
+subject: "Capacity Strengthening"
 listing:
   id: workshop-listing
   contents: workshops/*/index.qmd
@@ -10,61 +10,101 @@ listing:
   date-format: "DD MMM YYYY"
 ---
 
-## About the Project
+### About the Project
 
-ARBO-WATCH is a 4-year workshop series focused on arboreal biodiversity monitoring. The project brings together researchers, field ecologists, and data scientists to develop and share methods for monitoring tree-dwelling species using modern data collection and analysis workflows.
+The ARBO-WATCH project seeks to design and deploy dengue and Chikungunya fever decision support tools informed by process-based models in Kenya, Somalia and Ethiopia. These analyses will utilize relevant primary and secondary data from all these countries to uncover broader epidemiological patterns of these diseases in the region. The project is being implemented by a consortium made up of nine institutions including ILRI, the Kenya Medical Research Institute, Kenya’s Ministry of Health, Jomo Kenyatta University of Agriculture and Technology, Ethiopia Public Health Institute, Global One Health Initiative, Ohio State University, Abrar University and the Ministry of Health Somalia.
 
 
-
-## Introduction Video
-
-{{< video https://www.youtube.com/watch?v=VIDEO_ID >}}
+{{< video https://www.youtube.com/watch?v=DwMV8qmgmbA >}}
 
 
 
 ## Educators
 
-::: {.grid}
+::: {.educator-list}
 
-::: {.g-col-4}
-![Jane Doe](assets/images/educator-01.jpg){width=150 style="border-radius: 50%;"}
+::: {.educator-card}
+![Henry Athiany](assets/images/henry.jpg){.educator-photo}
 
-**Jane Doe**  
-*Lead Facilitator*  
-Jane leads the ARBO-WATCH programme. She specialises in forest ecology and biodiversity assessment.
+::: {.educator-content}
+### Henry Athiany
+
+*Research Biostatistician*
+
+Henry Athiany is a Lecturer in the Department of Statistics and Actuarial Sciences (STACS) at JKUAT, with training in Biostatistics and Epidemiology and a background in Mathematics and Computer Science. His research spans epidemiology, infectious disease modelling, Bayesian and spatiotemporal analysis, clinical trials, statistical computing, bioinformatics, time-series forecasting, and mental health analytics. With over 15 years of experience working with large-scale eHealth and routinely collected healthcare data, he has contributed to national public health initiatives, including serving on Kenya’s COVID-19 Modelling Technical Committee and supporting multiple Ministry of Health projects on digital health systems, diagnostics optimization, and health information interoperability. He is also an experienced trainer in statistical software and research methods and has held leadership roles within the International Biometric Society and the Statistical Society of Kenya. Currently, he supports the ARBO-WATCH project as part of the JKUAT team.
+:::
 :::
 
-::: {.g-col-4}
-![John Smith](assets/images/educator-02.jpg){width=150 style="border-radius: 50%;"}
+::: {.educator-card}
+![Caroline Wanja Mugo](assets/images/Caroline%20Wanja%20Mugo.jpg){.educator-photo}
 
-**John Smith**  
-*Data Science Instructor*  
-John teaches spatial data analysis and reproducible workflows using R and Quarto.
+::: {.educator-content}
+### Caroline Wanja Mugo
+
+*Lecturer Biostatistics*
+
+Caroline Wanja Mugo is a Lecturer in Biostatistics at JKUAT with a background in Biostatistics and Epidemiology. Her research interests include infectious disease epidemiology, statistical methods for public health, and data-driven decision-making. She has experience working with large datasets and routinely collected healthcare data, contributing to national public health initiatives. Caroline has also been involved in training and capacity-building efforts in biostatistics and epidemiology. She currently supports the ARBO-WATCH project as part of the JKUAT team.
 :::
-
-::: {.g-col-4}
-![Maria Lopez](assets/images/educator-03.jpg){width=150 style="border-radius: 50%;"}
-
-**Maria Lopez**  
-*R Programming Instructor*  
-Maria specialises in ecological statistics and tidyverse-based data wrangling.
-:::
-
 :::
 
 
-
-## Participants
-
-| Name | Affiliation | Cohort |
-|---|---|---|
-| Alice Brown | University A | 2024 |
-| Bob Chen | Institute B | 2024 |
-| Carol Davis | Organisation C | 2025 |
-
-
+:::
 
 ## Workshop Schedule
 
 ::: {#workshop-listing}
 :::
+
+
+## Participants
+
+| Name                            | Country  |
+| ------------------------------- | -------- |
+| Henok Tadesse Bireda            | Ethiopia |
+| Abdirahman Mohamed Abdullahi    | Somalia  |
+| Seth Ouma Okeyo                 | Kenya    |
+| Hillary Chebon Chelanga         | Kenya    |
+| Shafie Abdulkadir Hassan        | Somalia  |
+| Edith C. Koskei                 | Kenya    |
+| Joel Lutomiah                   | Kenya    |
+| Mikias Alayu Alemu              | Ethiopia |
+| Marian Muse Osman               | Somalia  |
+| Yusuf Ajack Ibrahim             | Kenya    |
+| Akengo Hellen                   | Kenya    |
+| Limbaso Konongoi                | Kenya    |
+| Ahmed Nor Osman Hassan          | Somalia  |
+| Esther Nyaboke Bundi            | Kenya    |
+| Abraham Ali                     | Ethiopia |
+| Francis Oketch Ochieng          | Kenya    |
+| Abdullahi Mohamed Mohamud       | Somalia  |
+| Hellensyombwii Koka             | Kenya    |
+| Abdirisak Suleiman Osman        | Somalia  |
+| Margaret Wairimu Wanyeki Nganga | Kenya    |
+| Millicent Makandi               | Kenya    |
+| Hamdi Ahmed Ali                 | Somalia  |
+| Francis Ng'Ang'A                | Kenya    |
+| Victor Ofula                    | Kenya    |
+| Samuel Arach Owaka              | Kenya    |
+| Osman Ahmed Mohamed             | Somalia  |
+| Valentine Kabita                | Kenya    |
+| Mesfin Wossen                   | Ethiopia |
+| Worku Fitesa                    | Ethiopia |
+| Ahmed Yusuf Mohamed             | Somalia  |
+| Edith Chepkorir                 | Kenya    |
+| Abdulkarim Abdulle Yusuf        | Somalia  |
+| Evalyne Kanyina                 | Kenya    |
+| Abate Tensai                    | Ethiopia |
+| Safia Hassan                    | Kenya    |
+| Mohamed Abdirahman Hashi        | Somalia  |
+| Fitsum Bekele Endeshaw          | Ethiopia |
+| Langat Kipngetich Solomon       | Kenya    |
+| Albert Nyunja                   | Kenya    |
+| Mulugeta Geremew                | Ethiopia |
+| Nicholas Kurgat                 | Kenya    |
+| Abdulrizak Suleiman Osman       | Somalia  |
+| Aamir Muse Osman                | Somalia  |
+| James Mutisya                   | Kenya    |
+| Samson Warkaye Lamma            | Ethiopia |
+| Francis Mulwa Musili            | Kenya    |
+| Asnake Worku                    | Ethiopia |
+| Oscar Gaunya                    | Kenya    |

@@ -59,8 +59,8 @@ Caroline Wanja Mugo is a Lecturer in Biostatistics at JKUAT with a background in
 
 ## Participants
 
-| Name                            | Country  |
-| ------------------------------- | -------- |
+| Name                            | Country  | Organisation |
+| ------------------------------- | -------- | ------------- |
 | Henok Tadesse Bireda            | Ethiopia |
 | Abdirahman Mohamed Abdullahi    | Somalia  |
 | Seth Ouma Okeyo                 | Kenya    |

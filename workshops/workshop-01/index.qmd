@@ -1,14 +1,18 @@
 ---
 title: "Data Collection and Management"
 date: 2025-08-25
-categories: [data-management, data-collection]
-description: "Data collection and management"
+description: "This workshop introduces participants to the ARBO-WATCH project; its goals, structure, and the monitoring framework that underpins the 4-year programme. By the end of this workshop, participants will understand the field and data workflows used throughout the series."
 ---
 
-## About This Workshop
+## Facilitators
 
-This workshop introduces participants to the ARBO-WATCH project — its goals, structure, and the monitoring framework that underpins the 4-year programme. By the end of this workshop, participants will understand the field and data workflows used throughout the series.
-
+| Name | Institution |
+| ---- |------------ |
+| Kissinger Athiany | JKUAT |
+| Caroline Wanja Mugo | JKUAT |
+| Prof Anthony Waititu | JKUAT |
+| Dr Charity Mkajuma Wamwea | JKUAT |
+| Dr Winnie Chacha | JKUAT |
 
 
 ## Prerequisites
@@ -18,7 +22,7 @@ Before attending, please ensure you have:
 - Installed [R](https://cran.r-project.org/) (version ≥ 4.2) and [RStudio](https://posit.co/download/rstudio-desktop/)
 - Downloaded and installed [QGIS](https://qgis.org/en/site/forusers/download.html) software
 - Installed Kobo Toolbox on your mobile device (available on [Google Play](https://play.google.com/store/apps/details?id=org.koboc.collect.android) and [App Store](https://apps.apple.com/app/id323229106))
-- Have a working laptop/computer with at least 4 GB of free disk space
+- Have a working laptop/computer with at least 4 GB of RAM and 256 GB of storage.
 
 
 

@@ -17,6 +17,8 @@ website:
           - href: workshops/workshop-02/index.qmd
             text: "Module II - Introduction to R for Public Health Surveillance"
     right:
+      - href: contact.qmd
+        text: Contact
       - href: license.qmd
         text: License
       - icon: github
@@ -33,17 +35,17 @@ website:
           href: workshops/workshop-01/index.qmd
         - section: "Days"
           contents:
-            - text: "Day 1 — Data Collection and Ethics"
+            - text: "Day 1"
               href: workshops/workshop-01/day-01.qmd
-            - text: "Day 2 — Digital Data Collection Tools: Getting Started"
+            - text: "Day 2"
               href: workshops/workshop-01/day-02.qmd
-            - text: "Day 3 — KoboToolbox: Getting Hands-On"
+            - text: "Day 3"
               href: workshops/workshop-01/day-03.qmd
-            - text: "Day 4 — KoboToolbox: Advanced"
+            - text: "Day 4"
               href: workshops/workshop-01/day-04.qmd
-            - text: "Day 5 — Fundamentals of Excel"
+            - text: "Day 5"
               href: workshops/workshop-01/day-05.qmd
-            - text: "Day 6 — Fundamentals of Excel"
+            - text: "Day 6"
               href: workshops/workshop-01/day-06.qmd
 
     - id: workshop-02
@@ -55,10 +57,22 @@ website:
           href: workshops/workshop-02/index.qmd
         - section: "Days"
           contents:
-            - text: "Day 1 — 01 Jun 2024"
+            - text: "Day 1"
               href: workshops/workshop-02/day-01.qmd
-            - text: "Day 2 — 02 Jun 2024"
+            - text: "Day 2"
               href: workshops/workshop-02/day-02.qmd
+
+  page-footer:
+    background: "#3f3731"
+    left:
+      - text: "© 2025 ARBO-WATCH Project"
+    center:
+      - text: "Implemented by ILRI and consortium partners"
+    right:
+      - text: "License"
+        href: license.qmd
+      - text: "Contact"
+        href: contact.qmd
 
 
 format:

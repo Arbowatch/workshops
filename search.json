@@ -1,0 +1,428 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ARBO-WATCH",
+    "section": "",
+    "text": "The ARBO-WATCH project seeks to design and deploy dengue and Chikungunya fever decision support tools informed by process-based models in Kenya, Somalia and Ethiopia. These analyses will utilize relevant primary and secondary data from all these countries to uncover broader epidemiological patterns of these diseases in the region. The project is being implemented by a consortium made up of nine institutions including ILRI, the Kenya Medical Research Institute, Kenya’s Ministry of Health, Jomo Kenyatta University of Agriculture and Technology, Ethiopia Public Health Institute, Global One Health Initiative, Ohio State University, Abrar University and the Ministry of Health Somalia.\nRead here to learn more about the project."
+  },
+  {
+    "objectID": "index.html#educators",
+    "href": "index.html#educators",
+    "title": "ARBO-WATCH",
+    "section": "Educators",
+    "text": "Educators\n\n\n\n\n\nHenry Athiany\n\n\n\nHenry Athiany\nResearch Biostatistician\nHenry Athiany is a Lecturer in the Department of Statistics and Actuarial Sciences (STACS) at JKUAT, with training in Biostatistics and Epidemiology and a background in Mathematics and Computer Science. His research spans epidemiology, infectious disease modelling, Bayesian and spatiotemporal analysis, clinical trials, statistical computing, bioinformatics, time-series forecasting, and mental health analytics. With over 15 years of experience working with large-scale eHealth and routinely collected healthcare data, he has contributed to national public health initiatives, including serving on Kenya’s COVID-19 Modelling Technical Committee and supporting multiple Ministry of Health projects on digital health systems, diagnostics optimization, and health information interoperability. He is also an experienced trainer in statistical software and research methods and has held leadership roles within the International Biometric Society and the Statistical Society of Kenya. Currently, he supports the ARBO-WATCH project as part of the JKUAT team.\n\n\n\n\n\n\nCaroline Wanja Mugo\n\n\n\nCaroline Wanja Mugo\nLecturer Biostatistics\nCaroline Wanja Mugo is a Lecturer in Biostatistics at JKUAT with a background in Biostatistics and Epidemiology. Her research interests include infectious disease epidemiology, statistical methods for public health, and data-driven decision-making. She has experience working with large datasets and routinely collected healthcare data, contributing to national public health initiatives. Caroline has also been involved in training and capacity-building efforts in biostatistics and epidemiology. She currently supports the ARBO-WATCH project as part of the JKUAT team."
+  },
+  {
+    "objectID": "index.html#workshop-schedule",
+    "href": "index.html#workshop-schedule",
+    "title": "ARBO-WATCH",
+    "section": "Workshop Schedule",
+    "text": "Workshop Schedule\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nfacilitator\n\n\n\n\n\n\n\n\n25 Aug 2025\n\n\nData Collection and Management\n\n\n \n\n\n\n\n\n\n27 Oct 2025\n\n\nIntroduction to R for Public Health Surveillance\n\n\n \n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "This work is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).\nYou are free to share and adapt the material for any purpose, provided appropriate credit is given.\n© ARBO-WATCH, 2025–2028."
+  },
+  {
+    "objectID": "workshops/workshop-02/index.html",
+    "href": "workshops/workshop-02/index.html",
+    "title": "Introduction to R for Public Health Surveillance",
+    "section": "",
+    "text": "Name\nInstitution\n\n\n\n\nKissinger Athiany\nJKUAT\n\n\nCaroline Wanja Mugo\nJKUAT\n\n\nProf Anthony Waititu\nJKUAT\n\n\nDr Charity Mkajuma Wamwea\nJKUAT\n\n\nDr Winnie Chacha\nJKUAT",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-02/index.html#facilitators",
+    "href": "workshops/workshop-02/index.html#facilitators",
+    "title": "Introduction to R for Public Health Surveillance",
+    "section": "",
+    "text": "Name\nInstitution\n\n\n\n\nKissinger Athiany\nJKUAT\n\n\nCaroline Wanja Mugo\nJKUAT\n\n\nProf Anthony Waititu\nJKUAT\n\n\nDr Charity Mkajuma Wamwea\nJKUAT\n\n\nDr Winnie Chacha\nJKUAT",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-02/index.html#prerequisites",
+    "href": "workshops/workshop-02/index.html#prerequisites",
+    "title": "Introduction to R for Public Health Surveillance",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nBefore attending, please ensure you have:\n\nCompleted Workshop 01\nInstalled the sf package in R: install.packages(\"sf\")\nReviewed the field safety guidelines (see Materials below)\nBrought sturdy footwear and waterproof field sheets",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-02/index.html#timetable",
+    "href": "workshops/workshop-02/index.html#timetable",
+    "title": "Introduction to R for Public Health Surveillance",
+    "section": "Timetable",
+    "text": "Timetable\n\n\n\nDay\nDate\nTopics\nFacilitator\n\n\n\n\nDay 1\n01 Jun 2024\nField Safety, Data Collection Methods, GPS Exercise\nJohn Smith, Jane Doe\n\n\nDay 2\n02 Jun 2024\nTransect Surveys, Data Entry and Validation\nJohn Smith",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-02/index.html#materials",
+    "href": "workshops/workshop-02/index.html#materials",
+    "title": "Introduction to R for Public Health Surveillance",
+    "section": "Materials",
+    "text": "Materials\n\nSlides\n\n\n\nDay\nLink\n\n\n\n\nDay 1\nView Slides\n\n\nDay 2\nView Slides\n\n\n\n\n\nR Scripts\n\n\n\nFile\nDescription\n\n\n\n\nanalysis.R\nField data summarisation script\n\n\n\n\n\nReference Documents\n\n\n\nFile\nDescription\n\n\n\n\nreference.pdf\nField protocols and data sheet templates",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-02/slides.html#overview",
+    "href": "workshops/workshop-02/slides.html#overview",
+    "title": "Workshop 02 - Field Data Collection",
+    "section": "Overview",
+    "text": "Overview\n\nField safety and survey protocols\nPoint count and transect methods\nRecording and validating field data"
+  },
+  {
+    "objectID": "workshops/workshop-02/slides.html#field-safety",
+    "href": "workshops/workshop-02/slides.html#field-safety",
+    "title": "Workshop 02 - Field Data Collection",
+    "section": "Field Safety",
+    "text": "Field Safety\n\nAlways work in pairs in the field\nNotify base camp of your location and expected return\nCarry a first aid kit and emergency contact list"
+  },
+  {
+    "objectID": "workshops/workshop-02/slides.html#point-count-method",
+    "href": "workshops/workshop-02/slides.html#point-count-method",
+    "title": "Workshop 02 - Field Data Collection",
+    "section": "Point Count Method",
+    "text": "Point Count Method\n\nStand at a fixed point for a set time (e.g. 10 minutes)\nRecord all arboreal species seen or heard within a radius\nRepeat at multiple points across the study area"
+  },
+  {
+    "objectID": "workshops/workshop-02/slides.html#transect-surveys",
+    "href": "workshops/workshop-02/slides.html#transect-surveys",
+    "title": "Workshop 02 - Field Data Collection",
+    "section": "Transect Surveys",
+    "text": "Transect Surveys\n\nWalk a fixed route at a slow pace\nRecord species, distance, and canopy height\nUse GPS to log the transect path"
+  },
+  {
+    "objectID": "workshops/workshop-02/slides.html#data-recording",
+    "href": "workshops/workshop-02/slides.html#data-recording",
+    "title": "Workshop 02 - Field Data Collection",
+    "section": "Data Recording",
+    "text": "Data Recording\n# Example field data structure\n# site, date, observer, species, count, canopy_height_m, notes\n\nUse standardised field sheets\nDouble-check species identifications in the field\nEnter data into the digital system within 24 hours"
+  },
+  {
+    "objectID": "workshops/workshop-02/slides.html#summary",
+    "href": "workshops/workshop-02/slides.html#summary",
+    "title": "Workshop 02 - Field Data Collection",
+    "section": "Summary",
+    "text": "Summary\n\nConsistent protocols ensure comparable data across sites\nGPS tracking links observations to spatial context\nCleaned field data feeds directly into R analysis workflows"
+  },
+  {
+    "objectID": "workshops/workshop-01/index.html",
+    "href": "workshops/workshop-01/index.html",
+    "title": "Data Collection and Management",
+    "section": "",
+    "text": "Name\nInstitution\n\n\n\n\nHerbert Imboga\nJKUAT\n\n\nSusan Mwelu\nJKUAT\n\n\nMatabel Odin\nJKUAT\n\n\nNicholas Makumi\nJKUAT\n\n\nDamaris Mulwa\nJKUAT\n\n\nAbas Mohamed\nEthiopia",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-01/index.html#timetable",
+    "href": "workshops/workshop-01/index.html#timetable",
+    "title": "Data Collection and Management",
+    "section": "Timetable",
+    "text": "Timetable\n25 August – 2 September 2025\n\n\n\nDate\nTime\nTopic\nActivities\nFacilitator\n\n\n\n\n21 Aug 2025 (Thu)\n10:00–11:00 AM\nPre-Training Session\nWelcome & orientation, icebreaker, Google Classroom & breakout rooms, plenary debrief, tech check, Q&A\nHenry Kissinger\n\n\n25 Aug 2025 (Mon)\n8:00–8:20 AM\nOpening Remarks & Training Launch\nTraining launch\nBernard Bett\n\n\n\n8:25–10:00 AM\nData Collection and Ethics\nPre-training survey, understanding data, principles of data collection, collection methods, tools, data management, quality management, security & ethics\nAnthony Waititu\n\n\n\n4:00–5:00 PM\nPractical Session\nData collection and ethics practicals\nMentors\n\n\n26 Aug 2025 (Tue)\n8:00–10:00 AM\nGoogle Forms\nIntroduction, form creation, question types, settings, themes, preview & publishing\nCharity Wamwea\n\n\n\n4:00–5:00 PM\nPractical Session\nGoogle Forms practicals\nMentors\n\n\n27 Aug 2025 (Wed)\n8:00–10:00 AM\nKobo Toolbox\nIntroduction, setup, form building, form management, data analysis, offline collection\nHenry Kissinger\n\n\n\n4:00–5:00 PM\nPractical Session\nKobo Toolbox practicals\nMentors\n\n\n28 Aug 2025 (Thu)\n8:00–10:00 AM\nExcel for Data-Driven Decision Making (Part I)\nData analysis processes and methods, Excel formulas and functions\nCharity Wamwea / Caroline Mugo\n\n\n\n4:00–5:00 PM\nPractical Session\nExcel practicals\nMentors\n\n\n1 Sep 2025 (Mon)\n8:00–10:00 AM\nExcel for Data-Driven Decision Making (Part II)\nData validation techniques, Power Query, Pivot Tables\nWinnie Chacha / Caroline Mugo\n\n\n\n4:00–5:00 PM\nPractical Session\nExcel practicals\nMentors\n\n\n2 Sep 2025 (Tue)\n8:00–10:00 AM\nExcel for Data-Driven Decision Making (Part III)\nData visualization, Excel charting, Pivot Charts, Interactive Dashboards, Post-training survey\nHenry Kissinger / Winnie Chacha\n\n\n\n4:00–5:00 PM\nPractical Session\nExcel practicals\nMentors\n\n\n\nDownload the schedule for easy reference throughout the training series.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-01/index.html#materials",
+    "href": "workshops/workshop-01/index.html#materials",
+    "title": "Data Collection and Management",
+    "section": "Materials",
+    "text": "Materials\n\nPre-Training Manual\nDownload Pre-Training Manual\n\n\nList of Participants and Sessions Groups\nDownload Participants List\n\n\nFacilitators\n\n\n\nName\nInstitution\n\n\n\n\nKissinger Athiany\nJKUAT\n\n\nCaroline Wanja Mugo\nJKUAT\n\n\nProf Anthony Waititu\nJKUAT\n\n\nDr Charity Mkajuma Wamwea\nJKUAT\n\n\nDr Winnie Chacha\nJKUAT\n\n\n\n\n\nParticipants\n\n\n\nName\nCountry\nGroup\nOrganisation\n\n\n\n\nHenok Tadesse Bireda\nEthiopia\n1\n\n\n\nAbdirahman Mohamed Abdullahi\nSomalia\n1\n\n\n\nSeth Ouma Okeyo\nKenya\n1\n\n\n\nHillary Chebon Chelanga\nKenya\n1\n\n\n\nShafie Abdulkadir Hassan\nSomalia\n1\n\n\n\nEdith C. Koskei\nKenya\n1\n\n\n\nJoel Lutomiah\nKenya\n1\n\n\n\nMikias Alayu Alemu\nEthiopia\n2\n\n\n\nMarian Muse Osman\nSomalia\n2\n\n\n\nYusuf Ajack Ibrahim\nKenya\n2\n\n\n\nAkengo Hellen\nKenya\n2\n\n\n\nLimbaso Konongoi\nKenya\n2\n\n\n\nAhmed Nor Osman Hassan\nSomalia\n2\n\n\n\nEsther Nyaboke Bundi\nKenya\n2\n\n\n\nAbraham Ali\nEthiopia\n3\n\n\n\nFrancis Oketch Ochieng\nKenya\n3\n\n\n\nAbdullahi Mohamed Mohamud\nSomalia\n3\n\n\n\nHellensyombwii Koka\nKenya\n3\n\n\n\nAbdirisak Suleiman Osman\nSomalia\n3\n\n\n\nMargaret Wairimu Wanyeki Nganga\nKenya\n3\n\n\n\nMillicent Makandi\nKenya\n3\n\n\n\nHamdi Ahmed Ali\nSomalia\n4\n\n\n\nFrancis Ng’Ang’A\nKenya\n4\n\n\n\nVictor Ofula\nKenya\n4\n\n\n\nSamuel Arach Owaka\nKenya\n4\n\n\n\nOsman Ahmed Mohamed\nSomalia\n4\n\n\n\nValentine Kabita\nKenya\n4\n\n\n\nMesfin Wossen\nEthiopia\n4\n\n\n\nWorku Fitesa\nEthiopia\n5\n\n\n\nAhmed Yusuf Mohamed\nSomalia\n5\n\n\n\nEdith Chepkorir\nKenya\n5\n\n\n\nAbdulkarim Abdulle Yusuf\nSomalia\n5\n\n\n\nEvalyne Kanyina\nKenya\n5\n\n\n\nAbate Tensai\nEthiopia\n5\n\n\n\nSafia Hassan\nKenya\n5\n\n\n\nMohamed Abdirahman Hashi\nSomalia\n6\n\n\n\nFitsum Bekele Endeshaw\nEthiopia\n6\n\n\n\nLangat Kipngetich Solomon\nKenya\n6\n\n\n\nAlbert Nyunja\nKenya\n6\n\n\n\nMulugeta Geremew\nEthiopia\n6\n\n\n\nNicholas Kurgat\nKenya\n6\n\n\n\nAbdulrizak Suleiman Osman\nSomalia\n6\n\n\n\nAamir Muse Osman\nSomalia\n7\n\n\n\nJames Mutisya\nKenya\n7\n\n\n\nSamson Warkaye Lamma\nEthiopia\n7\n\n\n\nFrancis Mulwa Musili\nKenya\n7\n\n\n\nAsnake Worku\nEthiopia\n7\n\n\n\nOscar Gaunya\nKenya\n7",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-01/day-04.html",
+    "href": "workshops/workshop-01/day-04.html",
+    "title": "Digital Data Collection Tools - KoboCollect",
+    "section": "",
+    "text": "Schedule\n\n\n\nTime\nActivity\nFacilitator\n\n\n\n\n8:00 – 10:00 AM\nBuilding forms\nHenry Kissinger\n\n\n\nManaging forms\n\n\n\n\nAnalyzing data\n\n\n\n\nOffline data collection\n\n\n\n4:00 – 5:00 PM\nPracticals\nMentors\n\n\n\n\n\nMaterials\nDownload zip\n\n\nReference Document\n\n\nDownload PDF\n\n\nVideo Recording",
+    "crumbs": [
+      "Days",
+      "Day 4"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-01/day-01.html",
+    "href": "workshops/workshop-01/day-01.html",
+    "title": "Pre-Training Session",
+    "section": "",
+    "text": "Schedule\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator\n\n\n\n\n10:00 – 11:00 AM\nWelcome & orientation (5 min)\nHenry Kissinger\n\n\n\nIcebreaker Activity (5 min)\n\n\n\n\nIntroduction to Google Classroom & Breakout Rooms + Activity (25 min)\n\n\n\n\nPlenary debrief (10 min)\n\n\n\n\nTech check & logistics (10 min)\n\n\n\n\nQ&A and closing (5 min)",
+    "crumbs": [
+      "Days",
+      "Day 1"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-01/day-03.html",
+    "href": "workshops/workshop-01/day-03.html",
+    "title": "Digital Data Collection Tools - KoboCollect",
+    "section": "",
+    "text": "Schedule\n\n\n\nTime\nActivity\nFacilitator\n\n\n\n\n8:00 – 10:00 AM\nIntroduction to Kobo\nHenry Kissinger\n\n\n\nSetting up Kobo\n\n\n\n\nBuilding forms\n\n\n\n\nManaging forms\n\n\n\n\nAnalyzing data\n\n\n\n\nOffline data collection\n\n\n\n4:00 – 5:00 PM\nPracticals\nMentors\n\n\n\n\n\nMaterials\nDownload zip\n\n\nReference Document\n\n\nDownload PDF\n\n\nVideo Recordings",
+    "crumbs": [
+      "Days",
+      "Day 3"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-01/day-02.html",
+    "href": "workshops/workshop-01/day-02.html",
+    "title": "Digital Data Collection Tools: Getting Started on Google Forms",
+    "section": "",
+    "text": "Schedule\n\n\n\nTime\nActivity\nFacilitator\n\n\n\n\n8:00 - 8:20 AM\nOpening Remarks and Training Launch\nBernard Bett\n\n\n8:25 - 10:00 AM\nPre-training Survey\nAnthony Waititu\n\n\n\nUnderstanding data and its importance\n\n\n\n\nPrinciples of good data collection\n\n\n\n\nMethods of data collection\n\n\n\n\nTools for data collection\n\n\n\n\nData management concepts\n\n\n\n\nData quality management\n\n\n\n\nData security and ethics\n\n\n\n4:00 - 5:00 PM\nPracticals on data collection and ethics\nMentors\n\n\n\n\n\nMaterials\nDownload zip\n\n\nReference Document\n\n\nDownload PDF\n\n\nQuiz\n\nFollow the link to complete the quiz Data Collection and Ethics Quiz\n\n\n\nAssignment\n\nFollow the link to find the assignment Google Form Assignment\n\n\n\nVideo Recordings\n\nSession 1\n\n\n\nSession 2",
+    "crumbs": [
+      "Days",
+      "Day 2"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-01/slides.html#welcome",
+    "href": "workshops/workshop-01/slides.html#welcome",
+    "title": "Workshop 01 - Introduction to ARBO-WATCH",
+    "section": "Welcome",
+    "text": "Welcome\n\nIntroduction to the ARBO-WATCH project\nGoals and scope of the 4-year programme\nMeet the team"
+  },
+  {
+    "objectID": "workshops/workshop-01/slides.html#what-is-arboreal-monitoring",
+    "href": "workshops/workshop-01/slides.html#what-is-arboreal-monitoring",
+    "title": "Workshop 01 - Introduction to ARBO-WATCH",
+    "section": "What is Arboreal Monitoring?",
+    "text": "What is Arboreal Monitoring?\n\nSystematic observation of tree-dwelling species\nLong-term data collection for biodiversity assessment\nIntegration of field methods and digital tools"
+  },
+  {
+    "objectID": "workshops/workshop-01/slides.html#project-structure",
+    "href": "workshops/workshop-01/slides.html#project-structure",
+    "title": "Workshop 01 - Introduction to ARBO-WATCH",
+    "section": "Project Structure",
+    "text": "Project Structure\n\n4 years, multiple workshops per year\nMix of theory, field practice, and data analysis\nOpen materials and reproducible workflows"
+  },
+  {
+    "objectID": "workshops/workshop-01/slides.html#tools-we-will-use",
+    "href": "workshops/workshop-01/slides.html#tools-we-will-use",
+    "title": "Workshop 01 - Introduction to ARBO-WATCH",
+    "section": "Tools We Will Use",
+    "text": "Tools We Will Use\n\nR and the tidyverse\nQuarto for reproducible reporting\nField data sheets and GPS devices"
+  },
+  {
+    "objectID": "workshops/workshop-01/slides.html#hands-on-exercise",
+    "href": "workshops/workshop-01/slides.html#hands-on-exercise",
+    "title": "Workshop 01 - Introduction to ARBO-WATCH",
+    "section": "Hands-on Exercise",
+    "text": "Hands-on Exercise\n\nInstall R and RStudio\nExplore the sample dataset\nProduce your first summary table"
+  },
+  {
+    "objectID": "workshops/workshop-01/slides.html#summary",
+    "href": "workshops/workshop-01/slides.html#summary",
+    "title": "Workshop 01 - Introduction to ARBO-WATCH",
+    "section": "Summary",
+    "text": "Summary\n\nARBO-WATCH monitors arboreal biodiversity over 4 years\nWorkshops combine field skills with data analysis\nAll materials are freely available under CC BY 4.0"
+  },
+  {
+    "objectID": "workshops/workshop-01/day-06.html",
+    "href": "workshops/workshop-01/day-06.html",
+    "title": "Fundamentals of Excel for Data Driven Decision Making",
+    "section": "",
+    "text": "Time\nActivity\nFacilitator\n\n\n\n\n8:00 – 10:00 AM\nData Validation Techniques\nWinnie Chacha / Henry Kissinger / Caroline Mugo\n\n\n\nPower Query\n\n\n\n\nPivot Tables\n\n\n\n\nData Visualization & Excel Charting\n\n\n\n\nPivot Charts\n\n\n\n\nInteractive Dashboards\n\n\n\n\nPost-training Survey\n\n\n\n4:00 – 5:00 PM\nPracticals\nMentors",
+    "crumbs": [
+      "Days",
+      "Day 6"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-01/day-06.html#video-recording",
+    "href": "workshops/workshop-01/day-06.html#video-recording",
+    "title": "Fundamentals of Excel for Data Driven Decision Making",
+    "section": "Video Recording",
+    "text": "Video Recording",
+    "crumbs": [
+      "Days",
+      "Day 6"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-01/day-05.html",
+    "href": "workshops/workshop-01/day-05.html",
+    "title": "Fundamentals of Excel for Data Driven Decision Making",
+    "section": "",
+    "text": "Time\nActivity\nFacilitator\n\n\n\n\n8:00 – 10:00 AM\nProcess and Methods of Data Analysis\nCharity Wamwea / Caroline Mugo\n\n\n\nExcel Formulas and Functions\n\n\n\n\nText Functions\n\n\n\n\nReference Functions\n\n\n\n\nDate Functions\n\n\n\n\nConditional Formatting\n\n\n\n4:00 – 5:00 PM\nPracticals\nMentors",
+    "crumbs": [
+      "Days",
+      "Day 5"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-01/day-05.html#video-recording",
+    "href": "workshops/workshop-01/day-05.html#video-recording",
+    "title": "Fundamentals of Excel for Data Driven Decision Making",
+    "section": "Video Recording",
+    "text": "Video Recording",
+    "crumbs": [
+      "Days",
+      "Day 5"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-02/day-02.html",
+    "href": "workshops/workshop-02/day-02.html",
+    "title": "Workshop 02 — Day 2",
+    "section": "",
+    "text": "Time\nTopic\nFacilitator\n\n\n\n\n09:00 - 09:30\nRecap & Field Data Review\nJohn Smith\n\n\n09:30 - 10:30\nTransect Survey Practice\nJane Doe\n\n\n10:30 - 10:45\nBreak\n\n\n\n10:45 - 12:00\nData Entry and Validation\nJohn Smith",
+    "crumbs": [
+      "Days",
+      "Day 2"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-02/day-02.html#schedule",
+    "href": "workshops/workshop-02/day-02.html#schedule",
+    "title": "Workshop 02 — Day 2",
+    "section": "",
+    "text": "Time\nTopic\nFacilitator\n\n\n\n\n09:00 - 09:30\nRecap & Field Data Review\nJohn Smith\n\n\n09:30 - 10:30\nTransect Survey Practice\nJane Doe\n\n\n10:30 - 10:45\nBreak\n\n\n\n10:45 - 12:00\nData Entry and Validation\nJohn Smith",
+    "crumbs": [
+      "Days",
+      "Day 2"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-02/day-02.html#video-recording",
+    "href": "workshops/workshop-02/day-02.html#video-recording",
+    "title": "Workshop 02 — Day 2",
+    "section": "Video Recording",
+    "text": "Video Recording",
+    "crumbs": [
+      "Days",
+      "Day 2"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-02/day-02.html#slides",
+    "href": "workshops/workshop-02/day-02.html#slides",
+    "title": "Workshop 02 — Day 2",
+    "section": "Slides",
+    "text": "Slides\nView Slides",
+    "crumbs": [
+      "Days",
+      "Day 2"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-02/day-02.html#r-code",
+    "href": "workshops/workshop-02/day-02.html#r-code",
+    "title": "Workshop 02 — Day 2",
+    "section": "R Code",
+    "text": "R Code\n\n\nanalysis.R\n\nlibrary(tidyverse)\n\n# Validate field entries\ndf &lt;- read_csv(\"field_data.csv\")\n\ndf |&gt;\n  filter(is.na(species) | is.na(count)) |&gt;\n  nrow()  # should be 0 after cleaning\n\ndf |&gt;\n  distinct(site) |&gt;\n  arrange(site)\n\nDownload R Script",
+    "crumbs": [
+      "Days",
+      "Day 2"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-02/day-02.html#reference-document",
+    "href": "workshops/workshop-02/day-02.html#reference-document",
+    "title": "Workshop 02 — Day 2",
+    "section": "Reference Document",
+    "text": "Reference Document\n\n\nDownload PDF",
+    "crumbs": [
+      "Days",
+      "Day 2"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-02/day-01.html",
+    "href": "workshops/workshop-02/day-01.html",
+    "title": "Workshop 02 — Day 1",
+    "section": "",
+    "text": "Time\nTopic\nFacilitator\n\n\n\n\n09:00 - 09:30\nField Safety & Protocols\nJohn Smith\n\n\n09:30 - 10:30\nData Collection Methods\nJohn Smith\n\n\n10:30 - 10:45\nBreak\n\n\n\n10:45 - 12:00\nGPS and Data Sheets Exercise\nJane Doe",
+    "crumbs": [
+      "Days",
+      "Day 1"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-02/day-01.html#schedule",
+    "href": "workshops/workshop-02/day-01.html#schedule",
+    "title": "Workshop 02 — Day 1",
+    "section": "",
+    "text": "Time\nTopic\nFacilitator\n\n\n\n\n09:00 - 09:30\nField Safety & Protocols\nJohn Smith\n\n\n09:30 - 10:30\nData Collection Methods\nJohn Smith\n\n\n10:30 - 10:45\nBreak\n\n\n\n10:45 - 12:00\nGPS and Data Sheets Exercise\nJane Doe",
+    "crumbs": [
+      "Days",
+      "Day 1"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-02/day-01.html#video-recording",
+    "href": "workshops/workshop-02/day-01.html#video-recording",
+    "title": "Workshop 02 — Day 1",
+    "section": "Video Recording",
+    "text": "Video Recording",
+    "crumbs": [
+      "Days",
+      "Day 1"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-02/day-01.html#slides",
+    "href": "workshops/workshop-02/day-01.html#slides",
+    "title": "Workshop 02 — Day 1",
+    "section": "Slides",
+    "text": "Slides\nView Slides",
+    "crumbs": [
+      "Days",
+      "Day 1"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-02/day-01.html#r-code",
+    "href": "workshops/workshop-02/day-01.html#r-code",
+    "title": "Workshop 02 — Day 1",
+    "section": "R Code",
+    "text": "R Code\n\n\nanalysis.R\n\nlibrary(tidyverse)\nlibrary(sf)\n\n# Load field data\ndf &lt;- read_csv(\"field_data.csv\")\n\n# Summarise observations by site\ndf |&gt;\n  group_by(site, species) |&gt;\n  summarise(total = sum(count), .groups = \"drop\") |&gt;\n  arrange(site, desc(total))\n\nDownload R Script",
+    "crumbs": [
+      "Days",
+      "Day 1"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-02/day-01.html#reference-document",
+    "href": "workshops/workshop-02/day-01.html#reference-document",
+    "title": "Workshop 02 — Day 1",
+    "section": "Reference Document",
+    "text": "Reference Document\n\n\nDownload PDF",
+    "crumbs": [
+      "Days",
+      "Day 1"
+    ]
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Get in Touch",
+    "section": "",
+    "text": "For questions about the ARBO-WATCH training programme, please reach out via:\n\nEMAIL:\nPHONE:"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]

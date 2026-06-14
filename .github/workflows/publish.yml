@@ -1,19 +1,23 @@
 on:
+  workflow_dispatch:
   push:
-    branches: [main]
+    branches: main
 
-name: Render and Publish
+name: Quarto Publish
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
-      - name: Check out repository
+
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Quarto
+      - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Render and Publish

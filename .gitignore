@@ -4,7 +4,7 @@ agent.md
 .vscode/
 
 _site/
-_freeze/
+# _freeze/ is intentionally tracked for GitHub Actions (freeze: auto)
 /.quarto/
 
 # Quarto rendered outputs (go to _site/ via output-dir)

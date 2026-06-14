@@ -22,7 +22,7 @@ website:
       - href: license.qmd
         text: License
       - icon: github
-        href: https://github.com/your-org/arbowatch-workshops
+        href: https://github.com/Arbowatch/workshops
         aria-label: GitHub
 
   sidebar:

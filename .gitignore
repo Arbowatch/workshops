@@ -1,22 +1,25 @@
 agent.md
+
 .DS_Store
 .idea/
 .vscode/
 
-_site/
-_freeze/
+# Quarto
 /.quarto/
+_site/
 
-# Quarto rendered outputs (go to _site/ via output-dir)
-/*.html
-/index-listing.json
-workshops/**/*.html
+# Keep freeze results for CI
+# /_freeze/ intentionally NOT ignored
+
+# Render artifacts
 site_libs/
+.quarto_ipynb/
+
+# Quarto notebook outputs
+**/*.quarto_ipynb
 
 # R
 .Rhistory
 .RData
 .Rproj.user/
 *.Rproj
-
-**/*.quarto_ipynb

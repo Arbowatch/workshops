@@ -1,29 +1,15 @@
 ---
-title: "Data Collection and Ethics"
-date: 2024-03-01
+title: "Pre-Training Session"
+date: 2025-08-21
 ---
 
-## Schedule
+### Schedule
 
-| Time | Topic | Facilitator |
-|---|---|---|
-| 09:00 - 09:30 | Welcome & Project Overview | Jane Doe |
-| 09:30 - 10:30 | Introduction to Arboreal Monitoring | Jane Doe |
-| 10:30 - 10:45 | Break | |
-| 10:45 - 12:00 | Hands-on Exercise: Getting Started | Maria Lopez |
-
-## Video Recording
-
-{{< video https://www.youtube.com/watch?v=VIDEO_ID >}}
-
-## Slides
-
-[View Slides](slides.qmd){.btn .btn-primary}
-
-
-## Reference Documents
-
-<iframe src="reference.pdf" width="100%" height="600px" style="border: none;"></iframe>
-
-[Download PDF](materials/day_1/Data%20Collection%20and%20Ethics%20Slides.pdf){.btn .btn-outline-primary}
-
+| Time | Activity | Facilitator |
+| ---- | -------- | ----------- |
+| 10:00 – 11:00 AM | Welcome & orientation (5 min) | Henry Kissinger |
+| | Icebreaker Activity (5 min) | |
+| | Introduction to Google Classroom & Breakout Rooms + Activity (25 min) | |
+| | Plenary debrief (10 min) | |
+| | Tech check & logistics (10 min) | |
+| | Q&A and closing (5 min) | |

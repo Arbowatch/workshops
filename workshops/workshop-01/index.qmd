@@ -1,24 +1,29 @@
 ---
 title: "Data Collection and Management"
 date: 2025-08-25
-categories: [data-management, data-collection]
-description: "Data collection and management"
+description: "This workshop introduces participants to the ARBO-WATCH project; its goals, structure, and the monitoring framework that underpins project. By the end of this workshop, participants will understand the field and data workflows used throughout the series."
 ---
 
-## About This Workshop
+### Mentors
 
-This workshop introduces participants to the ARBO-WATCH project — its goals, structure, and the monitoring framework that underpins the 4-year programme. By the end of this workshop, participants will understand the field and data workflows used throughout the series.
+| Name | Institution |
+| ---- |------------ |
+| Herbert Imboga | JKUAT |
+| Susan Mwelu | JKUAT |
+| Matabel Odin | JKUAT |
+| Nicholas Makumi | JKUAT |
+| Damaris Mulwa | JKUAT |
+| Abas Mohamed | Ethiopia |
 
 
-
-## Prerequisites
+### Prerequisites
 
 Before attending, please ensure you have:
 
 - Installed [R](https://cran.r-project.org/) (version ≥ 4.2) and [RStudio](https://posit.co/download/rstudio-desktop/)
 - Downloaded and installed [QGIS](https://qgis.org/en/site/forusers/download.html) software
 - Installed Kobo Toolbox on your mobile device (available on [Google Play](https://play.google.com/store/apps/details?id=org.koboc.collect.android) and [App Store](https://apps.apple.com/app/id323229106))
-- Have a working laptop/computer with at least 4 GB of free disk space
+- Have a working laptop/computer with at least 4 GB of RAM and 256 GB of storage.
 
 
 
@@ -40,16 +45,80 @@ Before attending, please ensure you have:
 |                       | 4:00–5:00 PM   | Practical Session                                | Excel practicals                                                                                                                                          | Mentors                         |
 | [**1 Sep 2025 (Mon)**](day-06.qmd)  | 8:00–10:00 AM  | Excel for Data-Driven Decision Making (Part II)  | Data validation techniques, Power Query, Pivot Tables                                                                                                     | Winnie Chacha / Caroline Mugo   |
 |                       | 4:00–5:00 PM   | Practical Session                                | Excel practicals                                                                                                                                          | Mentors                         |
-| [**2 Sep 2025 (Tue)**](day-07.qmd)  | 8:00–10:00 AM  | Excel for Data-Driven Decision Making (Part III) | Data visualization, Excel charting, Pivot Charts, Interactive Dashboards, Post-training survey                                                            | Henry Kissinger / Winnie Chacha |
+| [**2 Sep 2025 (Tue)**](day-06.qmd)  | 8:00–10:00 AM  | Excel for Data-Driven Decision Making (Part III) | Data visualization, Excel charting, Pivot Charts, Interactive Dashboards, Post-training survey                                                            | Henry Kissinger / Winnie Chacha |
 |                       | 4:00–5:00 PM   | Practical Session                                | Excel practicals                                                                                                                                          | Mentors                         |
 
+Download the [schedule](/materials/workshop_1/Arbo%20Watch%20Training%20Schedule.pdf){.btn .btn-secondary} for easy reference throughout the training series.
 
 
 ## Materials
 
 #### Pre-Training Manual
-[Download Pre-Training Manual](pre-training-manual.pdf){.btn .btn-primary}
+[Download Pre-Training Manual](/materials/workshop_1/Arbowatch%20Course%20Manual%202025.pdf){.btn .btn-primary}
 
 #### List of Participants and Sessions Groups
-[Download Participants List](participants.pdf){.btn .btn-primary}
+[Download Participants List](/materials/workshop_1/Participants%20and%20Groups.pdf){.btn .btn-primary}
 
+### Facilitators
+
+| Name | Institution |
+| ---- |------------ |
+| Kissinger Athiany | JKUAT |
+| Caroline Wanja Mugo | JKUAT |
+| Prof Anthony Waititu | JKUAT |
+| Dr Charity Mkajuma Wamwea | JKUAT |
+| Dr Winnie Chacha | JKUAT |
+
+
+### Participants
+
+| Name                            | Country  | Group | Organisation |
+| ------------------------------- | -------- | ------| ------------- |
+| Henok Tadesse Bireda            | Ethiopia | 1
+| Abdirahman Mohamed Abdullahi    | Somalia  | 1
+| Seth Ouma Okeyo                 | Kenya    | 1
+| Hillary Chebon Chelanga         | Kenya    | 1
+| Shafie Abdulkadir Hassan        | Somalia  | 1
+| Edith C. Koskei                 | Kenya    | 1
+| Joel Lutomiah                   | Kenya    | 1
+| Mikias Alayu Alemu              | Ethiopia | 2
+| Marian Muse Osman               | Somalia  | 2
+| Yusuf Ajack Ibrahim             | Kenya    | 2
+| Akengo Hellen                   | Kenya    | 2
+| Limbaso Konongoi                | Kenya    | 2
+| Ahmed Nor Osman Hassan          | Somalia  | 2
+| Esther Nyaboke Bundi            | Kenya    | 2
+| Abraham Ali                     | Ethiopia | 3
+| Francis Oketch Ochieng          | Kenya    | 3
+| Abdullahi Mohamed Mohamud       | Somalia  | 3
+| Hellensyombwii Koka             | Kenya    | 3
+| Abdirisak Suleiman Osman        | Somalia  | 3
+| Margaret Wairimu Wanyeki Nganga | Kenya    | 3
+| Millicent Makandi               | Kenya    | 3
+| Hamdi Ahmed Ali                 | Somalia  | 4
+| Francis Ng'Ang'A                | Kenya    | 4
+| Victor Ofula                    | Kenya    | 4
+| Samuel Arach Owaka              | Kenya    | 4
+| Osman Ahmed Mohamed             | Somalia  | 4
+| Valentine Kabita                | Kenya    | 4
+| Mesfin Wossen                   | Ethiopia | 4
+| Worku Fitesa                    | Ethiopia | 5
+| Ahmed Yusuf Mohamed             | Somalia  | 5
+| Edith Chepkorir                 | Kenya    | 5
+| Abdulkarim Abdulle Yusuf        | Somalia  | 5
+| Evalyne Kanyina                 | Kenya    | 5
+| Abate Tensai                    | Ethiopia | 5
+| Safia Hassan                    | Kenya    | 5
+| Mohamed Abdirahman Hashi        | Somalia  | 6
+| Fitsum Bekele Endeshaw          | Ethiopia | 6
+| Langat Kipngetich Solomon       | Kenya    | 6
+| Albert Nyunja                   | Kenya    | 6
+| Mulugeta Geremew                | Ethiopia | 6
+| Nicholas Kurgat                 | Kenya    | 6
+| Abdulrizak Suleiman Osman       | Somalia  | 6
+| Aamir Muse Osman                | Somalia  | 7
+| James Mutisya                   | Kenya    | 7
+| Samson Warkaye Lamma            | Ethiopia | 7
+| Francis Mulwa Musili            | Kenya    | 7
+| Asnake Worku                    | Ethiopia | 7
+| Oscar Gaunya                    | Kenya    | 7

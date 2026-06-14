@@ -1,29 +1,51 @@
 ---
-title: "Workshop 01 — Day 2"
-subtitle: "Monitoring Protocols & Group Discussion"
-date: 2024-03-02
+title: "Digital Data Collection Tools: Getting Started on Google Forms"
+subtitle: "Using Google Forms for data collection and management"
+date: 2024-08-25
 ---
 
-## Schedule
+### Schedule
 
-| Time | Topic | Facilitator |
-|---|---|---|
-| 09:00 - 09:30 | Recap of Day 1 | Jane Doe |
-| 09:30 - 10:30 | Deep Dive: Monitoring Protocols | Jane Doe |
-| 10:30 - 10:45 | Break | |
-| 10:45 - 12:00 | Group Discussion & Q&A | Maria Lopez |
+| Time | Activity | Facilitator |
+| ---- | -------- | ----------- |
+| 8:00 - 8:20 AM | Opening Remarks and Training Launch | Bernard Bett |
+| 8:25 - 10:00 AM | Pre-training Survey | Anthony Waititu |
+| | Understanding data and its importance | |
+| | Principles of good data collection | |
+| | Methods of data collection | |
+| | Tools for data collection | |
+| | Data management concepts | |
+| | Data quality management | |
+| | Data security and ethics | |
+| 4:00 - 5:00 PM | Practicals on data collection and ethics | Mentors |
 
-## Video Recording
 
+### Materials 
+
+[Download zip](/materials/workshop_1/day-2/day_2.zip){.btn .btn-secondary}
+
+### Reference Document
+
+<iframe src="/materials/workshop_1/day-2/Data%20Collection%20and%20Ethics%20Slides.pdf" width="100%" height="600px" style="border: none;"></iframe>
+
+[Download PDF](/materials/workshop_1/day-2/Data%20Collection%20and%20Ethics%20Slides.pdf){.btn .btn-outline-primary}
+
+
+### Quiz
+- Follow the link to complete the quiz
+[Data Collection and Ethics Quiz](https://forms.gle/bvPuAryFnt3HowMFA)
+
+
+### Assignment
+- Follow the link to find the assignment
+[Google Form Assignment](/materials/workshop_1/day-2/Google%20Form%20Assignment.pdf)
+
+
+### Video Recordings
+
+#### Session 1
 {{< video https://www.youtube.com/watch?v=VIDEO_ID >}}
 
-## Slides
 
-[View Slides](slides.qmd){.btn .btn-primary}
-
-## Reference Document
-
-<iframe src="reference.pdf" width="100%" height="600px" style="border: none;"></iframe>
-
-[Download PDF](reference.pdf){.btn .btn-outline-primary}
-
+#### Session 2
+{{< video https://www.youtube.com/watch?v=VIDEO_ID >}}

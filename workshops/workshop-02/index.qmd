@@ -1,15 +1,19 @@
 ---
 title: "Introduction to R for Public Health Surveillance"
 date: 2025-10-27
-categories: [intro-to-R, data-collection]
-description: "Introduction to R for public health surveillance."
+description: "This workshop introduces participants to the basics of R programming for public health surveillance. Participants will learn how to import, clean, and visualize data, as well as perform basic statistical analyses."
 ---
 
-## About This Workshop
+## Facilitators
 
-This workshop introduces participants to the basics of R programming for public health surveillance. Participants will learn how to import, clean, and visualize data, as well as perform basic statistical analyses.
+| Name | Institution |
+| ---- |------------ |
+| Kissinger Athiany | JKUAT |
+| Caroline Wanja Mugo | JKUAT |
+| Prof Anthony Waititu | JKUAT |
+| Dr Charity Mkajuma Wamwea | JKUAT |
+| Dr Winnie Chacha | JKUAT |
 
----
 
 ## Prerequisites
 
@@ -20,7 +24,7 @@ Before attending, please ensure you have:
 - Reviewed the field safety guidelines (see Materials below)
 - Brought sturdy footwear and waterproof field sheets
 
----
+
 
 ## Timetable
 
@@ -29,7 +33,6 @@ Before attending, please ensure you have:
 | [Day 1](day-01.qmd) | 01 Jun 2024 | Field Safety, Data Collection Methods, GPS Exercise | John Smith, Jane Doe |
 | [Day 2](day-02.qmd) | 02 Jun 2024 | Transect Surveys, Data Entry and Validation | John Smith |
 
----
 
 ## Materials
 

@@ -4,9 +4,44 @@ body {
 }
 
 /* ----- Navbar ----- */
+.navbar {
+  background-color: #3f3731 !important;
+  border-bottom: 3px solid #682622;
+}
+
 .navbar-brand {
   font-weight: 700;
   letter-spacing: 0.03em;
+  color: #fff !important;
+}
+
+.navbar .nav-link {
+  color: rgba(255, 255, 255, 0.85) !important;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus,
+.navbar .nav-link.active,
+.navbar .nav-link.show {
+  color: #fff !important;
+  background-color: #682622 !important;
+  border-radius: 4px;
+}
+
+.navbar .dropdown-menu {
+  background-color: #3f3731;
+  border: 1px solid #682622;
+}
+
+.navbar .dropdown-item {
+  color: rgba(255, 255, 255, 0.85) !important;
+}
+
+.navbar .dropdown-item:hover,
+.navbar .dropdown-item:focus,
+.navbar .dropdown-item.active {
+  background-color: #682622 !important;
+  color: #fff !important;
 }
 
 .navbar-brand-logo .navbar-logo {
@@ -21,27 +56,58 @@ body {
 }
 
 /* ----- Page headings ----- */
+h1, h2, h3 {
+  color: #3f3731;
+}
+
 h2 {
   padding-bottom: 0.3rem;
   margin-top: 2rem;
+  border-bottom: 2px solid #682622;
 }
 
 /* ----- Sidebar ----- */
+#quarto-sidebar {
+  width: 200px !important;
+  min-width: 200px !important;
+}
+
 .sidebar-navigation .sidebar-section-item {
   font-weight: 600;
   text-transform: uppercase;
   font-size: 0.75rem;
   letter-spacing: 0.06em;
-  margin-top: 0.75rem;
+  margin-top: 1rem;
+  color: #3f3731;
+}
+
+.sidebar-navigation .sidebar-item {
+  margin-bottom: 0.35rem;
 }
 
 .sidebar-navigation .sidebar-item a {
-  font-size: 0.9rem;
+  font-size: 0.875rem;
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+  display: block;
+  color: #3f3731;
+  border-radius: 4px;
+  transition: background-color 0.15s, color 0.15s;
 }
 
-.sidebar-navigation .sidebar-item-container .active {
+.sidebar-navigation .sidebar-item a:hover,
+.sidebar-navigation .sidebar-item a:focus {
+  background-color: rgba(104, 38, 34, 0.1) !important;
+  color: #682622 !important;
+  text-decoration: none;
+}
+
+.sidebar-navigation .sidebar-item-container .active,
+.sidebar-navigation .sidebar-item-container .active a {
   font-weight: 600;
   border-radius: 4px;
+  background-color: #682622 !important;
+  color: #fff !important;
 }
 
 /* ----- Educator profiles ----- */
@@ -98,6 +164,28 @@ h2 {
   border-radius: 4px;
 }
 
+.btn-primary {
+  background-color: #682622 !important;
+  border-color: #682622 !important;
+  color: #fff !important;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #3f3731 !important;
+  border-color: #3f3731 !important;
+}
+
+/* ----- Links ----- */
+a {
+  color: #682622;
+}
+
+a:hover,
+a:focus {
+  color: #3f3731;
+}
+
 /* ----- Tables ----- */
 table {
   font-size: 0.93rem;
@@ -106,6 +194,12 @@ table {
 
 thead th {
   font-weight: 600;
+  background-color: #3f3731;
+  color: #fff;
+}
+
+tbody tr:hover {
+  background-color: rgba(104, 38, 34, 0.07);
 }
 
 /* ----- Workshop listing table ----- */

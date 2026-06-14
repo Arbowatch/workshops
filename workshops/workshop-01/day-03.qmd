@@ -1,29 +1,35 @@
 ---
 title: "Digital Data Collection Tools - KoboCollect"
 subtitle: "Getting Started"
-date: 2024-03-02
+date: 2025-08-27
 ---
 
-## Schedule
 
-| Time | Topic | Facilitator |
-|---|---|---|
-| 09:00 - 09:30 | Recap of Day 1 | Jane Doe |
-| 09:30 - 10:30 | Deep Dive: Monitoring Protocols | Jane Doe |
-| 10:30 - 10:45 | Break | |
-| 10:45 - 12:00 | Group Discussion & Q&A | Maria Lopez |
+### Schedule
 
-## Video Recording
+| Time | Activity | Facilitator |
+| ---- | -------- | ----------- |
+| 8:00 – 10:00 AM | Introduction to Kobo | Henry Kissinger |
+| | Setting up Kobo | |
+| | Building forms | |
+| | Managing forms | |
+| | Analyzing data | |
+| | Offline data collection | |
+| 4:00 – 5:00 PM | Practicals | Mentors |
 
+### Materials 
+
+[Download zip](/materials/workshop_1/day-3/day_3.zip){.btn .btn-secondary}
+
+### Reference Document
+
+<iframe src="/materials/workshop_1/day-3/Kobocollect%20Training%20Manual.pdf" width="100%" height="600px" style="border: none;"></iframe>
+
+[Download PDF](/materials/workshop_1/day-3/Kobocollect%20Training%20Manual.pdf){.btn .btn-outline-primary}
+
+
+### Video Recordings
 {{< video https://www.youtube.com/watch?v=VIDEO_ID >}}
 
-## Slides
 
-[View Slides](slides.qmd){.btn .btn-primary}
-
-## Reference Document
-
-<iframe src="reference.pdf" width="100%" height="600px" style="border: none;"></iframe>
-
-[Download PDF](reference.pdf){.btn .btn-outline-primary}
 

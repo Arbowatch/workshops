@@ -20,3 +20,4 @@ site_libs/
 *.Rproj
 
 **/*.quarto_ipynb
+*.html

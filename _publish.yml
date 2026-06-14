@@ -1,4 +1,0 @@
-- source: project
-  gh-pages:
-    - id: gh-pages
-      url: 'https://arbowatch.github.io/workshops/'

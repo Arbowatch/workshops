@@ -24,6 +24,7 @@ jobs:
         with:
           target: gh-pages
           render: true
+          publish-args: '--id gh-pages'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           

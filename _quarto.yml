@@ -81,8 +81,3 @@ format:
     toc-depth: 2
     code-tools: false
     code-copy: false
-  revealjs:
-    theme: default
-    slide-number: true
-    chalkboard: false
-    preview-links: true

@@ -1,0 +1,922 @@
+location,trap_set_date,week_ending_saturday,epi_week,year,site_type,lat,lon,lga_code_2011,lga_name_2011,lga_code_2016,lga_name_2016,lga_name_2020,lhd,virus
+Leeton,09/01/1995,14/01/1995,3,6/17/1905,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Barmah Forest
+Batemans Bay,17/01/1995,21/01/1995,3,1995,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Barmah Forest
+Batemans Bay,23/01/1995,28/01/1995,3,1995,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Barmah Forest
+Port Stephens,24/01/2006,28/01/2006,3,2006,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Barmah Forest
+Port Stephens,15/01/2008,19/01/2008,3,2008,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Barmah Forest
+Port Stephens,22/01/2008,26/01/2008,3,2008,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Barmah Forest
+Port Stephens,12/01/2011,15/01/2011,3,2011,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Barmah Forest
+Port Stephens,18/01/2011,22/01/2011,3,2011,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Barmah Forest
+Leeton,24/01/2008,26/01/2008,3,2008,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Barmah Forest
+Leeton,40664,08/01/2011,3,2011,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Barmah Forest
+Griffith,16/01/2017,21/01/2017,3,2017,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Barmah Forest
+Young,45170,14/01/2023,3,2023,Inland,-34.22,148.31,18750,Young,13910,Hilltops,Hilltops,Murrumbidgee,Barmah Forest
+Georges River - East,29/01/2014,01/02/2014,3,2014,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Barmah Forest
+Bankstown,27/01/2015,31/01/2015,3,2015,Sydney,-33.9182,151.035,10350,Bankstown,11570,Canterbury-Bankstown,Canterbury-Bankstown,South Western Sydney,Barmah Forest
+Batemans Bay,31/01/1995,04/02/1995,4,1995,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Barmah Forest
+Port Stephens,31/01/2006,04/02/2006,4,2006,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Barmah Forest
+Port Stephens,39661,12/01/2008,4,2008,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Barmah Forest
+Port Stephens,31/01/2008,02/02/2008,4,2008,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Barmah Forest
+Central Coast,20/01/2011,22/01/2011,4,2011,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Barmah Forest
+Port Stephens,25/01/2011,29/01/2011,4,2011,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Barmah Forest
+Central Coast,20/01/2015,24/01/2015,4,2015,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Barmah Forest
+Lake Macquarie,20/01/2015,24/01/2015,4,2015,Coastal,-33.0311,151.5603,14650,Lake Macquarie,14650,Lake Macquarie,Lake Macquarie,Hunter New England,Barmah Forest
+Batemans Bay,14/01/2025,18/01/2025,4,2025,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Barmah Forest
+Griffith,19/01/2015,24/01/2015,4,2015,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Barmah Forest
+Tathra,21/02/1995,25/02/1995,7,1995,Coastal,-36.7297,149.9858,10550,Bega Valley,10550,Bega Valley,Bega Valley,Southern NSW,Barmah Forest
+Lake Macquarie,16/02/2006,18/02/2006,7,2006,Coastal,-33.0311,151.5603,14650,Lake Macquarie,14650,Lake Macquarie,Lake Macquarie,Hunter New England,Barmah Forest
+Port Stephens,21/02/2006,25/02/2006,7,2006,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Barmah Forest
+Lake Macquarie,42279,14/02/2015,7,2015,Coastal,-33.0311,151.5603,14650,Lake Macquarie,14650,Lake Macquarie,Lake Macquarie,Hunter New England,Barmah Forest
+Central Coast,27/02/2018,03/03/2018,7,2018,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Barmah Forest
+Newcastle,27/02/2024,02/03/2024,7,2024,Coastal,-32.8665,151.7618,15900,Newcastle,15900,Newcastle,Newcastle,Hunter New England,Barmah Forest
+Menindee,15/02/1993,20/02/1993,7,1993,Inland,-32.4,142.43,11700,Central Darling,11700,Central Darling,Central Darling,Far West,Barmah Forest
+Penrith,27/02/2024,02/03/2024,7,2024,Sydney,-33.7507,150.6877,16350,Penrith,16350,Penrith,Penrith,Nepean Blue Mountains,Barmah Forest
+Batemans Bay,34852,11/02/1995,8,1995,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Barmah Forest
+Batemans Bay,14/02/1995,18/02/1995,8,1995,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Barmah Forest
+Batemans Bay,20/02/1995,25/02/1995,8,1995,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Barmah Forest
+Central Coast,24/02/2006,25/02/2006,8,2006,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Barmah Forest
+Lake Macquarie,20/02/2006,25/02/2006,8,2006,Coastal,-33.0311,151.5603,14650,Lake Macquarie,14650,Lake Macquarie,Lake Macquarie,Hunter New England,Barmah Forest
+Port Macquarie,28/02/2006,04/03/2006,8,2006,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Barmah Forest
+Port Stephens,38900,11/02/2006,8,2006,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Barmah Forest
+Port Stephens,14/02/2006,18/02/2006,8,2006,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Barmah Forest
+Port Stephens,28/02/2006,04/03/2006,8,2006,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Barmah Forest
+Port Macquarie,39784,16/02/2008,8,2008,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Barmah Forest
+Port Stephens,39570,09/02/2008,8,2008,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Barmah Forest
+Lake Macquarie,17/02/2015,21/02/2015,8,2015,Coastal,-33.0311,151.5603,14650,Lake Macquarie,14650,Lake Macquarie,Lake Macquarie,Hunter New England,Barmah Forest
+Newcastle,17/02/2025,22/02/2025,8,2025,Coastal,-32.8665,151.7618,15900,Newcastle,15900,Newcastle,Newcastle,Hunter New England,Barmah Forest
+Griffith,42310,14/02/2015,8,2015,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Barmah Forest
+Leeton,42310,14/02/2015,8,2015,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Barmah Forest
+Griffith,42371,06/02/2016,8,2016,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Barmah Forest
+Bankstown,18/02/2014,22/02/2014,8,2014,Sydney,-33.9182,151.035,10350,Bankstown,11570,Canterbury-Bankstown,Canterbury-Bankstown,South Western Sydney,Barmah Forest
+Georges River - East,18/02/2014,22/02/2014,8,2014,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Barmah Forest
+Georges River - East,25/02/2014,01/03/2014,8,2014,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Barmah Forest
+Georges River - East,17/02/2015,21/02/2015,8,2015,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Barmah Forest
+Northern Beaches,24/02/2021,27/02/2021,8,2021,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Barmah Forest
+Sydney Olympic Park,29/02/2024,02/03/2024,8,2024,Sydney,-33.8354,151.0654,16250,Parramatta,12380,Parramatta,Parramatta,Western Sydney,Barmah Forest
+Port Macquarie,44077,14/03/2020,11,2020,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Barmah Forest
+Georges River - All,21/03/2018,24/03/2018,11,2018,Sydney,-33.977203,151.026151,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Barmah Forest
+Forster,34883,11/03/1995,12,1995,Coastal,-32.1796,152.5118,13320,Great Lakes,15240,Mid-Coast,Mid-Coast,Hunter New England,Barmah Forest
+Tathra,34702,04/03/1995,12,1995,Coastal,-36.7297,149.9858,10550,Bega Valley,10550,Bega Valley,Bega Valley,Southern NSW,Barmah Forest
+Lake Macquarie,14/03/2006,18/03/2006,12,2006,Coastal,-33.0311,151.5603,14650,Lake Macquarie,14650,Lake Macquarie,Lake Macquarie,Hunter New England,Barmah Forest
+Port Stephens,38932,11/03/2006,12,2006,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Barmah Forest
+Port Macquarie,17/03/2014,22/03/2014,12,2014,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Barmah Forest
+Central Coast,14/03/2018,17/03/2018,12,2018,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Barmah Forest
+Port Macquarie,16/03/2020,21/03/2020,12,2020,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Barmah Forest
+Port Macquarie,23/03/2020,28/03/2020,12,2020,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Barmah Forest
+Central Coast,23/03/2023,25/03/2023,12,2023,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Barmah Forest
+Newcastle,45415,09/03/2024,12,2024,Coastal,-32.8665,151.7618,15900,Newcastle,15900,Newcastle,Newcastle,Hunter New England,Barmah Forest
+Batemans Bay,25/03/2025,29/03/2025,12,2025,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Barmah Forest
+Griffith,41946,15/03/2014,12,2014,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Barmah Forest
+Griffith,25/03/2025,29/03/2025,12,2025,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Barmah Forest
+Parramatta,31/03/1995,01/04/1995,12,1995,Sydney,-33.8136,151.0034,16250,Parramatta,16250,Parramatta,Parramatta,Western Sydney,Barmah Forest
+Georges River - East,19/03/2008,22/03/2008,12,2008,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Barmah Forest
+Georges River - East,41762,08/03/2014,12,2014,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Barmah Forest
+Georges River - East,41946,15/03/2014,12,2014,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Barmah Forest
+Georges River - East,18/03/2014,22/03/2014,12,2014,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Barmah Forest
+Liverpool,18/03/2020,21/03/2020,12,2020,Sydney,-33.9286,150.918,14900,Liverpool,14900,Liverpool,Liverpool,South Western Sydney,Barmah Forest
+Liverpool,22/03/2022,26/03/2022,12,2022,Sydney,-33.9286,150.918,14900,Liverpool,14900,Liverpool,Liverpool,South Western Sydney,Barmah Forest
+Georges River,25/03/2025,29/03/2025,12,2025,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Barmah Forest
+Northern Beaches,18/03/2025,22/03/2025,12,2025,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Barmah Forest
+Parramatta,18/03/2025,22/03/2025,12,2025,Sydney,-33.8136,151.0034,16250,Parramatta,16250,Parramatta,Parramatta,Western Sydney,Barmah Forest
+Penrith,25/03/2025,29/03/2025,12,2025,Sydney,-33.7507,150.6877,16350,Penrith,16350,Penrith,Penrith,Nepean Blue Mountains,Barmah Forest
+Central Coast,41643,05/04/2014,16,2014,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Barmah Forest
+Port Stephens,23/04/2014,26/04/2014,16,2014,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Barmah Forest
+Port Macquarie,43500,06/04/2019,16,2019,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Barmah Forest
+Tweed,43500,06/04/2019,16,2019,Coastal,-28.256,153.55,17550,Tweed,17550,Tweed,Tweed,Northern NSW,Barmah Forest
+Ballina,15/04/2020,18/04/2020,16,2020,Coastal,-29.21,153.44,10250,Ballina,10250,Ballina,Ballina,Northern NSW,Barmah Forest
+Central Coast,43834,04/04/2020,16,2020,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Barmah Forest
+Tweed,43986,11/04/2020,16,2020,Coastal,-28.256,153.55,17550,Tweed,17550,Tweed,Tweed,Northern NSW,Barmah Forest
+Moree,27/04/2025,03/05/2025,16,2025,Inland,-29.4658,149.8339,15300,Moree Plains,15300,Moree Plains,Moree Plains,Hunter New England,Barmah Forest
+Moree,27/04/2025,03/05/2025,16,2025,Inland,-29.4658,149.8339,15300,Moree Plains,15300,Moree Plains,Moree Plains,Hunter New England,Barmah Forest
+Liverpool,27/04/2020,02/05/2020,16,2020,Sydney,-33.9286,150.918,14900,Liverpool,14900,Liverpool,Liverpool,South Western Sydney,Barmah Forest
+Northern Beaches,43986,11/04/2020,16,2020,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Barmah Forest
+Northern Beaches,27/04/2020,02/05/2020,16,2020,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Barmah Forest
+Port Stephens,41855,12/04/2014,17,2014,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Barmah Forest
+Port Macquarie,45508,13/04/2024,17,2024,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Barmah Forest
+Northern Beaches,20/04/2020,25/04/2020,17,2020,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Barmah Forest
+Lake Macquarie,16/05/2007,19/05/2007,20,2007,Coastal,-33.0311,151.5603,14650,Lake Macquarie,14650,Lake Macquarie,Lake Macquarie,Hunter New England,Barmah Forest
+Central Coast,44962,06/05/2023,21,2023,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Barmah Forest
+Northern Beaches,44597,07/05/2022,21,2022,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Barmah Forest
+Forbes,15/11/2016,19/11/2016,46,2016,Inland,-33.3799,148.0067,12900,Forbes,12900,Forbes,Forbes,Western NSW,Barmah Forest
+Griffith,16/11/2010,20/11/2010,47,2010,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Barmah Forest
+Griffith,14/11/2016,19/11/2016,47,2016,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Barmah Forest
+Griffith,22/11/2022,26/11/2022,47,2022,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Barmah Forest
+Macquarie Marshes,14/11/2022,19/11/2022,47,2022,Inland,-30.6959,147.6304,10950,Bogan,10950,Bogan,Bogan,Western NSW,Barmah Forest
+Port Stephens,18/12/2007,22/12/2007,51,2007,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Barmah Forest
+Griffith,13/12/2010,18/12/2010,51,2010,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Barmah Forest
+Leeton,40371,11/12/2010,51,2010,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Barmah Forest
+Leeton,14/12/2010,18/12/2010,51,2010,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Barmah Forest
+Leeton,23/12/2010,25/12/2010,51,2010,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Barmah Forest
+Deniliquin,44724,10/12/2022,51,2022,Inland,-35.53,144.99,12500,Deniliquin,12730,Edward River,Edward River,Murrumbidgee,Barmah Forest
+Griffith,44724,10/12/2022,51,2022,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Barmah Forest
+Grong Grong,44907,17/12/2022,51,2022,Inland,-34.89,146.78,15800,Narrandera,15800,Narrandera,Narrandera,Murrumbidgee,Barmah Forest
+Leeton,44693,10/12/2022,51,2022,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Barmah Forest
+Batemans Bay,17/01/1995,21/01/1995,3,1995,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Edge Hill
+Batemans Bay,23/01/1995,28/01/1995,3,1995,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Edge Hill
+Port Stephens,18/01/2010,23/01/2010,3,2010,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Edge Hill
+Central Coast,16/01/2024,20/01/2024,3,2024,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Edge Hill
+Newcastle,23/01/2024,27/01/2024,3,2024,Coastal,-32.8665,151.7618,15900,Newcastle,15900,Newcastle,Newcastle,Hunter New England,Edge Hill
+Tweed,29/01/2024,03/02/2024,3,2024,Coastal,-28.256,153.55,17550,Tweed,17550,Tweed,Tweed,Northern NSW,Edge Hill
+Warren,18/01/1993,23/01/1993,3,1993,Inland,-31.7003,147.8359,17950,Warren,17950,Warren,Warren,Western NSW,Edge Hill
+Albury,40848,15/01/2011,3,2011,Inland,-36.0737,146.9135,10050,Albury,10050,Albury,Albury,Murrumbidgee,Edge Hill
+Griffith,29/01/2019,02/02/2019,3,2019,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Edge Hill
+Corowa,45170,14/01/2023,3,2023,Inland,-35.91,146.39,12300,Corowa Shire,12870,Federation,Federation,Murrumbidgee,Edge Hill
+Blacktown,22/01/2019,26/01/2019,3,2019,Sydney,-33.7668,150.9053,10750,Blacktown,10750,Blacktown,Blacktown,Western Sydney,Edge Hill
+Georges River - East,43739,12/01/2019,3,2019,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Edge Hill
+Georges River - East,24/01/2019,26/01/2019,3,2019,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Edge Hill
+Georges River - West,43709,12/01/2019,3,2019,Sydney,-33.97309,151.011178,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Edge Hill
+Georges River - West,16/01/2019,19/01/2019,3,2019,Sydney,-33.97309,151.011178,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Edge Hill
+Georges River - West,23/01/2019,26/01/2019,3,2019,Sydney,-33.97309,151.011178,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Edge Hill
+The Hills,23/01/2019,26/01/2019,3,2019,Sydney,-33.6049,150.9773,17420,The Hills,17420,The Hills,The Hills,Western Sydney,Edge Hill
+Northern Beaches,29/01/2024,03/02/2024,3,2024,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Edge Hill
+Sydney Olympic Park,29/01/2024,03/02/2024,3,2024,Sydney,-33.8354,151.0654,16250,Parramatta,12380,Parramatta,Parramatta,Western Sydney,Edge Hill
+Batemans Bay,31/01/1995,04/02/1995,4,1995,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Edge Hill
+Central Coast,45352,06/01/2024,4,2024,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Edge Hill
+Bankstown,30/01/2024,03/02/2024,4,2024,Sydney,-33.9182,151.035,10350,Bankstown,11570,Canterbury-Bankstown,Canterbury-Bankstown,South Western Sydney,Edge Hill
+Georges River - East,30/01/2024,03/02/2024,4,2024,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Edge Hill
+Warren,34214,13/02/1993,7,1993,Inland,-31.7003,147.8359,17950,Warren,17950,Warren,Warren,Western NSW,Edge Hill
+Blacktown,26/02/2013,02/03/2013,7,2013,Sydney,-33.7668,150.9053,10750,Blacktown,10750,Blacktown,Blacktown,Western Sydney,Edge Hill
+Homebush,42249,14/02/2015,7,2015,Sydney,-33.864,151.0819,17100,Strathfield,17100,Strathfield,Strathfield,Sydney,Edge Hill
+Batemans Bay,34852,11/02/1995,8,1995,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Edge Hill
+Batemans Bay,14/02/1995,18/02/1995,8,1995,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Edge Hill
+Batemans Bay,20/02/1995,25/02/1995,8,1995,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Edge Hill
+Port Stephens,19/02/1996,24/02/1996,8,1996,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Edge Hill
+Port Stephens,38900,11/02/2006,8,2006,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Edge Hill
+Port Stephens,40211,06/02/2010,8,2010,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Edge Hill
+Port Stephens,18/02/2010,20/02/2010,8,2010,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Edge Hill
+Port Stephens,28/02/2012,03/03/2012,8,2012,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Edge Hill
+Port Macquarie,42584,13/02/2016,8,2016,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Edge Hill
+Port Macquarie,24/02/2020,29/02/2020,8,2020,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Clarence Valley,Port Macquarie-Hastings,Mid North Coast,Edge Hill
+Batemans Bay,45445,10/02/2024,8,2024,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Edge Hill
+Central Coast,45475,10/02/2024,8,2024,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Edge Hill
+Newcastle,45445,10/02/2024,8,2024,Coastal,-32.8665,151.7618,15900,Newcastle,15900,Newcastle,Newcastle,Hunter New England,Edge Hill
+Newcastle,45628,17/02/2024,8,2024,Coastal,-32.8665,151.7618,15900,Newcastle,15900,Newcastle,Newcastle,Hunter New England,Edge Hill
+Port Macquarie,45628,17/02/2024,8,2024,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Edge Hill
+Griffith,36162,06/02/1999,8,1999,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Edge Hill
+Leeton,39601,09/02/2008,8,2008,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Edge Hill
+Murray-Mathoura,40576,05/02/2011,8,2011,Inland,-35.818,144.912,15500,Murray,15520,Murray River,Murray River,Murrumbidgee,Edge Hill
+Moree,19/02/2023,25/02/2023,8,2023,Inland,-29.4658,149.8339,15300,Moree Plains,15300,Moree Plains,Moree Plains,Hunter New England,Edge Hill
+Hawkesbury,14/02/2008,16/02/2008,8,2008,Sydney,-33.2263,150.8609,13800,Hawkesbury,13800,Hawkesbury,Hawkesbury,Nepean Blue Mountains,Edge Hill
+Georges River - West,24/02/2015,28/02/2015,8,2015,Sydney,-33.97309,151.011178,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Edge Hill
+Georges River - West,43801,16/02/2019,8,2019,Sydney,-33.97309,151.011178,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Edge Hill
+Canada Bay,29/02/2024,02/03/2024,8,2024,Sydney,-33.8652,151.1093,11520,Canada Bay,11520,Canada Bay,Canada Bay,Sydney,Edge Hill
+Georges River - West,45475,10/02/2024,8,2024,Sydney,-33.97309,151.011178,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Edge Hill
+Northern Beaches,20/02/2024,24/02/2024,8,2024,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Edge Hill
+Parramatta,45445,10/02/2024,8,2024,Sydney,-33.8136,151.0034,16250,Parramatta,16250,Parramatta,Parramatta,Western Sydney,Edge Hill
+Sydney Olympic Park,45414,10/02/2024,8,2024,Sydney,-33.8354,151.0654,16250,Parramatta,12380,Parramatta,Parramatta,Western Sydney,Edge Hill
+Port Stephens,16/03/1998,21/03/1998,11,1998,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Edge Hill
+Boggabilla,35372,16/03/1996,11,1996,Inland,-28.6053,150.3605,15300,Moree Plains,15300,Moree Plains,Moree Plains,Hunter New England,Edge Hill
+Grong Grong,45385,09/03/2024,11,2024,Inland,-34.89,146.78,15800,Narrandera,15800,Narrandera,Narrandera,Murrumbidgee,Edge Hill
+Georges River - West,26/03/2017,01/04/2017,11,2017,Sydney,-33.97309,151.011178,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Edge Hill
+Hawkesbury,44077,14/03/2020,11,2020,Sydney,-33.2263,150.8609,13800,Hawkesbury,13800,Hawkesbury,Hawkesbury,Nepean Blue Mountains,Edge Hill
+Northern Beaches,44472,13/03/2021,11,2021,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Edge Hill
+Georges River - West,45385,09/03/2024,11,2024,Sydney,-33.97309,151.011178,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Edge Hill
+Sydney Olympic Park,45568,16/03/2024,11,2024,Sydney,-33.8354,151.0654,16250,Parramatta,12380,Parramatta,Parramatta,Western Sydney,Edge Hill
+Tathra,34883,11/03/1995,12,1995,Coastal,-36.7297,149.9858,10550,Bega Valley,10550,Bega Valley,Bega Valley,Southern NSW,Edge Hill
+Batemans Bay,17/03/1998,21/03/1998,12,1998,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Edge Hill
+Batemans Bay,24/03/1998,28/03/1998,12,1998,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Edge Hill
+Lake Macquarie,14/03/2006,18/03/2006,12,2006,Coastal,-33.0311,151.5603,14650,Lake Macquarie,14650,Lake Macquarie,Lake Macquarie,Hunter New England,Edge Hill
+Central Coast,23/03/2007,24/03/2007,12,2007,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Edge Hill
+Lake Macquarie,19/03/2008,22/03/2008,12,2008,Coastal,-33.0311,151.5603,14650,Lake Macquarie,14650,Lake Macquarie,Lake Macquarie,Hunter New England,Edge Hill
+Port Stephens,40212,06/03/2010,12,2010,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Edge Hill
+Port Stephens,30/03/2010,03/04/2010,12,2010,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Edge Hill
+Ballina,25/03/2013,30/03/2013,12,2013,Coastal,-29.21,153.44,10250,Ballina,10250,Ballina,Ballina,Northern NSW,Edge Hill
+Port Macquarie,25/03/2013,30/03/2013,12,2013,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Edge Hill
+Port Stephens,24/03/2014,29/03/2014,12,2014,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Edge Hill
+Coffs Harbour,43864,07/03/2020,12,2020,Coastal,-30.3,153.1094,11800,Coffs Harbour,11800,Coffs Harbour,Coffs Harbour,Northern NSW,Edge Hill
+Coffs Harbour,24/03/2020,28/03/2020,12,2020,Coastal,-30.3,153.1094,11800,Coffs Harbour,11800,Coffs Harbour,Coffs Harbour,Northern NSW,Edge Hill
+Kempsey,23/03/2020,28/03/2020,12,2020,Coastal,-31.06,152.82,14350,Kempsey,14350,Kempsey,Kempsey,Mid North Coast,Edge Hill
+Port Macquarie,23/03/2020,28/03/2020,12,2020,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Edge Hill
+Tweed,23/03/2020,28/03/2020,12,2020,Coastal,-28.256,153.55,17550,Tweed,17550,Tweed,Tweed,Northern NSW,Edge Hill
+Central Coast,44230,06/03/2021,12,2021,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Edge Hill
+Clarence Valley,17/03/2021,20/03/2021,12,2021,Coastal,-29.8784,152.6384,11730,Clarence Valley,11730,Clarence Valley,Clarence Valley,Northern NSW,Edge Hill
+Clarence Valley,29/03/2021,03/04/2021,12,2021,Coastal,-29.8784,152.6384,11730,Clarence Valley,11730,Clarence Valley,Clarence Valley,Northern NSW,Edge Hill
+Batemans Bay,25/03/2024,30/03/2024,12,2024,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Edge Hill
+Bourke,13/03/2002,16/03/2002,12,2002,Inland,-30.0888,145.9378,11150,Bourke,11150,Bourke,Bourke,Far West,Edge Hill
+Leeton,41611,16/03/2013,12,2013,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Edge Hill
+Northern Beaches,35829,07/03/1998,12,1998,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Edge Hill
+Ryde,39755,15/03/2008,12,2008,Sydney,-33.813,151.105,16700,Ryde,16700,Ryde,Ryde,Northern Sydney,Edge Hill
+Georges River - East,40120,14/03/2009,12,2009,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Edge Hill
+Bankstown,20/03/2013,23/03/2013,12,2013,Sydney,-33.9182,151.035,10350,Bankstown,11570,Canterbury-Bankstown,Canterbury-Bankstown,South Western Sydney,Edge Hill
+Georges River - East,42066,07/03/2015,12,2015,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Edge Hill
+Georges River - All,42769,04/03/2017,12,2017,Sydney,-33.977203,151.026151,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Edge Hill
+Georges River - East,42919,11/03/2017,12,2017,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Edge Hill
+Canada Bay,13/03/2024,16/03/2024,12,2024,Sydney,-33.8652,151.1093,11520,Canada Bay,11520,Canada Bay,Canada Bay,Sydney,Edge Hill
+Georges River - West,45599,16/03/2024,12,2024,Sydney,-33.97309,151.011178,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Edge Hill
+Liverpool,45599,16/03/2024,12,2024,Sydney,-33.9286,150.918,14900,Liverpool,14900,Liverpool,Liverpool,South Western Sydney,Edge Hill
+Northern Beaches,13/03/2024,16/03/2024,12,2024,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Edge Hill
+Sydney Olympic Park,18/03/2024,23/03/2024,12,2024,Sydney,-33.8354,151.0654,16250,Parramatta,12380,Parramatta,Parramatta,Western Sydney,Edge Hill
+Ballina,34976,15/04/1995,16,1995,Coastal,-29.21,153.44,10250,Ballina,10250,Ballina,Ballina,Northern NSW,Edge Hill
+Maclean,34823,08/04/1995,16,1995,Coastal,-29.4606,153.2019,11730,Clarence Valley,11730,Clarence Valley,Clarence Valley,Northern NSW,Edge Hill
+Port Stephens,38872,08/04/2006,16,2006,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Edge Hill
+Port Stephens,13/04/2010,17/04/2010,16,2010,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Edge Hill
+Byron Bay,15/04/2013,20/04/2013,16,2013,Coastal,-29.01,153.52,11350,Byron,11350,Byron,Byron,Northern NSW,Edge Hill
+Central Coast,41551,13/04/2013,16,2013,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Edge Hill
+Central Coast,15/04/2013,20/04/2013,16,2013,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Edge Hill
+Port Stephens,41643,05/04/2014,16,2014,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Edge Hill
+Central Coast,43834,04/04/2020,16,2020,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Edge Hill
+Ballina,44473,10/04/2021,16,2021,Coastal,-29.21,153.44,10250,Ballina,10250,Ballina,Ballina,Northern NSW,Edge Hill
+Newcastle,45234,15/04/2023,16,2023,Coastal,-32.8665,151.7618,15900,Newcastle,15900,Newcastle,Newcastle,Hunter New England,Edge Hill
+Central Coast,28/04/2024,04/05/2024,16,2024,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Edge Hill
+Clarence Valley,28/04/2024,04/05/2024,16,2024,Coastal,-29.8784,152.6384,11730,Clarence Valley,11730,Clarence Valley,Clarence Valley,Northern NSW,Edge Hill
+Moree,21/04/2025,26/04/2025,16,2025,Inland,-29.4658,149.8339,15300,Moree Plains,15300,Moree Plains,Moree Plains,Hunter New England,Edge Hill
+Georges River - East,39998,11/04/2009,16,2009,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Edge Hill
+Georges River - East,27/04/2009,02/05/2009,16,2009,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Edge Hill
+Bankstown,18/04/2013,20/04/2013,16,2013,Sydney,-33.9182,151.035,10350,Bankstown,11570,Canterbury-Bankstown,Canterbury-Bankstown,South Western Sydney,Edge Hill
+Georges River - East,41309,06/04/2013,16,2013,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Edge Hill
+Hawkesbury,41309,06/04/2013,16,2013,Sydney,-33.2263,150.8609,13800,Hawkesbury,13800,Hawkesbury,Hawkesbury,Nepean Blue Mountains,Edge Hill
+Hawkesbury,41551,13/04/2013,16,2013,Sydney,-33.2263,150.8609,13800,Hawkesbury,13800,Hawkesbury,Hawkesbury,Nepean Blue Mountains,Edge Hill
+Earlwood,45600,13/04/2024,16,2024,Sydney,-33.933,151.144,10350,Bankstown,11570,Canterbury-Bankstown,Canterbury-Bankstown,Sydney,Edge Hill
+Northern Beaches,27/04/2024,27/04/2024,16,2024,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Edge Hill
+Newcastle,44989,08/04/2023,17,2023,Coastal,-32.8665,151.7618,15900,Newcastle,15900,Newcastle,Newcastle,Hunter New England,Edge Hill
+Forbes,20/04/2021,24/04/2021,17,2021,Inland,-33.3799,148.0067,12900,Forbes,12900,Forbes,Forbes,Western NSW,Edge Hill
+Georges River - East,14/04/2009,18/04/2009,17,2009,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Edge Hill
+Georges River - East,14/04/2013,20/04/2013,17,2013,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Edge Hill
+Georges River - East,20/04/2017,22/04/2017,17,2017,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Edge Hill
+Northern Beaches,20/04/2020,25/04/2020,17,2020,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Edge Hill
+Lake Cathie,26/05/2025,31/05/2025,20,2025,Coastal,-31.72,152.83,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Edge Hill
+Griffith,40913,05/05/2012,21,2012,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Edge Hill
+Bourke,37937,13/12/2003,51,2003,Inland,-30.0888,145.9378,11150,Bourke,11150,Bourke,Bourke,Far West,Edge Hill
+Grong Grong,44693,10/12/2022,51,2022,Inland,-34.89,146.78,15800,Narrandera,15800,Narrandera,Narrandera,Murrumbidgee,Edge Hill
+Penrith,13/12/2022,17/12/2022,51,2022,Sydney,-33.7507,150.6877,16350,Penrith,16350,Penrith,Penrith,Nepean Blue Mountains,Edge Hill
+Griffith,33696,08/02/1992,7,1992,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Flavivirus unspecified
+Georges River - East,20/04/2017,22/04/2017,17,2017,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Flavivirus unspecified
+Griffith,27/01/1993,30/01/1993,3,1993,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Gan Gan
+Newcastle,13/01/2025,18/01/2025,4,2025,Coastal,-32.8665,151.7618,15900,Newcastle,15900,Newcastle,Newcastle,Hunter New England,Gan Gan
+Newcastle,45932,15/02/2025,7,2025,Coastal,-32.8665,151.7618,15900,Newcastle,15900,Newcastle,Newcastle,Hunter New England,Gan Gan
+Central Coast,45779,08/02/2025,8,2025,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Gan Gan
+Newcastle,45718,08/02/2025,8,2025,Coastal,-32.8665,151.7618,15900,Newcastle,15900,Newcastle,Newcastle,Hunter New England,Gan Gan
+Newcastle,17/02/2025,22/02/2025,8,2025,Coastal,-32.8665,151.7618,15900,Newcastle,15900,Newcastle,Newcastle,Hunter New England,Gan Gan
+Newcastle,24/02/2025,01/03/2025,8,2025,Coastal,-32.8665,151.7618,15900,Newcastle,15900,Newcastle,Newcastle,Hunter New England,Gan Gan
+Bankstown,18/02/2025,22/02/2025,8,2025,Sydney,-33.9182,151.035,10350,Bankstown,11570,Canterbury-Bankstown,Canterbury-Bankstown,South Western Sydney,Gan Gan
+Port Stephens,17/03/1992,21/03/1992,12,1992,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Gan Gan
+Newcastle,17/03/2025,22/03/2025,12,2025,Coastal,-32.8665,151.7618,15900,Newcastle,15900,Newcastle,Newcastle,Hunter New England,Gan Gan
+Condobolin,17/03/1992,21/03/1992,12,1992,Inland,-33.0885,147.1473,14600,Lachlan,14600,Lachlan,Lachlan,Western NSW,Gan Gan
+Bankstown,45994,15/03/2025,12,2025,Sydney,-33.9182,151.035,10350,Bankstown,11570,Canterbury-Bankstown,Canterbury-Bankstown,South Western Sydney,Gan Gan
+Bankstown,18/03/2025,22/03/2025,12,2025,Sydney,-33.9182,151.035,10350,Bankstown,11570,Canterbury-Bankstown,Canterbury-Bankstown,South Western Sydney,Gan Gan
+Georges River,18/03/2025,22/03/2025,12,2025,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Gan Gan
+Penrith,45661,05/04/2025,16,2025,Sydney,-33.7507,150.6877,16350,Penrith,16350,Penrith,Penrith,Nepean Blue Mountains,Gan Gan
+Hawkesbury,45873,12/04/2025,17,2025,Sydney,-33.2263,150.8609,13800,Hawkesbury,13800,Hawkesbury,Hawkesbury,Nepean Blue Mountains,Gan Gan
+Penrith,45873,12/04/2025,17,2025,Sydney,-33.7507,150.6877,16350,Penrith,16350,Penrith,Penrith,Nepean Blue Mountains,Gan Gan
+Forbes,17/01/2021,23/01/2021,3,2021,Inland,-33.3799,148.0067,12900,Forbes,12900,Forbes,Forbes,Western NSW,Japanese encephalitis
+Forbes,24/01/2022,29/01/2022,3,2022,Inland,-33.3799,148.0067,12900,Forbes,12900,Forbes,Forbes,Western NSW,Japanese encephalitis
+Wagga Wagga,44835,15/01/2022,3,2022,Inland,-35.1082,147.3598,17750,Wagga Wagga,17750,Wagga Wagga,Wagga Wagga,Murrumbidgee,Japanese encephalitis
+Griffith,45363,07/12/2024,51,2024,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Japanese encephalitis
+Moree,22/12/2024,28/12/2024,51,2024,Inland,-29.4658,149.8339,15300,Moree Plains,15300,Moree Plains,Moree Plains,Hunter New England,Japanese encephalitis
+Griffith,29/01/2008,02/02/2008,3,2008,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kokobera
+Albury,23/01/2017,28/01/2017,3,2017,Inland,-36.0737,146.9135,10050,Albury,10050,Albury,Albury,Murrumbidgee,Kokobera
+Grong Grong,29/01/2024,03/02/2024,3,2024,Inland,-34.89,146.78,15800,Narrandera,15800,Narrandera,Narrandera,Murrumbidgee,Kokobera
+Macquarie Marshes,22/01/2024,27/01/2024,3,2024,Inland,-30.6959,147.6304,10950,Bogan,10950,Bogan,Bogan,Western NSW,Kokobera
+Temora,29/01/2024,03/02/2024,3,2024,Inland,-34.37,147.52,17350,Temora,17350,Temora,Temora,Murrumbidgee,Kokobera
+Georges River - West,43709,12/01/2019,3,2019,Sydney,-33.97309,151.011178,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Kokobera
+Forbes,31/01/2022,05/02/2022,4,2022,Inland,-33.3799,148.0067,12900,Forbes,12900,Forbes,Forbes,Western NSW,Kokobera
+Forbes,30/01/2024,03/02/2024,4,2024,Inland,-33.3799,148.0067,12900,Forbes,12900,Forbes,Forbes,Western NSW,Kokobera
+Bourke,38262,14/02/2004,7,2004,Inland,-30.0888,145.9378,11150,Bourke,11150,Bourke,Bourke,Far West,Kokobera
+Bourke,21/02/2012,25/02/2012,7,2012,Inland,-30.0888,145.9378,11150,Bourke,11150,Bourke,Bourke,Far West,Kokobera
+Leeton,21/02/2012,25/02/2012,7,2012,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Kokobera
+Forbes,15/02/2022,19/02/2022,7,2022,Inland,-33.3799,148.0067,12900,Forbes,12900,Forbes,Forbes,Western NSW,Kokobera
+Deniliquin,35644,08/02/1997,8,1997,Inland,-35.53,144.99,12500,Deniliquin,12730,Edward River,Edward River,Murrumbidgee,Kokobera
+Griffith,36162,06/02/1999,8,1999,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kokobera
+Bourke,18/02/2004,21/02/2004,8,2004,Inland,-30.0888,145.9378,11150,Bourke,11150,Bourke,Bourke,Far West,Kokobera
+Leeton,38719,04/02/2006,8,2006,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Kokobera
+Griffith,18/02/2008,23/02/2008,8,2008,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kokobera
+Griffith,22/02/2010,27/02/2010,8,2010,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kokobera
+Griffith,22/02/2012,25/02/2012,8,2012,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kokobera
+Menindee,20/02/2012,25/02/2012,8,2012,Inland,-32.4,142.43,11700,Central Darling,11700,Central Darling,Central Darling,Far West,Kokobera
+Griffith,42310,14/02/2015,8,2015,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kokobera
+Griffith,42888,11/02/2017,8,2017,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kokobera
+Griffith,24/02/2021,27/02/2021,8,2021,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kokobera
+Albury,44744,12/02/2022,8,2022,Inland,-36.0737,146.9135,10050,Albury,10050,Albury,Albury,Murrumbidgee,Kokobera
+Forbes,29/02/2024,02/03/2024,8,2024,Inland,-33.3799,148.0067,12900,Forbes,12900,Forbes,Forbes,Western NSW,Kokobera
+Griffith,19/02/2024,24/02/2024,8,2024,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kokobera
+Tweed,44077,14/03/2020,11,2020,Coastal,-28.256,153.55,17550,Tweed,17550,Tweed,Tweed,Northern NSW,Kokobera
+Bourke,38080,06/03/2004,11,2004,Inland,-30.0888,145.9378,11150,Bourke,11150,Bourke,Bourke,Far West,Kokobera
+Griffith,26/03/2012,31/03/2012,11,2012,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kokobera
+Leeton,21/03/2012,24/03/2012,11,2012,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Kokobera
+Leeton,44077,14/03/2020,11,2020,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Kokobera
+Leeton,45385,09/03/2024,11,2024,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Kokobera
+Port Stephens,30/03/2010,03/04/2010,12,2010,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Kokobera
+Nambucca,24/03/2024,30/03/2024,12,2024,Coastal,-30.6665,152.7324,15700,Nambucca,15700,Nambucca,Nambucca Valley,Northern NSW,Kokobera
+Leeton,20/03/2001,24/03/2001,12,2001,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Kokobera
+Griffith,40212,06/03/2010,12,2010,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kokobera
+Griffith,22/03/2010,27/03/2010,12,2010,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kokobera
+Griffith,29/03/2010,03/04/2010,12,2010,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kokobera
+Leeton,40240,06/03/2010,12,2010,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Kokobera
+Griffith,40758,12/03/2011,12,2011,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kokobera
+Leeton,22/03/2011,26/03/2011,12,2011,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Kokobera
+Bourke,41246,17/03/2012,12,2012,Inland,-30.0888,145.9378,11150,Bourke,11150,Bourke,Bourke,Far West,Kokobera
+Griffith,19/03/2012,24/03/2012,12,2012,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kokobera
+Leeton,13/03/2012,17/03/2012,12,2012,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Kokobera
+Forbes,14/03/2022,19/02/2022,12,2022,Inland,-33.3799,148.0067,12900,Forbes,12900,Forbes,Forbes,Western NSW,Kokobera
+Macquarie Marshes,18/03/2024,23/03/2024,12,2024,Inland,-30.6959,147.6304,10950,Bogan,10950,Bogan,Bogan,Western NSW,Kokobera
+Hawkesbury,40363,10/04/2010,16,2010,Sydney,-33.2263,150.8609,13800,Hawkesbury,13800,Hawkesbury,Hawkesbury,Nepean Blue Mountains,Kokobera
+Nambucca,14/04/2024,20/04/2024,17,2024,Coastal,-30.6665,152.7324,15700,Nambucca,15700,Nambucca,Nambucca Valley,Northern NSW,Kokobera
+Leeton,19/01/1999,23/01/1999,3,1999,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Kunjin
+Griffith,23/01/2023,28/01/2023,3,2023,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kunjin
+Macquarie Marshes,23/01/2023,28/01/2023,3,2023,Inland,-30.6959,147.6304,10950,Bogan,10950,Bogan,Bogan,Western NSW,Kunjin
+Griffith,30/01/2017,04/02/2017,4,2017,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kunjin
+Bourke,26/02/1991,02/03/1991,7,1991,Inland,-30.0888,145.9378,11150,Bourke,11150,Bourke,Bourke,Far West,Kunjin
+Griffith,15/02/1999,20/02/1999,7,1999,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kunjin
+Condobolin,20/02/1991,23/02/1991,8,1991,Inland,-33.0885,147.1473,14600,Lachlan,14600,Lachlan,Lachlan,Western NSW,Kunjin
+Leeton,37227,17/02/2001,8,2001,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Kunjin
+Leeton,14/02/2007,17/02/2007,8,2007,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Kunjin
+Griffith,40757,12/02/2011,8,2011,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kunjin
+Griffith,22/02/2011,26/02/2011,8,2011,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kunjin
+Murray-Mathoura,40576,05/02/2011,8,2011,Inland,-35.818,144.912,15500,Murray,15520,Murray River,Murray River,Murrumbidgee,Kunjin
+Griffith,15/03/2011,19/03/2011,11,2011,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kunjin
+Griffith,36163,06/03/1999,12,1999,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kunjin
+Griffith,40758,12/03/2011,12,2011,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kunjin
+Murray-Mathoura,40758,12/03/2011,12,2011,Inland,-35.818,144.912,15500,Murray,15520,Murray River,Murray River,Murrumbidgee,Kunjin
+Griffith,19/03/2012,24/03/2012,12,2012,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Kunjin
+Baulkham Hills,25/03/2011,26/03/2011,12,2011,Sydney,-33.7619,150.9929,17420,The Hills,17420,The Hills,The Hills,Western Sydney,Kunjin
+Wentworth,27/11/1990,01/12/1990,46,1990,Inland,-34.1071,141.9178,18200,Wentworth,18200,Wentworth,Wentworth,Far West,Kunjin
+Lake Cargelligo,19/12/1990,22/12/1990,51,1990,Inland,-33.2984,146.374,14600,Lachlan,14600,Lachlan,Lachlan,Western NSW,Kunjin
+Leeton,17/12/1990,22/12/1990,51,1990,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Kunjin
+Wentworth,18/12/1990,22/12/1990,51,1990,Inland,-34.1071,141.9178,18200,Wentworth,18200,Wentworth,Wentworth,Far West,Kunjin
+Balranald,23/01/2023,28/01/2023,3,2023,Inland,-34.671,143.58,10300,Balranald,10300,Balranald,Balranald,Far West,Murray Valley encephalitis
+Griffith,45200,14/01/2023,3,2023,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Murray Valley encephalitis
+Griffith,16/01/2023,21/01/2023,3,2023,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Murray Valley encephalitis
+Macquarie Marshes,23/01/2023,28/01/2023,3,2023,Inland,-30.6959,147.6304,10950,Bogan,10950,Bogan,Bogan,Western NSW,Murray Valley encephalitis
+Menindee,45017,07/01/2023,3,2023,Inland,-32.4,142.43,11700,Central Darling,11700,Central Darling,Central Darling,Far West,Murray Valley encephalitis
+Menindee,45200,14/01/2023,3,2023,Inland,-32.4,142.43,11700,Central Darling,11700,Central Darling,Central Darling,Far West,Murray Valley encephalitis
+Murray-Mathoura,17/01/2023,21/01/2023,3,2023,Inland,-35.818,144.912,15500,Murray,15520,Murray River,Murray River,Murrumbidgee,Murray Valley encephalitis
+Temora,23/01/2023,28/01/2023,3,2023,Inland,-34.37,147.52,17350,Temora,17350,Temora,Temora,Murrumbidgee,Murray Valley encephalitis
+Albury,30/01/2023,04/02/2023,4,2023,Inland,-36.0737,146.9135,10050,Albury,10050,Albury,Albury,Murrumbidgee,Murray Valley encephalitis
+Leeton,31/01/2023,04/02/2023,4,2023,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Murray Valley encephalitis
+Murray-Mathoura,30/01/2023,04/02/2023,4,2023,Inland,-35.818,144.912,15500,Murray,15520,Murray River,Murray River,Murrumbidgee,Murray Valley encephalitis
+Deniliquin,21/02/2023,25/02/2023,7,2023,Inland,-35.53,144.99,12500,Deniliquin,12730,Edward River,Edward River,Murrumbidgee,Murray Valley encephalitis
+Griffith,39570,09/02/2008,8,2008,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Murray Valley encephalitis
+Griffith,18/02/2008,23/02/2008,8,2008,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Murray Valley encephalitis
+Corowa,13/02/2023,18/02/2023,8,2023,Inland,-35.91,146.39,12300,Corowa Shire,12870,Federation,Federation,Murrumbidgee,Murray Valley encephalitis
+Corowa,20/02/2023,25/02/2023,8,2023,Inland,-35.91,146.39,12300,Corowa Shire,12870,Federation,Federation,Murrumbidgee,Murray Valley encephalitis
+Griffith,45079,11/02/2023,8,2023,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Murray Valley encephalitis
+Macquarie Marshes,13/02/2023,18/02/2023,8,2023,Inland,-30.6959,147.6304,10950,Bogan,10950,Bogan,Bogan,Western NSW,Murray Valley encephalitis
+Leeton,39541,08/03/2008,11,2008,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Murray Valley encephalitis
+Griffith,39510,08/03/2008,12,2008,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Murray Valley encephalitis
+Macquarie Marshes,45263,18/03/2023,12,2023,Inland,-30.6959,147.6304,10950,Bogan,10950,Bogan,Bogan,Western NSW,Murray Valley encephalitis
+Batemans Bay,23/01/1991,26/01/1991,3,1991,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Ross River
+Port Stephens,21/01/1992,25/01/1992,3,1992,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Port Stephens,29/01/1992,01/02/1992,3,1992,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Batemans Bay,23/01/1995,28/01/1995,3,1995,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Ross River
+Tathra,17/01/1995,21/01/1995,3,1995,Coastal,-36.7297,149.9858,10550,Bega Valley,10550,Bega Valley,Bega Valley,Southern NSW,Ross River
+Batemans Bay,36465,16/01/1999,3,1999,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Ross River
+Batemans Bay,18/01/1999,23/01/1999,3,1999,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Ross River
+Port Stephens,36465,16/01/1999,3,1999,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Port Stephens,24/01/2006,28/01/2006,3,2006,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Port Macquarie,23/01/2008,26/01/2008,3,2008,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Ross River
+Tweed,23/01/2015,24/01/2015,3,2015,Coastal,-28.256,153.55,17550,Tweed,17550,Tweed,Tweed,Northern NSW,Ross River
+Tweed,29/01/2024,03/02/2024,3,2024,Coastal,-28.256,153.55,17550,Tweed,17550,Tweed,Tweed,Northern NSW,Ross River
+Deniliquin,32782,14/01/1989,3,1989,Inland,-35.53,144.99,12500,Deniliquin,12730,Edward River,Edward River,Murrumbidgee,Ross River
+Griffith,34274,16/01/1993,3,1993,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Griffith,18/01/1993,23/01/1993,3,1993,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Wentworth,26/01/1993,30/01/1993,3,1993,Inland,-34.1071,141.9178,18200,Wentworth,18200,Wentworth,Wentworth,Far West,Ross River
+Boggabilla,29/01/1996,03/02/1996,3,1996,Inland,-28.6053,150.3605,15300,Moree Plains,15300,Moree Plains,Moree Plains,Hunter New England,Ross River
+Deniliquin,15/01/1996,20/01/1996,3,1996,Inland,-35.53,144.99,12500,Deniliquin,12730,Edward River,Edward River,Murrumbidgee,Ross River
+Deniliquin,29/01/1996,03/02/1996,3,1996,Inland,-35.53,144.99,12500,Deniliquin,12730,Edward River,Edward River,Murrumbidgee,Ross River
+Griffith,15/01/1996,20/01/1996,3,1996,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Griffith,22/01/1996,27/01/1996,3,1996,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Griffith,29/01/1996,03/02/1996,3,1996,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Deniliquin,35551,11/01/1997,3,1997,Inland,-35.53,144.99,12500,Deniliquin,12730,Edward River,Edward River,Murrumbidgee,Ross River
+Deniliquin,19/01/1997,25/01/1997,3,1997,Inland,-35.53,144.99,12500,Deniliquin,12730,Edward River,Edward River,Murrumbidgee,Ross River
+Griffith,35612,11/01/1997,3,1997,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Bourke,36861,15/01/2000,3,2000,Inland,-30.0888,145.9378,11150,Bourke,11150,Bourke,Bourke,Far West,Ross River
+Bourke,17/01/2000,22/01/2000,3,2000,Inland,-30.0888,145.9378,11150,Bourke,11150,Bourke,Bourke,Far West,Ross River
+Griffith,23/01/2001,27/01/2001,3,2001,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Albury,24/01/2006,28/01/2006,3,2006,Inland,-36.0737,146.9135,10050,Albury,10050,Albury,Albury,Murrumbidgee,Ross River
+Griffith,17/01/2008,19/01/2008,3,2008,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Griffith,40452,16/01/2010,3,2010,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Leeton,40513,16/01/2010,3,2010,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Ross River
+Griffith,41000,07/01/2012,3,2012,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Leeton,18/01/2012,21/01/2012,3,2012,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Ross River
+Leeton,23/01/2015,24/01/2015,3,2015,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Ross River
+Albury,16/01/2017,21/01/2017,3,2017,Inland,-36.0737,146.9135,10050,Albury,10050,Albury,Albury,Murrumbidgee,Ross River
+Griffith,43009,14/01/2017,3,2017,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Leeton,42979,14/01/2017,3,2017,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Ross River
+Forbes,44835,15/01/2022,3,2022,Inland,-33.3799,148.0067,12900,Forbes,12900,Forbes,Forbes,Western NSW,Ross River
+Corowa,45170,14/01/2023,3,2023,Inland,-35.91,146.39,12300,Corowa Shire,12870,Federation,Federation,Murrumbidgee,Ross River
+Griffith,21/01/2025,25/01/2025,3,2025,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Wagga Wagga,28/01/2025,01/02/2025,3,2025,Inland,-35.1082,147.3598,17750,Wagga Wagga,17750,Wagga Wagga,Wagga Wagga,Murrumbidgee,Ross River
+Penrith,44866,15/01/2022,3,2022,Sydney,-33.7507,150.6877,16350,Penrith,16350,Penrith,Penrith,Nepean Blue Mountains,Ross River
+Menindee,31/01/2011,05/02/2011,4,2011,Inland,-32.4,142.43,11700,Central Darling,11700,Central Darling,Central Darling,Far West,Ross River
+Griffith,43160,06/01/2018,4,2018,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Griffith,31/01/2018,03/02/2018,4,2018,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Griffith,19/01/2021,23/01/2021,4,2021,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Albury,20/01/2025,25/01/2025,4,2025,Inland,-36.0737,146.9135,10050,Albury,10050,Albury,Albury,Murrumbidgee,Ross River
+Penrith,25/01/2022,29/01/2022,4,2022,Sydney,-33.7507,150.6877,16350,Penrith,16350,Penrith,Penrith,Nepean Blue Mountains,Ross River
+Batemans Bay,33696,08/02/1992,7,1992,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Ross River
+Port Macquarie,22/02/1995,25/02/1995,7,1995,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Ross River
+Batemans Bay,35522,08/02/1997,7,1997,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Ross River
+Port Stephens,27/02/1997,01/03/1997,7,1997,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Port Macquarie,21/02/2006,25/02/2006,7,2006,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Ross River
+Port Stephens,21/02/2006,25/02/2006,7,2006,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Port Stephens,27/02/2007,03/03/2007,7,2007,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Central Coast,21/02/2012,25/02/2012,7,2012,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Ross River
+Port Macquarie,15/02/2021,20/02/2021,7,2021,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Ross River
+Newcastle,27/02/2024,02/03/2024,7,2024,Coastal,-32.8665,151.7618,15900,Newcastle,15900,Newcastle,Newcastle,Hunter New England,Ross River
+Bourke,26/02/1990,03/03/1990,7,1990,Inland,-30.0888,145.9378,11150,Bourke,11150,Bourke,Bourke,Far West,Ross River
+Griffith,27/02/1995,04/03/1995,7,1995,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Menindee,35187,10/02/1996,7,1996,Inland,-32.4,142.43,11700,Central Darling,11700,Central Darling,Central Darling,Far West,Ross River
+Warren,35187,10/02/1996,7,1996,Inland,-31.7003,147.8359,17950,Warren,17950,Warren,Warren,Western NSW,Ross River
+Griffith,35705,15/02/1997,7,1997,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Grong Grong,26/02/2024,02/03/2024,7,2024,Inland,-34.89,146.78,15800,Narrandera,15800,Narrandera,Narrandera,Murrumbidgee,Ross River
+Ryde,27/02/2012,03/03/2012,7,2012,Sydney,-33.813,151.105,16700,Ryde,16700,Ryde,Ryde,Northern Sydney,Ross River
+Bankstown,21/02/2022,26/02/2022,7,2022,Sydney,-33.9182,151.035,10350,Bankstown,11570,Canterbury-Bankstown,Canterbury-Bankstown,South Western Sydney,Ross River
+Penrith,15/02/2022,19/02/2022,7,2022,Sydney,-33.7507,150.6877,16350,Penrith,16350,Penrith,Penrith,Nepean Blue Mountains,Ross River
+Merimbula,20/02/1991,23/02/1991,8,1991,Coastal,-36.8879,149.9064,10550,Bega Valley,10550,Bega Valley,Bega Valley,Southern NSW,Ross River
+Batemans Bay,34852,11/02/1995,8,1995,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Ross River
+Batemans Bay,14/02/1995,18/02/1995,8,1995,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Ross River
+Batemans Bay,20/02/1995,25/02/1995,8,1995,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Ross River
+Tathra,34882,11/02/1995,8,1995,Coastal,-36.7297,149.9858,10550,Bega Valley,10550,Bega Valley,Bega Valley,Southern NSW,Ross River
+Batemans Bay,25/02/1997,01/03/1997,8,1997,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Ross River
+Maclean,19/02/1997,22/02/1997,8,1997,Coastal,-29.4606,153.2019,11730,Clarence Valley,11730,Clarence Valley,Clarence Valley,Northern NSW,Ross River
+Batemans Bay,36162,06/02/1999,8,1999,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Ross River
+Central Coast,36162,06/02/1999,8,1999,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Ross River
+Forster,36221,06/02/1999,8,1999,Coastal,-32.1796,152.5118,13320,Great Lakes,15240,Mid-Coast,Mid-Coast,Hunter New England,Ross River
+Port Stephens,36162,06/02/1999,8,1999,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Batemans Bay,13/02/2002,16/02/2002,8,2002,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Ross River
+Lake Macquarie,20/02/2006,25/02/2006,8,2006,Coastal,-33.0311,151.5603,14650,Lake Macquarie,14650,Lake Macquarie,Lake Macquarie,Hunter New England,Ross River
+Port Stephens,14/02/2006,18/02/2006,8,2006,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Port Stephens,28/02/2006,04/03/2006,8,2006,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Port Stephens,41092,11/02/2012,8,2012,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Tweed,24/02/2015,28/02/2015,8,2015,Coastal,-28.256,153.55,17550,Tweed,17550,Tweed,Tweed,Northern NSW,Ross River
+Port Macquarie,44410,13/02/2021,8,2021,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Ross River
+Ballina,45628,17/02/2024,8,2024,Coastal,-29.21,153.44,10250,Ballina,10250,Ballina,Ballina,Northern NSW,Ross River
+Byron Bay,45414,10/02/2024,8,2024,Coastal,-29.01,153.52,11350,Byron,11350,Byron,Byron,Northern NSW,Ross River
+Byron Bay,45628,17/02/2024,8,2024,Coastal,-29.01,153.52,11350,Byron,11350,Byron,Byron,Northern NSW,Ross River
+Newcastle,45445,10/02/2024,8,2024,Coastal,-32.8665,151.7618,15900,Newcastle,15900,Newcastle,Newcastle,Hunter New England,Ross River
+Griffith,32541,04/02/1989,8,1989,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Condobolin,34030,06/02/1993,8,1993,Inland,-33.0885,147.1473,14600,Lachlan,14600,Lachlan,Lachlan,Western NSW,Ross River
+Griffith,33971,06/02/1993,8,1993,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Griffith,34183,13/02/1993,8,1993,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Menindee,34183,13/02/1993,8,1993,Inland,-32.4,142.43,11700,Central Darling,11700,Central Darling,Central Darling,Far West,Ross River
+Wentworth,34002,06/02/1993,8,1993,Inland,-34.1071,141.9178,18200,Wentworth,18200,Wentworth,Wentworth,Far West,Ross River
+Griffith,34487,12/02/1994,8,1994,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Tamworth,34336,05/02/1994,8,1994,Inland,-31.09,150.9293,17310,Tamworth Regional,17310,Tamworth Regional,Tamworth Regional,Hunter New England,Ross River
+Moree,20/02/1995,25/02/1995,8,1995,Inland,-29.4658,149.8339,15300,Moree Plains,15300,Moree Plains,Moree Plains,Hunter New England,Ross River
+Forbes,35218,10/02/1996,8,1996,Inland,-33.3799,148.0067,12900,Forbes,12900,Forbes,Forbes,Western NSW,Ross River
+Griffith,35218,10/02/1996,8,1996,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Griffith,36709,12/02/2000,8,2000,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Leeton,36709,12/02/2000,8,2000,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Ross River
+Leeton,37227,17/02/2001,8,2001,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Ross River
+Wanaaring,37562,16/02/2002,8,2002,Inland,-29.705,144.1483,11150,Bourke,11150,Bourke,Bourke,Far West,Ross River
+Leeton,40545,05/02/2011,8,2011,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Ross River
+Leeton,23/02/2011,26/02/2011,8,2011,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Ross River
+Griffith,22/02/2012,25/02/2012,8,2012,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Griffith,17/02/2015,21/02/2015,8,2015,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Griffith,43222,10/02/2018,8,2018,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Forbes,23/02/2021,27/02/2021,8,2021,Inland,-33.3799,148.0067,12900,Forbes,12900,Forbes,Forbes,Western NSW,Ross River
+Georges River - East,18/02/2014,22/02/2014,8,2014,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Ross River
+Georges River - East,42310,14/02/2015,8,2015,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Ross River
+Georges River - West,17/02/2015,21/02/2015,8,2015,Sydney,-33.97309,151.011178,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Ross River
+Homebush,24/02/2015,28/02/2015,8,2015,Sydney,-33.864,151.0819,17100,Strathfield,17100,Strathfield,Strathfield,Sydney,Ross River
+Georges River - East,20/02/2019,23/02/2019,8,2019,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Ross River
+Georges River - West,43801,16/02/2019,8,2019,Sydney,-33.97309,151.011178,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Ross River
+Sydney Olympic Park,18/02/2019,23/02/2019,8,2019,Sydney,-33.8354,151.0654,16250,Parramatta,12380,Parramatta,Parramatta,Western Sydney,Ross River
+Bankstown,44775,12/02/2022,8,2022,Sydney,-33.9182,151.035,10350,Bankstown,11570,Canterbury-Bankstown,Canterbury-Bankstown,South Western Sydney,Ross River
+Bankstown,28/02/2022,05/03/2022,8,2022,Sydney,-33.9182,151.035,10350,Bankstown,11570,Canterbury-Bankstown,Canterbury-Bankstown,South Western Sydney,Ross River
+Liverpool,22/02/2022,26/02/2022,8,2022,Sydney,-33.9286,150.918,14900,Liverpool,14900,Liverpool,Liverpool,South Western Sydney,Ross River
+Ballina,26/03/1992,28/03/1992,11,1992,Coastal,-29.21,153.44,10250,Ballina,10250,Ballina,Ballina,Northern NSW,Ross River
+Port Stephens,35372,16/03/1996,11,1996,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Maclean,35523,08/03/1997,11,1997,Coastal,-29.4606,153.2019,11730,Clarence Valley,11730,Clarence Valley,Clarence Valley,Northern NSW,Ross River
+Port Stephens,15/03/1999,20/03/1999,11,1999,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Port Stephens,40089,14/03/2009,11,2009,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Port Macquarie,15/03/2011,19/03/2011,11,2011,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Ross River
+Port Macquarie,26/03/2014,29/03/2014,11,2014,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Ross River
+Central Coast,42097,07/03/2015,11,2015,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Ross River
+Lake Macquarie,42280,14/03/2015,11,2015,Coastal,-33.0311,151.5603,14650,Lake Macquarie,14650,Lake Macquarie,Lake Macquarie,Hunter New England,Ross River
+Tweed,42280,14/03/2015,11,2015,Coastal,-28.256,153.55,17550,Tweed,17550,Tweed,Tweed,Northern NSW,Ross River
+Port Macquarie,44077,14/03/2020,11,2020,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Ross River
+Tweed,45385,09/03/2024,11,2024,Coastal,-28.256,153.55,17550,Tweed,17550,Tweed,Tweed,Northern NSW,Ross River
+Griffith,33880,14/03/1992,11,1992,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Leeton,40789,12/03/2011,11,2011,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Ross River
+Leeton,21/03/2012,24/03/2012,11,2012,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Ross River
+Griffith,26/03/2014,29/03/2014,11,2014,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Griffith,42280,14/03/2015,11,2015,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Leeton,42280,14/03/2015,11,2015,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Ross River
+Georges River - All,42250,14/03/2015,11,2015,Sydney,-33.977203,151.026151,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Ross River
+Homebush,42250,14/03/2015,11,2015,Sydney,-33.864,151.0819,17100,Strathfield,17100,Strathfield,Strathfield,Sydney,Ross River
+Georges River - East,26/03/2017,01/04/2017,11,2017,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Ross River
+Taree,20/03/1990,24/03/1990,12,1990,Coastal,-31.8889,152.444,13380,Greater Taree,15240,Mid-Coast,Mid-Coast,Hunter New England,Ross River
+Batemans Bay,33666,07/03/1992,12,1992,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Ross River
+Merimbula,34518,12/03/1994,12,1994,Coastal,-36.8879,149.9064,10550,Bega Valley,10550,Bega Valley,Bega Valley,Southern NSW,Ross River
+Port Stephens,14/03/1994,19/03/1994,12,1994,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Tathra,14/03/1995,18/03/1995,12,1995,Coastal,-36.7297,149.9858,10550,Bega Valley,10550,Bega Valley,Bega Valley,Southern NSW,Ross River
+Batemans Bay,24/03/1997,29/03/1997,12,1997,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Ross River
+Taree,24/03/1998,28/03/1998,12,1998,Coastal,-31.8889,152.444,13380,Greater Taree,15240,Mid-Coast,Mid-Coast,Hunter New England,Ross River
+Ballina,38567,12/03/2005,12,2005,Coastal,-29.21,153.44,10250,Ballina,10250,Ballina,Ballina,Northern NSW,Ross River
+Port Stephens,38567,12/03/2005,12,2005,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Port Stephens,22/03/2005,26/03/2005,12,2005,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Port Stephens,38932,11/03/2006,12,2006,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Port Stephens,14/03/2006,18/03/2006,12,2006,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Port Stephens,18/03/2009,21/03/2009,12,2009,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Port Stephens,40758,12/03/2011,12,2011,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Port Stephens,41063,10/03/2012,12,2012,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Ballina,18/03/2014,22/03/2014,12,2014,Coastal,-29.21,153.44,10250,Ballina,10250,Ballina,Ballina,Northern NSW,Ross River
+Coffs Harbour,18/03/2014,22/03/2014,12,2014,Coastal,-30.3,153.1094,11800,Coffs Harbour,11800,Coffs Harbour,Coffs Harbour,Northern NSW,Ross River
+Port Macquarie,17/03/2014,22/03/2014,12,2014,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Ross River
+Port Stephens,18/03/2014,22/03/2014,12,2014,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Port Stephens,24/03/2014,29/03/2014,12,2014,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Tweed,41762,08/03/2014,12,2014,Coastal,-28.256,153.55,17550,Tweed,17550,Tweed,Tweed,Northern NSW,Ross River
+Tweed,41946,15/03/2014,12,2014,Coastal,-28.256,153.55,17550,Tweed,17550,Tweed,Tweed,Northern NSW,Ross River
+Tweed,17/03/2014,22/03/2014,12,2014,Coastal,-28.256,153.55,17550,Tweed,17550,Tweed,Tweed,Northern NSW,Ross River
+Central Coast,13/03/2019,16/03/2019,12,2019,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Ross River
+Kempsey,43864,07/03/2020,12,2020,Coastal,-31.06,152.82,14350,Kempsey,14350,Kempsey,Kempsey,Mid North Coast,Ross River
+Kempsey,30/03/2020,04/04/2020,12,2020,Coastal,-31.06,152.82,14350,Kempsey,14350,Kempsey,Kempsey,Mid North Coast,Ross River
+Port Macquarie,43864,07/03/2020,12,2020,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Clarence Valley,Port Macquarie-Hastings,Mid North Coast,Ross River
+Port Macquarie,16/03/2020,21/03/2020,12,2020,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Ross River
+Port Macquarie,23/03/2020,28/03/2020,12,2020,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Ross River
+Port Macquarie,30/03/2020,04/04/2020,12,2020,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Ross River
+Clarence Valley,17/03/2021,20/03/2021,12,2021,Coastal,-29.8784,152.6384,11730,Clarence Valley,11730,Clarence Valley,Clarence Valley,Northern NSW,Ross River
+Central Coast,25/03/2024,30/03/2024,12,2024,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Ross River
+Newcastle,45599,16/03/2024,12,2024,Coastal,-32.8665,151.7618,15900,Newcastle,15900,Newcastle,Newcastle,Hunter New England,Ross River
+Kempsey,31/03/2025,05/04/2025,12,2025,Coastal,-31.06,152.82,14350,Kempsey,14350,Kempsey,Kempsey,Mid North Coast,Ross River
+Condobolin,33666,07/03/1992,12,1992,Inland,-33.0885,147.1473,14600,Lachlan,14600,Lachlan,Lachlan,Western NSW,Ross River
+Condobolin,17/03/1992,21/03/1992,12,1992,Inland,-33.0885,147.1473,14600,Lachlan,14600,Lachlan,Lachlan,Western NSW,Ross River
+Lake Cargelligo,17/03/1992,21/03/1992,12,1992,Inland,-33.2984,146.374,14600,Lachlan,14600,Lachlan,Lachlan,Western NSW,Ross River
+Boggabilla,14/03/1994,19/03/1994,12,1994,Inland,-28.6053,150.3605,15300,Moree Plains,15300,Moree Plains,Moree Plains,Hunter New England,Ross River
+Fords Bridge,28/03/2000,01/04/2000,12,2000,Inland,-29.7526,145.4248,11150,Bourke,11150,Bourke,Bourke,Western NSW,Ross River
+Griffith,20/03/2000,25/03/2000,12,2000,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Menindee,38049,06/03/2004,12,2004,Inland,-32.4,142.43,11700,Central Darling,11700,Central Darling,Central Darling,Far West,Ross River
+Griffith,40758,12/03/2011,12,2011,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Griffith,19/03/2012,24/03/2012,12,2012,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Leeton,13/03/2012,17/03/2012,12,2012,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Ross River
+Griffith,41946,15/03/2014,12,2014,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Griffith,17/03/2014,22/03/2014,12,2014,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Leeton,41976,15/03/2014,12,2014,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Ross River
+Leeton,42066,07/03/2015,12,2015,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Ross River
+Macquarie Marshes,42219,14/03/2015,12,2015,Inland,-30.6959,147.6304,10950,Bogan,10950,Bogan,Bogan,Western NSW,Ross River
+Leeton,42372,05/03/2016,12,2016,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Ross River
+Narrandera,13/03/2023,18/03/2023,12,2023,Inland,-34.7479,146.5504,15800,Narrandera,15800,Narrandera,Narrandera,Murrumbidgee,Ross River
+Griffith,45599,16/03/2024,12,2024,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Temora,45599,16/03/2024,12,2024,Inland,-34.37,147.52,17350,Temora,17350,Temora,Temora,Murrumbidgee,Ross River
+Hawkesbury,30/03/1999,03/04/1999,12,1999,Sydney,-33.2263,150.8609,13800,Hawkesbury,13800,Hawkesbury,Hawkesbury,Nepean Blue Mountains,Ross River
+Georges River - East,17/03/2009,21/03/2009,12,2009,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Ross River
+Georges River - East,31/03/2009,04/04/2009,12,2009,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Ross River
+Georges River - East,18/03/2010,20/03/2010,12,2010,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Ross River
+Hawkesbury,24/03/2010,27/03/2010,12,2010,Sydney,-33.2263,150.8609,13800,Hawkesbury,13800,Hawkesbury,Hawkesbury,Nepean Blue Mountains,Ross River
+Ryde,24/03/2010,27/03/2010,12,2010,Sydney,-33.813,151.105,16700,Ryde,16700,Ryde,Ryde,Northern Sydney,Ross River
+Bankstown,41762,08/03/2014,12,2014,Sydney,-33.9182,151.035,10350,Bankstown,11570,Canterbury-Bankstown,Canterbury-Bankstown,South Western Sydney,Ross River
+Georges River - East,41762,08/03/2014,12,2014,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Ross River
+Georges River - East,41946,15/03/2014,12,2014,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Ross River
+Georges River - East,17/03/2014,22/03/2014,12,2014,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Ross River
+Georges River - All,17/03/2015,21/03/2015,12,2015,Sydney,-33.977203,151.026151,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Ross River
+Georges River - West,31/03/2015,04/04/2015,12,2015,Sydney,-33.97309,151.011178,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Ross River
+Hawkesbury,42066,07/03/2015,12,2015,Sydney,-33.2263,150.8609,13800,Hawkesbury,13800,Hawkesbury,Hawkesbury,Nepean Blue Mountains,Ross River
+Homebush,17/03/2015,21/03/2015,12,2015,Sydney,-33.864,151.0819,17100,Strathfield,17100,Strathfield,Strathfield,Sydney,Ross River
+Georges River - All,42769,04/03/2017,12,2017,Sydney,-33.977203,151.026151,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Ross River
+Georges River - All,13/03/2017,18/03/2017,12,2017,Sydney,-33.977203,151.026151,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Ross River
+Georges River - West,19/03/2017,25/03/2017,12,2017,Sydney,-33.97309,151.011178,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Ross River
+Northern Beaches,30/03/2020,04/04/2020,12,2020,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Ross River
+Hawkesbury,29/03/2022,02/04/2022,12,2022,Sydney,-33.2263,150.8609,13800,Hawkesbury,13800,Hawkesbury,Hawkesbury,Nepean Blue Mountains,Ross River
+Northern Beaches,28/03/2022,02/04/2022,12,2022,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Ross River
+Penrith,45415,09/03/2024,12,2024,Sydney,-33.7507,150.6877,16350,Penrith,16350,Penrith,Penrith,Nepean Blue Mountains,Ross River
+Port Stephens,24/04/1990,28/04/1990,16,1990,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Ballina,33607,04/04/1992,16,1992,Coastal,-29.21,153.44,10250,Ballina,10250,Ballina,Ballina,Northern NSW,Ross River
+Port Macquarie,19/04/2005,23/04/2005,16,2005,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Ross River
+Port Stephens,38476,09/04/2005,16,2005,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Port Stephens,17/04/2007,21/04/2007,16,2007,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Byron Bay,24/04/2012,28/04/2012,16,2012,Coastal,-29.01,153.52,11350,Byron,11350,Byron,Byron,Northern NSW,Ross River
+Port Stephens,15/04/2014,19/04/2014,16,2014,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Port Stephens,29/04/2014,03/05/2014,16,2014,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Central Coast,26/04/2018,28/04/2018,16,2018,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Ross River
+Ballina,17/04/2019,20/04/2019,16,2019,Coastal,-29.21,153.44,10250,Ballina,10250,Ballina,Ballina,Northern NSW,Ross River
+Ballina,23/04/2019,27/04/2019,16,2019,Coastal,-29.21,153.44,10250,Ballina,10250,Ballina,Ballina,Northern NSW,Ross River
+Ballina,43986,11/04/2020,16,2020,Coastal,-29.21,153.44,10250,Ballina,10250,Ballina,Ballina,Northern NSW,Ross River
+Central Coast,43834,04/04/2020,16,2020,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Ross River
+Port Macquarie,27/04/2020,02/05/2020,16,2020,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Ross River
+Port Macquarie,26/04/2022,30/04/2022,16,2022,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Ross River
+Coffs Harbour,22/04/2025,26/04/2025,16,2025,Coastal,-30.3,153.1094,11800,Coffs Harbour,11800,Coffs Harbour,Coffs Harbour,Northern NSW,Ross River
+Kempsey,28/04/2025,03/05/2025,16,2025,Coastal,-31.06,152.82,14350,Kempsey,14350,Kempsey,Kempsey,Mid North Coast,Ross River
+Newcastle,45842,12/04/2025,16,2025,Coastal,-32.8665,151.7618,15900,Newcastle,15900,Newcastle,Newcastle,Hunter New England,Ross River
+Condobolin,33789,11/04/1992,16,1992,Inland,-33.0885,147.1473,14600,Lachlan,14600,Lachlan,Lachlan,Western NSW,Ross River
+Fords Bridge,36620,08/04/2000,16,2000,Inland,-29.7526,145.4248,11150,Bourke,11150,Bourke,Bourke,Western NSW,Ross River
+Griffith,40943,07/04/2012,16,2012,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Leeton,17/04/2012,21/04/2012,16,2012,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Ross River
+Leeton,41674,05/04/2014,16,2014,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Ross River
+Homebush,37199,14/04/2001,16,2001,Sydney,-33.864,151.0819,17100,Strathfield,17100,Strathfield,Strathfield,Sydney,Ross River
+Georges River - East,39998,11/04/2009,16,2009,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Ross River
+Blacktown,17/04/2014,19/04/2014,16,2014,Sydney,-33.7668,150.9053,10750,Blacktown,10750,Blacktown,Blacktown,Western Sydney,Ross River
+Georges River - East,29/04/2014,03/05/2014,16,2014,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Ross River
+Northern Beaches,43986,11/04/2020,16,2020,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Ross River
+Northern Beaches,27/04/2020,02/05/2020,16,2020,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Ross River
+Northern Beaches,44655,09/04/2022,16,2022,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Ross River
+Northern Beaches,44899,16/04/2022,16,2022,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Ross River
+Port Stephens,39145,07/04/2007,17,2007,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Byron Bay,41490,13/04/2013,17,2013,Coastal,-29.01,153.52,11350,Byron,11350,Byron,Byron,Northern NSW,Ross River
+Tweed,42220,11/04/2015,17,2015,Coastal,-28.256,153.55,17550,Tweed,17550,Tweed,Tweed,Northern NSW,Ross River
+Leeton,40972,07/04/2012,17,2012,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Ross River
+Georges River - East,14/04/2009,18/04/2009,17,2009,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Ross River
+Northern Beaches,20/04/2020,25/04/2020,17,2020,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Ross River
+Port Stephens,29/05/1989,03/06/1989,20,1989,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Nyngan,28/05/1990,02/06/1990,20,1990,Inland,-30.6959,147.6304,10950,Bogan,10950,Bogan,Bogan,Western NSW,Ross River
+Northern Beaches,44870,14/05/2022,20,2022,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Ross River
+Griffith,16/11/1998,21/11/1998,46,1998,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Forbes,15/11/2016,19/11/2016,46,2016,Inland,-33.3799,148.0067,12900,Forbes,12900,Forbes,Forbes,Western NSW,Ross River
+Griffith,21/11/2016,26/11/2016,46,2016,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Griffith,15/11/2022,19/11/2022,46,2022,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Griffith,35837,07/11/1998,47,1998,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Menindee,36018,14/11/1998,47,1998,Inland,-32.4,142.43,11700,Central Darling,11700,Central Darling,Central Darling,Far West,Ross River
+Forbes,29/11/2016,03/12/2016,47,2016,Inland,-33.3799,148.0067,12900,Forbes,12900,Forbes,Forbes,Western NSW,Ross River
+Griffith,42380,05/11/2016,47,2016,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Griffith,30/11/2016,03/12/2016,47,2016,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Leeton,16/11/2016,19/11/2016,47,2016,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Ross River
+Leeton,29/11/2016,03/12/2016,47,2016,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Ross River
+Murray-Mathoura,42593,12/11/2016,47,2016,Inland,-35.818,144.912,15500,Murray,15520,Murray River,Murray River,Murrumbidgee,Ross River
+Port Stephens,18/12/2007,22/12/2007,51,2007,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Ross River
+Wentworth,18/12/1990,22/12/1990,51,1990,Inland,-34.1071,141.9178,18200,Wentworth,18200,Wentworth,Wentworth,Far West,Ross River
+Griffith,29/12/1992,02/01/1993,51,1992,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Griffith,34315,18/12/1993,51,1993,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Griffith,30/12/1996,04/01/1997,51,1996,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Menindee,13/12/2005,17/12/2005,51,2005,Inland,-32.4,142.43,11700,Central Darling,11700,Central Darling,Central Darling,Far West,Ross River
+Albury,42502,10/12/2016,51,2016,Inland,-36.0737,146.9135,10050,Albury,10050,Albury,Albury,Murrumbidgee,Ross River
+Albury,19/12/2016,24/12/2016,51,2016,Inland,-36.0737,146.9135,10050,Albury,10050,Albury,Albury,Murrumbidgee,Ross River
+Forbes,42502,10/12/2016,51,2016,Inland,-33.3799,148.0067,12900,Forbes,12900,Forbes,Forbes,Western NSW,Ross River
+Griffith,42502,10/12/2016,51,2016,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Griffith,42716,17/12/2016,51,2016,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Leeton,42563,10/12/2016,51,2016,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Ross River
+Leeton,13/12/2016,17/12/2016,51,2016,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Ross River
+Murray-Mathoura,13/12/2016,17/12/2016,51,2016,Inland,-35.818,144.912,15500,Murray,15520,Murray River,Murray River,Murrumbidgee,Ross River
+Temora,44693,10/12/2022,51,2022,Inland,-34.37,147.52,17350,Temora,17350,Temora,Temora,Murrumbidgee,Ross River
+Griffith,19/12/2024,21/12/2024,51,2024,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Bankstown,17/12/2014,20/12/2014,51,2014,Sydney,-33.9182,151.035,10350,Bankstown,11570,Canterbury-Bankstown,Canterbury-Bankstown,South Western Sydney,Ross River
+Georges River - East,42594,10/12/2016,51,2016,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Ross River
+Georges River - East,29/12/2016,31/12/2016,51,2016,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Ross River
+Griffith,20/12/2005,24/12/2005,52,2005,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Ross River
+Griffith,17/01/1989,21/01/1989,3,1989,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Leeton,32721,14/01/1989,3,1989,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Sindbis
+Griffith,33117,13/01/1990,3,1990,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Wentworth,33451,12/01/1991,3,1991,Inland,-34.1071,141.9178,18200,Wentworth,18200,Wentworth,Wentworth,Far West,Sindbis
+Griffith,23/01/1994,29/01/1994,3,1994,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,36251,09/01/1999,3,1999,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,36465,16/01/1999,3,1999,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,18/01/1999,23/01/1999,3,1999,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Leeton,36281,09/01/1999,3,1999,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Sindbis
+Albury,16/01/2001,20/01/2001,3,2001,Inland,-36.0737,146.9135,10050,Albury,10050,Albury,Albury,Murrumbidgee,Sindbis
+Griffith,16/01/2001,20/01/2001,3,2001,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,23/01/2001,27/01/2001,3,2001,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Macquarie Marshes,21/01/2001,27/01/2001,3,2001,Inland,-30.6959,147.6304,10950,Bogan,10950,Bogan,Bogan,Western NSW,Sindbis
+Griffith,38991,14/01/2006,3,2006,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,17/01/2006,21/01/2006,3,2006,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,24/01/2006,28/01/2006,3,2006,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Leeton,39022,14/01/2006,3,2006,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Sindbis
+Leeton,18/01/2006,21/01/2006,3,2006,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Sindbis
+Leeton,24/01/2006,28/01/2006,3,2006,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Sindbis
+Albury,40848,15/01/2011,3,2011,Inland,-36.0737,146.9135,10050,Albury,10050,Albury,Albury,Murrumbidgee,Sindbis
+Bourke,17/01/2011,22/01/2011,3,2011,Inland,-30.0888,145.9378,11150,Bourke,11150,Bourke,Bourke,Far West,Sindbis
+Leeton,40664,08/01/2011,3,2011,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Sindbis
+Griffith,43009,14/01/2017,3,2017,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,22/01/2017,28/01/2017,3,2017,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,23/01/2017,28/01/2017,3,2017,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Leeton,17/01/2017,21/01/2017,3,2017,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Sindbis
+Griffith,31/01/1994,05/02/1994,4,1994,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Leeton,30/01/2001,03/02/2001,4,2001,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Sindbis
+Griffith,31/01/2006,04/02/2006,4,2006,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,42795,07/01/2017,4,2017,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,30/01/2017,04/02/2017,4,2017,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Ballina,34579,12/02/1994,7,1994,Coastal,-29.21,153.44,10250,Ballina,10250,Ballina,Ballina,Northern NSW,Sindbis
+Batemans Bay,21/02/1996,24/02/1996,7,1996,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Sindbis
+Leeton,27/02/1989,04/03/1989,7,1989,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Sindbis
+Griffith,15/02/1990,17/02/1990,7,1990,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,26/02/1990,03/03/1990,7,1990,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,15/02/1993,20/02/1993,7,1993,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Menindee,15/02/1993,20/02/1993,7,1993,Inland,-32.4,142.43,11700,Central Darling,11700,Central Darling,Central Darling,Far West,Sindbis
+Wentworth,16/02/1993,20/02/1993,7,1993,Inland,-34.1071,141.9178,18200,Wentworth,18200,Wentworth,Wentworth,Far West,Sindbis
+Wee Waa,15/02/1994,19/02/1994,7,1994,Inland,-30.2244,149.4392,15750,Narrabri,15750,Narrabri,Narrabri,Hunter New England,Sindbis
+Griffith,15/02/1999,20/02/1999,7,1999,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,22/02/1999,27/02/1999,7,1999,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Albury,15/02/2001,17/02/2001,7,2001,Inland,-36.0737,146.9135,10050,Albury,10050,Albury,Albury,Murrumbidgee,Sindbis
+Griffith,15/02/2001,17/02/2001,7,2001,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,15/02/2006,18/02/2006,7,2006,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Leeton,40788,12/02/2011,7,2011,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Sindbis
+Menindee,27/02/2012,03/03/2012,7,2012,Inland,-32.4,142.43,11700,Central Darling,11700,Central Darling,Central Darling,Far West,Sindbis
+Tweed,19/02/2024,24/02/2024,8,2024,Coastal,-28.256,153.55,17550,Tweed,17550,Tweed,Tweed,Northern NSW,Sindbis
+Griffith,32541,04/02/1989,8,1989,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,32691,11/02/1989,8,1989,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,14/02/1989,18/02/1989,8,1989,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,20/02/1989,25/02/1989,8,1989,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,33026,10/02/1990,8,1990,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,20/02/1990,24/02/1990,8,1990,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Condobolin,34030,06/02/1993,8,1993,Inland,-33.0885,147.1473,14600,Lachlan,14600,Lachlan,Lachlan,Western NSW,Sindbis
+Griffith,33971,06/02/1993,8,1993,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,34183,13/02/1993,8,1993,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Menindee,34183,13/02/1993,8,1993,Inland,-32.4,142.43,11700,Central Darling,11700,Central Darling,Central Darling,Far West,Sindbis
+Griffith,34487,12/02/1994,8,1994,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,13/02/1994,19/02/1994,8,1994,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,20/02/1994,26/02/1994,8,1994,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Leeton,13/02/1994,19/02/1994,8,1994,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Sindbis
+Bourke,18/02/1996,24/02/1996,8,1996,Inland,-30.0888,145.9378,11150,Bourke,11150,Bourke,Bourke,Far West,Sindbis
+Deniliquin,14/02/1996,17/02/1996,8,1996,Inland,-35.53,144.99,12500,Deniliquin,12730,Edward River,Edward River,Murrumbidgee,Sindbis
+Griffith,19/02/1996,24/02/1996,8,1996,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,37044,10/02/2001,8,2001,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,22/02/2001,24/02/2001,8,2001,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Leeton,28/02/2001,03/03/2001,8,2001,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Sindbis
+Griffith,22/02/2006,25/02/2006,8,2006,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Leeton,38719,04/02/2006,8,2006,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Sindbis
+Leeton,14/02/2006,18/02/2006,8,2006,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Sindbis
+Griffith,39754,16/02/2008,8,2008,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,25/02/2008,01/03/2008,8,2008,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,42888,11/02/2017,8,2017,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Maclean,22/03/1990,24/03/1990,11,1990,Coastal,-29.4606,153.2019,11730,Clarence Valley,11730,Clarence Valley,Clarence Valley,Northern NSW,Sindbis
+Griffith,15/03/1993,20/03/1993,11,1993,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,22/03/1993,27/03/1993,11,1993,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,27/03/2000,01/04/2000,11,2000,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,15/03/2006,18/03/2006,11,2006,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,26/03/2012,31/03/2012,11,2012,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Leeton,21/03/2012,24/03/2012,11,2012,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Sindbis
+Wagga Wagga,26/03/2012,31/03/2012,11,2012,Inland,-35.1082,147.3598,17750,Wagga Wagga,17750,Wagga Wagga,Wagga Wagga,Murrumbidgee,Sindbis
+Ballina,16/03/2006,18/03/2006,12,2006,Coastal,-29.21,153.44,10250,Ballina,10250,Ballina,Ballina,Northern NSW,Sindbis
+Wee Waa,14/03/1989,18/03/1989,12,1989,Inland,-30.2244,149.4392,15750,Narrabri,15750,Narrabri,Narrabri,Hunter New England,Sindbis
+Griffith,13/03/1990,17/03/1990,12,1990,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,33575,16/03/1991,12,1991,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,33972,06/03/1993,12,1993,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Wentworth,30/03/1993,03/04/1993,12,1993,Inland,-34.1071,141.9178,18200,Wentworth,18200,Wentworth,Wentworth,Far West,Sindbis
+Griffith,34488,12/03/1994,12,1994,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Condobolin,35402,16/03/1996,12,1996,Inland,-33.0885,147.1473,14600,Lachlan,14600,Lachlan,Lachlan,Western NSW,Sindbis
+Griffith,36163,06/03/1999,12,1999,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Fords Bridge,28/03/2000,01/04/2000,12,2000,Inland,-29.7526,145.4248,11150,Bourke,11150,Bourke,Bourke,Western NSW,Sindbis
+Griffith,38932,11/03/2006,12,2006,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,19/03/2012,24/03/2012,12,2012,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Port Macquarie,43012,15/04/2017,16,2017,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Sindbis
+Fords Bridge,36620,08/04/2000,16,2000,Inland,-29.7526,145.4248,11150,Bourke,11150,Bourke,Bourke,Western NSW,Sindbis
+Condobolin,27/11/1990,01/12/1990,46,1990,Inland,-33.0885,147.1473,14600,Lachlan,14600,Lachlan,Lachlan,Western NSW,Sindbis
+Hay,27/11/1990,01/12/1990,46,1990,Inland,-34.5042,144.8445,13850,Hay,13850,Hay,Hay,Murrumbidgee,Sindbis
+Griffith,21/11/2016,26/11/2016,46,2016,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Menindee,20/11/1989,25/11/1989,47,1989,Inland,-32.4,142.43,11700,Central Darling,11700,Central Darling,Central Darling,Far West,Sindbis
+Wentworth,33035,10/11/1990,47,1990,Inland,-34.1071,141.9178,18200,Wentworth,18200,Wentworth,Wentworth,Far West,Sindbis
+Albury,23/11/2010,27/11/2010,47,2010,Inland,-36.0737,146.9135,10050,Albury,10050,Albury,Albury,Murrumbidgee,Sindbis
+Griffith,16/11/2010,20/11/2010,47,2010,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,23/11/2010,27/11/2010,47,2010,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,30/11/2010,04/12/2010,47,2010,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Forbes,42562,12/11/2016,47,2016,Inland,-33.3799,148.0067,12900,Forbes,12900,Forbes,Forbes,Western NSW,Sindbis
+Griffith,30/11/2016,03/12/2016,47,2016,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Leeton,15/12/1998,19/12/1998,50,1998,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Sindbis
+Wentworth,32854,16/12/1989,51,1989,Inland,-34.1071,141.9178,18200,Wentworth,18200,Wentworth,Wentworth,Far West,Sindbis
+Albury,17/12/1990,22/12/1990,51,1990,Inland,-36.0737,146.9135,10050,Albury,10050,Albury,Albury,Murrumbidgee,Sindbis
+Condobolin,33219,15/12/1990,51,1990,Inland,-33.0885,147.1473,14600,Lachlan,14600,Lachlan,Lachlan,Western NSW,Sindbis
+Lake Cargelligo,33005,08/12/1990,51,1990,Inland,-33.2984,146.374,14600,Lachlan,14600,Lachlan,Lachlan,Western NSW,Sindbis
+Lake Cargelligo,19/12/1990,22/12/1990,51,1990,Inland,-33.2984,146.374,14600,Lachlan,14600,Lachlan,Lachlan,Western NSW,Sindbis
+Menindee,33219,15/12/1990,51,1990,Inland,-32.4,142.43,11700,Central Darling,11700,Central Darling,Central Darling,Far West,Sindbis
+Wentworth,32975,08/12/1990,51,1990,Inland,-34.1071,141.9178,18200,Wentworth,18200,Wentworth,Wentworth,Far West,Sindbis
+Wentworth,18/12/1990,22/12/1990,51,1990,Inland,-34.1071,141.9178,18200,Wentworth,18200,Wentworth,Wentworth,Far West,Sindbis
+Griffith,21/12/1998,26/12/1998,51,1998,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,28/12/1998,02/01/1999,51,1998,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Leeton,21/12/1998,26/12/1998,51,1998,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Sindbis
+Leeton,29/12/1998,02/01/1999,51,1998,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Sindbis
+Griffith,26/12/2000,30/12/2000,51,2000,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Macquarie Marshes,18/12/2000,23/12/2000,51,2000,Inland,-30.6959,147.6304,10950,Bogan,10950,Bogan,Bogan,Western NSW,Sindbis
+Albury,13/12/2010,18/12/2010,51,2010,Inland,-36.0737,146.9135,10050,Albury,10050,Albury,Albury,Murrumbidgee,Sindbis
+Albury,22/12/2010,25/12/2010,51,2010,Inland,-36.0737,146.9135,10050,Albury,10050,Albury,Albury,Murrumbidgee,Sindbis
+Griffith,13/12/2010,18/12/2010,51,2010,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,21/12/2010,25/12/2010,51,2010,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,31/12/2010,01/01/2011,51,2010,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Leeton,14/12/2010,18/12/2010,51,2010,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Sindbis
+Leeton,23/12/2010,25/12/2010,51,2010,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Sindbis
+Murray-Mathoura,40371,11/12/2010,51,2010,Inland,-35.818,144.912,15500,Murray,15520,Murray River,Murray River,Murrumbidgee,Sindbis
+Murray-Mathoura,14/12/2010,18/12/2010,51,2010,Inland,-35.818,144.912,15500,Murray,15520,Murray River,Murray River,Murrumbidgee,Sindbis
+Murray-Mathoura,21/12/2010,25/12/2010,51,2010,Inland,-35.818,144.912,15500,Murray,15520,Murray River,Murray River,Murrumbidgee,Sindbis
+Wagga Wagga,21/12/2010,25/12/2010,51,2010,Inland,-35.1082,147.3598,17750,Wagga Wagga,17750,Wagga Wagga,Wagga Wagga,Murrumbidgee,Sindbis
+Griffith,42502,10/12/2016,51,2016,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,42716,17/12/2016,51,2016,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Griffith,19/12/2016,24/12/2016,51,2016,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Sindbis
+Leeton,42563,10/12/2016,51,2016,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Sindbis
+Leeton,13/12/2016,17/12/2016,51,2016,Inland,-34.525,146.3998,14750,Leeton,14750,Leeton,Leeton,Murrumbidgee,Sindbis
+Batemans Bay,23/01/1995,28/01/1995,3,1995,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Stratford
+Port Stephens,15/01/2008,19/01/2008,3,2008,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Stratford
+Port Stephens,23/01/2008,26/01/2008,3,2008,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Stratford
+Cumberland State Forest,19/01/1999,23/01/1999,3,1999,Sydney,-33.7458,151.0374,17420,The Hills,17420,The Hills,The Hills,Western Sydney,Stratford
+Georges River - East,21/01/2014,25/01/2014,3,2014,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Stratford
+Georges River - East,29/01/2014,01/02/2014,3,2014,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Stratford
+Parramatta,23/01/2019,26/01/2019,3,2019,Sydney,-33.8136,151.0034,16250,Parramatta,16250,Parramatta,Parramatta,Western Sydney,Stratford
+Georges River - East,44317,09/01/2021,3,2021,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Stratford
+Georges River,29/01/2025,01/02/2025,3,2025,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Stratford
+Port Stephens,31/01/2006,04/02/2006,4,2006,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Stratford
+Griffith,14/01/2014,18/01/2014,4,2014,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Stratford
+Georges River - East,14/01/2014,18/01/2014,4,2014,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Stratford
+Georges River - West,30/01/2018,03/02/2018,4,2018,Sydney,-33.97309,151.011178,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Stratford
+Batemans Bay,27/02/1995,04/03/1995,7,1995,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Stratford
+Lake Macquarie,16/02/2006,18/02/2006,7,2006,Coastal,-33.0311,151.5603,14650,Lake Macquarie,14650,Lake Macquarie,Lake Macquarie,Hunter New England,Stratford
+Lake Macquarie,21/02/2006,25/02/2006,7,2006,Coastal,-33.0311,151.5603,14650,Lake Macquarie,14650,Lake Macquarie,Lake Macquarie,Hunter New England,Stratford
+Newcastle,16/02/2006,18/02/2006,7,2006,Coastal,-32.8665,151.7618,15900,Newcastle,15900,Newcastle,Newcastle,Hunter New England,Stratford
+Port Stephens,21/02/2006,25/02/2006,7,2006,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Stratford
+Byron Bay,40423,13/02/2010,7,2010,Coastal,-29.01,153.52,11350,Byron,11350,Byron,Byron,Northern NSW,Stratford
+Tweed,42249,14/02/2015,7,2015,Coastal,-28.256,153.55,17550,Tweed,17550,Tweed,Tweed,Northern NSW,Stratford
+Central Coast,43557,09/02/2019,7,2019,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Stratford
+Narooma,45384,10/02/2024,7,2024,Coastal,-36.2344,150.0679,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Stratford
+Port Macquarie,26/02/2024,02/03/2024,7,2024,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Stratford
+Blacktown,26/02/2013,02/03/2013,7,2013,Sydney,-33.7668,150.9053,10750,Blacktown,10750,Blacktown,Blacktown,Western Sydney,Stratford
+Georges River - East,41731,08/02/2014,7,2014,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Stratford
+Sydney Olympic Park,27/02/2020,29/02/2020,7,2020,Sydney,-33.8354,151.0654,16250,Parramatta,12380,Parramatta,Parramatta,Western Sydney,Stratford
+Georges River - West,27/02/2024,02/03/2024,7,2024,Sydney,-33.97309,151.011178,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Stratford
+Georges River,45932,15/02/2025,7,2025,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Stratford
+Batemans Bay,34852,11/02/1995,8,1995,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Stratford
+Batemans Bay,14/02/1995,18/02/1995,8,1995,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Stratford
+Batemans Bay,20/02/1995,25/02/1995,8,1995,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Stratford
+Port Stephens,19/02/1996,24/02/1996,8,1996,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Stratford
+Central Coast,24/02/2006,25/02/2006,8,2006,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Stratford
+Lake Macquarie,20/02/2006,25/02/2006,8,2006,Coastal,-33.0311,151.5603,14650,Lake Macquarie,14650,Lake Macquarie,Lake Macquarie,Hunter New England,Stratford
+Port Stephens,14/02/2006,18/02/2006,8,2006,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Stratford
+Port Stephens,28/02/2006,04/03/2006,8,2006,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Stratford
+Batemans Bay,24/02/2010,27/02/2010,8,2010,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Stratford
+Byron Bay,40211,06/02/2010,8,2010,Coastal,-29.01,153.52,11350,Byron,11350,Byron,Byron,Northern NSW,Stratford
+Lake Macquarie,25/02/2010,27/02/2010,8,2010,Coastal,-33.0311,151.5603,14650,Lake Macquarie,14650,Lake Macquarie,Lake Macquarie,Hunter New England,Stratford
+Port Stephens,40211,06/02/2010,8,2010,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Stratford
+Port Stephens,18/02/2010,20/02/2010,8,2010,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Stratford
+Clarence Valley,18/02/2020,22/02/2020,8,2020,Coastal,-29.8784,152.6384,11730,Clarence Valley,11730,Clarence Valley,Clarence Valley,Northern NSW,Stratford
+Port Macquarie,43892,08/02/2020,8,2020,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Stratford
+Central Coast,45475,10/02/2024,8,2024,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Stratford
+Central Coast,22/02/2024,24/02/2024,8,2024,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Stratford
+Newcastle,45445,10/02/2024,8,2024,Coastal,-32.8665,151.7618,15900,Newcastle,15900,Newcastle,Newcastle,Hunter New England,Stratford
+Newcastle,45628,17/02/2024,8,2024,Coastal,-32.8665,151.7618,15900,Newcastle,15900,Newcastle,Newcastle,Hunter New England,Stratford
+Central Coast,18/02/2025,22/02/2025,8,2025,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Stratford
+Georges River - East,40392,13/02/2010,8,2010,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Stratford
+Georges River - East,43283,10/02/2018,8,2018,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Stratford
+Georges River - West,43436,17/02/2018,8,2018,Sydney,-33.97309,151.011178,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Stratford
+Parramatta,18/02/2019,23/02/2019,8,2019,Sydney,-33.8136,151.0034,16250,Parramatta,16250,Parramatta,Parramatta,Western Sydney,Stratford
+Parramatta,25/02/2019,02/03/2019,8,2019,Sydney,-33.8136,151.0034,16250,Parramatta,16250,Parramatta,Parramatta,Western Sydney,Stratford
+Sydney Olympic Park,43801,16/02/2019,8,2019,Sydney,-33.8354,151.0654,16250,Parramatta,12380,Parramatta,Parramatta,Western Sydney,Stratford
+Bankstown,45628,17/02/2024,8,2024,Sydney,-33.9182,151.035,10350,Bankstown,11570,Canterbury-Bankstown,Canterbury-Bankstown,South Western Sydney,Stratford
+Georges River - West,45475,10/02/2024,8,2024,Sydney,-33.97309,151.011178,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Stratford
+Hawkesbury,45445,10/02/2024,8,2024,Sydney,-33.2263,150.8609,13800,Hawkesbury,13800,Hawkesbury,Hawkesbury,Nepean Blue Mountains,Stratford
+Sydney Olympic Park,45414,10/02/2024,8,2024,Sydney,-33.8354,151.0654,16250,Parramatta,12380,Parramatta,Parramatta,Western Sydney,Stratford
+The Hills,29/02/2024,02/03/2024,8,2024,Sydney,-33.6049,150.9773,17420,The Hills,17420,The Hills,The Hills,Western Sydney,Stratford
+Central Coast,26/03/2013,30/03/2013,11,2013,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Stratford
+Lake Macquarie,26/03/2013,30/03/2013,11,2013,Coastal,-33.0311,151.5603,14650,Lake Macquarie,14650,Lake Macquarie,Lake Macquarie,Hunter New England,Stratford
+Port Macquarie,44077,14/03/2020,11,2020,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Stratford
+Tweed,44077,14/03/2020,11,2020,Coastal,-28.256,153.55,17550,Tweed,17550,Tweed,Tweed,Northern NSW,Stratford
+Tweed,45385,09/03/2024,11,2024,Coastal,-28.256,153.55,17550,Tweed,17550,Tweed,Tweed,Northern NSW,Stratford
+Hawkesbury,26/03/2013,30/03/2013,11,2013,Sydney,-33.2263,150.8609,13800,Hawkesbury,13800,Hawkesbury,Hawkesbury,Nepean Blue Mountains,Stratford
+Northern Beaches,21/03/2023,25/03/2023,11,2023,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Stratford
+Hawkesbury,26/03/2024,30/03/2024,11,2024,Sydney,-33.2263,150.8609,13800,Hawkesbury,13800,Hawkesbury,Hawkesbury,Nepean Blue Mountains,Stratford
+Penrith,26/03/2024,30/03/2024,11,2024,Sydney,-33.7507,150.6877,16350,Penrith,16350,Penrith,Penrith,Nepean Blue Mountains,Stratford
+Lake Macquarie,14/03/2006,18/03/2006,12,2006,Coastal,-33.0311,151.5603,14650,Lake Macquarie,14650,Lake Macquarie,Lake Macquarie,Hunter New England,Stratford
+Port Stephens,14/03/2006,18/03/2006,12,2006,Coastal,-32.7685,151.8409,16400,Port Stephens,16400,Port Stephens,Port Stephens,Hunter New England,Stratford
+Byron Bay,23/03/2010,27/03/2010,12,2010,Coastal,-29.01,153.52,11350,Byron,11350,Byron,Byron,Northern NSW,Stratford
+Ballina,25/03/2013,30/03/2013,12,2013,Coastal,-29.21,153.44,10250,Ballina,10250,Ballina,Ballina,Northern NSW,Stratford
+Byron Bay,25/03/2013,30/03/2013,12,2013,Coastal,-29.01,153.52,11350,Byron,11350,Byron,Byron,Northern NSW,Stratford
+Central Coast,41581,16/03/2013,12,2013,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Stratford
+Tweed,25/03/2013,30/03/2013,12,2013,Coastal,-28.256,153.55,17550,Tweed,17550,Tweed,Tweed,Northern NSW,Stratford
+Kempsey,23/03/2020,28/03/2020,12,2020,Coastal,-31.06,152.82,14350,Kempsey,14350,Kempsey,Kempsey,Mid North Coast,Stratford
+Lake Macquarie,43893,07/03/2020,12,2020,Coastal,-33.0311,151.5603,14650,Lake Macquarie,14650,Lake Macquarie,Lake Macquarie,Hunter New England,Stratford
+Port Macquarie,43864,07/03/2020,12,2020,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Stratford
+Port Macquarie,23/03/2020,28/03/2020,12,2020,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Stratford
+Tweed,23/03/2020,28/03/2020,12,2020,Coastal,-28.256,153.55,17550,Tweed,17550,Tweed,Tweed,Northern NSW,Stratford
+Central Coast,45110,11/03/2023,12,2023,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Stratford
+Central Coast,23/03/2023,25/03/2023,12,2023,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Stratford
+Kiama,45080,11/03/2023,12,2023,Coastal,-34.701,150.833,14400,Kiama,14400,Kiama,Kiama,Illawarra Shoalhaven,Stratford
+Batemans Bay,25/03/2024,30/03/2024,12,2024,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Stratford
+Lake Cathie,17/03/2025,22/03/2025,12,2025,Coastal,-31.72,152.83,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Stratford
+Parramatta,36222,06/03/1999,12,1999,Sydney,-33.8136,151.0034,16250,Parramatta,16250,Parramatta,Parramatta,Western Sydney,Stratford
+Georges River - East,18/03/2010,20/03/2010,12,2010,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Stratford
+Blacktown,41397,09/03/2013,12,2013,Sydney,-33.7668,150.9053,10750,Blacktown,10750,Blacktown,Blacktown,Western Sydney,Stratford
+Blacktown,41611,16/03/2013,12,2013,Sydney,-33.7668,150.9053,10750,Blacktown,10750,Blacktown,Blacktown,Western Sydney,Stratford
+Georges River - West,13/03/2017,18/03/2017,12,2017,Sydney,-33.97309,151.011178,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Stratford
+Georges River - West,19/03/2017,25/03/2017,12,2017,Sydney,-33.97309,151.011178,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Stratford
+Georges River - East,14/03/2019,16/03/2019,12,2019,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Stratford
+Parramatta,43802,16/03/2019,12,2019,Sydney,-33.8136,151.0034,16250,Parramatta,16250,Parramatta,Parramatta,Western Sydney,Stratford
+Northern Beaches,19/03/2020,21/03/2020,12,2020,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Stratford
+Georges River - East,24/03/2021,27/03/2021,12,2021,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Stratford
+Georges River - West,25/03/2021,27/03/2021,12,2021,Sydney,-33.97309,151.011178,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Stratford
+Northern Beaches,28/03/2022,02/04/2022,12,2022,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Stratford
+Georges River - West,13/03/2023,18/03/2023,12,2023,Sydney,-33.97309,151.011178,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Stratford
+Penrith,45110,11/03/2023,12,2023,Sydney,-33.7507,150.6877,16350,Penrith,16350,Penrith,Penrith,Nepean Blue Mountains,Stratford
+The Hills,45446,09/03/2024,12,2024,Sydney,-33.6049,150.9773,17420,The Hills,17420,The Hills,The Hills,Western Sydney,Stratford
+Northern Beaches,45964,15/03/2025,12,2025,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Stratford
+Sydney Olympic Park,19/03/2025,22/03/2025,12,2025,Sydney,-33.8354,151.0654,16250,Parramatta,12380,Parramatta,Parramatta,Western Sydney,Stratford
+Central Coast,38872,08/04/2006,16,2006,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Stratford
+Lake Macquarie,38841,08/04/2006,16,2006,Coastal,-33.0311,151.5603,14650,Lake Macquarie,14650,Lake Macquarie,Lake Macquarie,Hunter New England,Stratford
+Lake Macquarie,41309,06/04/2013,16,2013,Coastal,-33.0311,151.5603,14650,Lake Macquarie,14650,Lake Macquarie,Lake Macquarie,Hunter New England,Stratford
+Central Coast,44016,11/04/2020,16,2020,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Stratford
+Central Coast,45569,13/04/2024,16,2024,Coastal,-33.232,151.2173,11650,Central Coast,11650,Central Coast,Central Coast,Central Coast,Stratford
+Narooma,45477,13/04/2024,16,2024,Coastal,-36.2344,150.0679,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Stratford
+Narooma,22/04/2024,27/04/2024,16,2024,Coastal,-36.2344,150.0679,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Stratford
+Cumberland State Forest,36315,10/04/1999,16,1999,Sydney,-33.7458,151.0374,17420,The Hills,17420,The Hills,The Hills,Western Sydney,Stratford
+Penrith,36376,10/04/1999,16,1999,Sydney,-33.7507,150.6877,16350,Penrith,16350,Penrith,Penrith,Nepean Blue Mountains,Stratford
+Hawkesbury,38537,09/04/2005,16,2005,Sydney,-33.2263,150.8609,13800,Hawkesbury,13800,Hawkesbury,Hawkesbury,Nepean Blue Mountains,Stratford
+Bankstown,18/04/2013,20/04/2013,16,2013,Sydney,-33.9182,151.035,10350,Bankstown,11570,Canterbury-Bankstown,Canterbury-Bankstown,South Western Sydney,Stratford
+Northern Beaches,27/04/2020,02/05/2020,16,2020,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Stratford
+Georges River - East,44381,10/04/2021,16,2021,Sydney,-33.98247,151.035506,17150,Sutherland,17150,Sutherland,Sutherland,South Eastern Sydney,Stratford
+Northern Beaches,44655,09/04/2022,16,2022,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Stratford
+Northern Beaches,26/04/2022,30/04/2022,16,2022,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Stratford
+Hawkesbury,16/04/2024,20/04/2024,16,2024,Sydney,-33.2263,150.8609,13800,Hawkesbury,13800,Hawkesbury,Hawkesbury,Nepean Blue Mountains,Stratford
+Northern Beaches,45326,06/04/2024,16,2024,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Stratford
+Northern Beaches,27/04/2024,27/04/2024,16,2024,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Stratford
+The Hills,45600,13/04/2024,16,2024,Sydney,-33.6049,150.9773,17420,The Hills,17420,The Hills,The Hills,Western Sydney,Stratford
+Earlwood,23/04/2025,26/04/2025,16,2025,Sydney,-33.933,151.144,10350,Bankstown,11570,Canterbury-Bankstown,Canterbury-Bankstown,Sydney,Stratford
+Northern Beaches,15/04/2025,19/04/2025,16,2025,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Stratford
+Port Macquarie,44989,08/04/2023,17,2023,Coastal,-31.38,152.9,16380,Port Macquarie-Hastings,16380,Port Macquarie-Hastings,Port Macquarie-Hastings,Mid North Coast,Stratford
+Batemans Bay,45355,06/04/2024,17,2024,Coastal,-35.7162,150.1795,12750,Eurobodalla,12750,Eurobodalla,Eurobodalla,Southern NSW,Stratford
+Homebush,41490,13/04/2013,17,2013,Sydney,-33.864,151.0819,17100,Strathfield,17100,Strathfield,Strathfield,Sydney,Stratford
+Northern Beaches,20/04/2020,25/04/2020,17,2020,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Stratford
+Cumberland,45720,05/04/2025,17,2025,Sydney,-33.85,151.03,16250,Parramatta,16250,Parramatta,Parramatta,Western Sydney,Stratford
+Northern Beaches,45873,12/04/2025,17,2025,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Stratford
+Northern Beaches,43926,09/05/2020,20,2020,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Stratford
+Northern Beaches,44597,07/05/2022,21,2022,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Stratford
+Parramatta,44625,07/05/2022,21,2022,Sydney,-33.8136,151.0034,16250,Parramatta,16250,Parramatta,Parramatta,Western Sydney,Stratford
+Parramatta,44778,07/05/2022,21,2022,Sydney,-33.8136,151.0034,16250,Parramatta,16250,Parramatta,Parramatta,Western Sydney,Stratford
+Sydney Olympic Park,44625,07/05/2022,21,2022,Sydney,-33.8354,151.0654,16250,Parramatta,12380,Parramatta,Parramatta,Western Sydney,Stratford
+Deniliquin,14/01/2025,18/01/2025,4,2025,Inland,-35.53,144.99,12500,Deniliquin,12730,Edward River,Edward River,Murrumbidgee,Trubanaman
+Griffith,33971,06/02/1993,8,1993,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Trubanaman
+Griffith,33880,14/03/1992,11,1992,Inland,-34.2801,146.0455,13450,Griffith,13450,Griffith,Griffith,Murrumbidgee,Trubanaman
+Northern Beaches,25/03/2025,29/03/2025,12,2025,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Trubanaman
+Northern Beaches,45873,12/04/2025,17,2025,Sydney,-33.676,151.2569,18000,Warringah,15990,Northern Beaches,Northern Beaches,Northern Sydney,Trubanaman
+Wentworth,21/11/1989,25/11/1989,46,1989,Inland,-34.1071,141.9178,18200,Wentworth,18200,Wentworth,Wentworth,Far West,Trubanaman

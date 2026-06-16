@@ -22,13 +22,7 @@ date: 2025-10-27
 
 Download all the day's materials
 
-[Download all](){.btn .btn-secondary}
-
-### Reference Document
-
-<iframe src="" width="100%" height="600px" style="border: none;"></iframe>
-
-[Download PDF](){.btn .btn-outline-primary}
+[Download all](/materials/workshop_2/day-1/day-1.zip){.btn .btn-secondary}
 
 
 ### Video Recordings

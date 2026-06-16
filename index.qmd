@@ -83,8 +83,6 @@ Caroline Wanja Mugo is a Lecturer in Biostatistics at JKUAT with a background in
 
 *Associate Professor*
 
-**Brief Biography**
-
 Gichuhi A. Waititu is an Associate Professor of Statistics at Jomo Kenyatta University of Agriculture and Technology (JKUAT), Kenya. He currently serves as the Dean of the School of Mathematics and Physical Sciences at JKUAT. He has over twenty (20) years of experience in teaching applied statistics at university level, alongside extensive engagement in research and academic leadership. His research interests focus on Machine Learning and Artificial Intelligence, with applications in data science and statistical modelling.
 
 :::

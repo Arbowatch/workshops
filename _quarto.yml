@@ -1,5 +1,6 @@
 project:
   type: website
+  pre-render: build-gallery.py
 
 website:
   title: "ARBO-WATCH"

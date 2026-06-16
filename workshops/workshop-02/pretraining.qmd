@@ -1,4 +1,13 @@
 ---
-title: 'Pre-training Session'
-date: 2025-08-23
+title: "Pre-training Session"
+date: 2025-10-23
 ---
+
+### Schedule
+
+| Time | Activity | Facilitator |
+| ---- | -------- | ----------- |
+| 11:00 – 11:30 AM | Installing R and RStudio | Henry Kissinger |
+| | Verifying installation and troubleshooting | |
+| | Overview of the RStudio interface | |
+| 11:30 AM – 12:00 PM | Pre-training survey | Henry Kissinger |

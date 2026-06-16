@@ -1,21 +1,16 @@
 ---
 title: "Introduction to R for Public Health Surveillance"
 date: 2025-10-27
-description: "This workshop introduces participants to the basics of R programming for public health surveillance. Participants will learn how to import, clean, and visualize data, as well as perform basic statistical analyses."
+description: "Introduces R for reproducible data handling, analysis, and visualization."
 ---
 
-## Facilitators
 
-| Name | Institution |
-| ---- |------------ |
-| Kissinger Athiany | JKUAT |
-| Caroline Wanja Mugo | JKUAT |
-| Prof Anthony Waititu | JKUAT |
-| Dr Charity Mkajuma Wamwea | JKUAT |
-| Dr Winnie Chacha | JKUAT |
+### Introduction
+
+- lorem lorem lore 
 
 
-## Prerequisites
+### Prerequisites
 
 Before attending, please ensure you have:
 
@@ -34,24 +29,24 @@ Before attending, please ensure you have:
 | [Day 2](day-02.qmd) | 02 Jun 2024 | Transect Surveys, Data Entry and Validation | John Smith |
 
 
-## Materials
+### Materials
 
-### Slides
 
-| Day | Link |
-|---|---|
-| Day 1 | [View Slides](slides.qmd){.btn .btn-sm .btn-primary} |
-| Day 2 | [View Slides](slides.qmd){.btn .btn-sm .btn-primary} |
 
-### R Scripts
 
-| File | Description |
-|---|---|
-| [analysis.R](analysis.R) | Field data summarisation script |
 
-### Reference Documents
+### Facilitators
 
-| File | Description |
-|---|---|
-| [reference.pdf](reference.pdf) | Field protocols and data sheet templates |
+| Name | Institution |
+| ---- |------------ |
+| Kissinger Athiany | JKUAT |
+| Caroline Wanja Mugo | JKUAT |
+| Prof Anthony Waititu | JKUAT |
+| Dr Charity Mkajuma Wamwea | JKUAT |
+| Dr Winnie Chacha | JKUAT |
 
+
+### Mentors
+
+
+### Participants

@@ -15,11 +15,23 @@ website:
             text: "Module I - Data Collection and Management"
           - href: workshops/workshop-02/index.qmd
             text: "Module II - Introduction to R for Public Health Surveillance"
+          - href: workshops/workshop-03/index.qmd
+            text: "Module III - Statistical Modelling for Public Health Research"
+          - href: workshops/workshop-04/index.qmd
+            text: "Module IV - Mathematical Modelling Techniques"
+          - href: workshops/workshop-05/index.qmd
+            text: "Module V - Spatial Epidemiology, Risk Mapping, and Decision Support Systems"
+          
     right:
+      - href: gallery.qmd
+        text: Photo gallery
+
       - href: contact.qmd
         text: Contact
+
       - href: license.qmd
         text: License
+
       - icon: github
         href: https://github.com/Arbowatch/workshops
         aria-label: GitHub
@@ -60,6 +72,7 @@ website:
               href: workshops/workshop-02/day-01.qmd
             - text: "Day 2"
               href: workshops/workshop-02/day-02.qmd
+
 
   page-footer:
     background: "#3f3731"

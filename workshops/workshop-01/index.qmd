@@ -1,20 +1,22 @@
 ---
 title: "Data Collection and Management"
 date: 2025-08-25
-description: "This workshop introduces participants to the ARBO-WATCH project; its goals, structure, and the monitoring framework that underpins project. By the end of this workshop, participants will understand the field and data workflows used throughout the series."
+description: "Builds strong skills in data collection, management, and basic analysis."
 ---
 
-### Mentors
+### Introduction
+This module introduces participants to the full data lifecycle: planning, collection, storage, cleaning, analysis, and reporting.
+It emphasizes ethical data collection, data quality, confidentiality, security, and sustainable storage practices
+The module provides hands-on training on:
 
-| Name | Institution |
-| ---- |------------ |
-| Herbert Imboga | JKUAT |
-| Susan Mwelu | JKUAT |
-| Matabel Odin | JKUAT |
-| Nicholas Makumi | JKUAT |
-| Damaris Mulwa | JKUAT |
-| Abas Mohamed | Ethiopia |
+- Google forms for digital questionnaire design
+- Kobo Toolbox for mobile and field-based data collection
+- Microsoft Excel for cleaning, analysis, visualization, and reporting
 
+The module strengthens practical skills in designing tools, managing submissions, validating records, and producing summaries for decision making.
+
+focus
+Ensure that participants are able to develop digital forms, manage datasets effectively, and produce basic analytical outputs for monitoring, evalution, and surveillance workflows.
 
 ### Prerequisites
 
@@ -27,7 +29,7 @@ Before attending, please ensure you have:
 
 
 
-## Timetable
+## Time Schedule
 
 **25 August – 2 September 2025**
 
@@ -56,18 +58,30 @@ Download the [schedule](/materials/workshop_1/Arbo%20Watch%20Training%20Schedule
 #### Pre-Training Manual
 [Download Pre-Training Manual](/materials/workshop_1/Arbowatch%20Course%20Manual%202025.pdf){.btn .btn-primary}
 
-#### List of Participants and Sessions Groups
-[Download Participants List](/materials/workshop_1/Participants%20and%20Groups.pdf){.btn .btn-primary}
+#### All materials
+[Download All](/materials/workshop_1/Participants%20and%20Groups.pdf){.btn .btn-primary}
 
 ### Facilitators
 
 | Name | Institution |
 | ---- |------------ |
-| Kissinger Athiany | JKUAT |
-| Caroline Wanja Mugo | JKUAT |
-| Prof Anthony Waititu | JKUAT |
-| Dr Charity Mkajuma Wamwea | JKUAT |
-| Dr Winnie Chacha | JKUAT |
+| Henry Athiany | JKUAT |
+| Caroline Mugo | JKUAT |
+| Anthony Waititu | JKUAT |
+| Charity Wamwea | JKUAT |
+| Winnie Chacha | JKUAT |
+
+
+### Mentors
+
+| Name | Institution |
+| ---- |------------ |
+| Herbert Imboga | JKUAT |
+| Susan Mwelu | JKUAT |
+| Matabel Odin | JKUAT |
+| Nicholas Makumi | JKUAT |
+| Damaris Mulwa | JKUAT |
+| Abas Mohamed | Ethiopia |
 
 
 ### Participants

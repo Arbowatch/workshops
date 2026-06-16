@@ -18,8 +18,9 @@ date: 2025-08-27
 | 4:00 – 5:00 PM | Practicals | Mentors |
 
 ### Materials 
+Download all the day's materials
 
-[Download zip](/materials/workshop_1/day-3/day_3.zip){.btn .btn-secondary}
+[Download all](/materials/workshop_1/day-3/day_3.zip){.btn .btn-secondary}
 
 ### Reference Document
 

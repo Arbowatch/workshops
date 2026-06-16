@@ -21,8 +21,9 @@ date: 2024-08-25
 
 
 ### Materials 
+Download all the day's materials
 
-[Download zip](/materials/workshop_1/day-2/day_2.zip){.btn .btn-secondary}
+[Download all](/materials/workshop_1/day-2/day_2.zip){.btn .btn-secondary}
 
 ### Reference Document
 

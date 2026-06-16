@@ -1,0 +1,107 @@
+---
+title: "Gallery"
+lightbox: true
+---
+::: {.panel-tabset}
+
+## Ethiopia Workshop
+
+::: {layout="[[1,1,1]]"}
+
+![](gallery/Ethiopia Workshop/eth1.jpeg)
+
+![](gallery/Ethiopia Workshop/eth10.jpeg)
+
+![](gallery/Ethiopia Workshop/eth2.jpeg)
+
+![](gallery/Ethiopia Workshop/eth3.jpeg)
+
+![](gallery/Ethiopia Workshop/eth4.jpeg)
+
+![](gallery/Ethiopia Workshop/eth5.jpeg)
+
+![](gallery/Ethiopia Workshop/eth6.jpeg)
+
+![](gallery/Ethiopia Workshop/eth7.jpeg)
+
+![](gallery/Ethiopia Workshop/eth8.jpeg)
+
+![](gallery/Ethiopia Workshop/eth9.jpeg)
+
+:::
+
+## Kenya Workshop
+
+::: {layout="[[1,1,1]]"}
+
+![](gallery/Kenya Workshop/IMG_20260309_094354.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260309_094401.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260309_094412.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260309_094415.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260309_094418.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260309_094427.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260309_094522.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260309_094529.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260309_094705.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260309_094709.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260309_094806.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260309_100042.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260309_100043.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260309_111307.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260309_111319.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260309_111336.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260309_111344.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260312_144518.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260312_144527.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260312_144531.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260312_145227.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260312_145248.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260312_145252.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260312_145258.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260312_145617.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260312_145624.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260312_145633.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260312_145637.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260312_145638.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260312_150638.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260312_150641.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260312_150646.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260312_160415.jpg)
+
+![](gallery/Kenya Workshop/IMG_20260312_160719.jpg)
+
+:::
+
+:::

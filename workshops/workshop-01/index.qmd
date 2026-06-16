@@ -15,8 +15,9 @@ The module provides hands-on training on:
 
 The module strengthens practical skills in designing tools, managing submissions, validating records, and producing summaries for decision making.
 
-focus
-Ensure that participants are able to develop digital forms, manage datasets effectively, and produce basic analytical outputs for monitoring, evalution, and surveillance workflows.
+::: {.callout-tip title="Focus"}
+Ensure that participants are able to develop digital forms, manage datasets effectively, and produce basic analytical outputs for monitoring, evaluation, and surveillance workflows.
+:::
 
 ### Prerequisites
 

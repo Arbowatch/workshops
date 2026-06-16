@@ -34,9 +34,10 @@ sustainability.
 - The curriculum is organized into five (5) modules, and each module has been allocated
 the training number days, but additional module content is available online.
 
-Overall Goal
+::: {.callout-tip title="Overall Goal"}
 To build an end-to-end skill set that moves participants from data collection to analysis,
 modelling, mapping, and decision-making.
+:::
 
 
 ### Modules Overview

@@ -1,0 +1,9 @@
+---
+title: "Group Project"
+---
+
+The project covers the topics of data importation, cleaning and wrangling in R among other aspects learnt in the past few days. For each project, you should try and come up with an objective and carry out descriptive analysis that helps answer your objective. If possible, you may carry out statistical analysis to answer your objective. The project code should be clearly written (with comments) and should be submitted by the group leader to the address: hathiany@abrbowatch.com by Thursday 13th November 2025. 
+
+If possible, you can use R Markdown for the project and share the .rmd file while submitting your work. Each project will be tackled by one group independently  while one group will be allowed to choose a project of their choice. In case of any challenges, you may get in touch with your mentor for assistance/guidance.
+
+Finally, to enable the group members interact, we have created WhatsApp groups where you can join and be part of the team as you work on the project. See the assignment document on the link to join and join via the ARBOWATCH WhatsApp group.

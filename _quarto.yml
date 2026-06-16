@@ -67,7 +67,8 @@ website:
               href: workshops/workshop-01/day-05.qmd
             - text: "Day 5"
               href: workshops/workshop-01/day-06.qmd
-            
+          
+        
 
     - id: workshop-02
       title: "Module II - Introduction to R for Public Health Surveillance"
@@ -92,6 +93,9 @@ website:
               href: workshops/workshop-02/day-05.qmd
             - text: "Day 6"
               href: workshops/workshop-02/day-06.qmd
+        
+        - text: "Group Project"
+          href: workshops/workshop-02/project.qmd
 
     - id: workshop-03
       title: "Module III - Statistical Modelling for Public Health Research"

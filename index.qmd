@@ -1,5 +1,5 @@
 ---
-title: "ARBO-WATCH"
+title: "ARBO-WATCH Capacity Building Hub"
 subject: "Capacity Strengthening"
 listing:
   id: workshop-listing
@@ -12,7 +12,10 @@ listing:
 
 ### About the Project
 
-The ARBO-WATCH project seeks to design and deploy dengue and Chikungunya fever decision support tools informed by process-based models in Kenya, Somalia and Ethiopia. These analyses will utilize relevant primary and secondary data from all these countries to uncover broader epidemiological patterns of these diseases in the region. The project is being implemented by a consortium made up of nine institutions including ILRI, the Kenya Medical Research Institute, Kenya’s Ministry of Health, Jomo Kenyatta University of Agriculture and Technology, Ethiopia Public Health Institute, Global One Health Initiative, Ohio State University, Abrar University and the Ministry of Health Somalia.
+The ARBO-WATCH project seeks to design and deploy dengue and Chikungunya fever decision support tools informed by process-based models in Kenya, Somalia and Ethiopia. 
+These analyses will utilize relevant primary and secondary data from all these countries to uncover broader epidemiological patterns of these diseases in the region. 
+The project is being implemented by a consortium made up of nine institutions including ILRI, the Kenya Medical Research Institute, Kenya’s Ministry of Health, 
+Jomo Kenyatta University of Agriculture and Technology, Ethiopia Public Health Institute, Global One Health Initiative, Ohio State University, Abrar University and the Ministry of Health Somalia.
 
 Read [here to learn more](https://www.ilri.org/research/projects/arbo-watch-project) about the project.
 
@@ -20,7 +23,29 @@ Read [here to learn more](https://www.ilri.org/research/projects/arbo-watch-proj
 
 
 
-## Educators
+### Curriculum Overview
+
+- This curriculum is designed to strengthen analytical capacity in infectious disease
+surveillance and outbreak response.
+- It promotes mastery of research design, data analysis, modelling, visualization, and
+decision-support tools.
+- The training emphasizes the use of free and open-source platforms for accessibility and
+sustainability.
+- The curriculum is organized into five (5) modules, and each module has been allocated
+the training number days, but additional module content is available online.
+
+Overall Goal
+To build an end-to-end skill set that moves participants from data collection to analysis,
+modelling, mapping, and decision-making.
+
+
+### Modules Overview
+
+::: {#workshop-listing}
+:::
+
+
+## Facilitators
 
 ::: {.educator-list}
 
@@ -49,9 +74,42 @@ Caroline Wanja Mugo is a Lecturer in Biostatistics at JKUAT with a background in
 :::
 
 
+::: {.educator-card}
+![Anthony Waititu](assets/images/usericon.jpg){.educator-photo}
+
+::: {.educator-content}
+### Anthony Waititu
+
+*Associate Professor*
+
+Lorem ipsum lorem ipsum lorem ipsum
+
+:::
 :::
 
-## Workshop Schedule
 
-::: {#workshop-listing}
+::: {.educator-card}
+![Charity Wamwea](assets/images/usericon.jpg){.educator-photo}
+
+::: {.educator-content}
+### Charity Wamwea
+
+*sample*
+
+Lorem ipsum lorem ipsum lorem ipsum
+
 :::
+:::
+
+:::
+
+### Partners
+- [Jomo Kenyatta University of Agriculture and Technology](https://www.jkuat.ac.ke)
+- [Kenya Medical Research Institute](https://www.kemri.go.ke)
+- [Kenya Meteorological Department](https://meteo.go.ke/)
+- [Ethiopian Public Health Institute](https://ephi.gov.et/)
+- [Abrar University in Somalia](https://abrar.edu.so/)
+- [Federal Ministry of Health in Somalia](https://moh.gov.so)
+- [Global One Health Initiative](https://oia.osu.edu/global-one-health-initiative)
+- Kenya’s Department of Disease Surveillance and Epidemic Response
+- [Ohio State University](https://osu.edu)

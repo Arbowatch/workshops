@@ -23,12 +23,6 @@ Download all the day's materials
 
 [Download all](){.btn .btn-secondary}
 
-### Reference Document
-
-<iframe src="" width="100%" height="600px" style="border: none;"></iframe>
-
-[Download PDF](){.btn .btn-outline-primary}
-
 
 ### Video Recordings
 

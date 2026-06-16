@@ -17,6 +17,7 @@ body {
 
 .navbar .nav-link {
   color: rgba(255, 255, 255, 0.85) !important;
+  font-size: 0.85rem;
 }
 
 .navbar .nav-link:hover,
@@ -24,8 +25,12 @@ body {
 .navbar .nav-link.active,
 .navbar .nav-link.show {
   color: #fff !important;
-  background-color: #682622 !important;
-  border-radius: 4px;
+  background-color: transparent !important;
+  border-radius: 0;
+  text-decoration: underline;
+  text-decoration-color: #682622;
+  text-decoration-thickness: 3px;
+  text-underline-offset: 4px;
 }
 
 .navbar .dropdown-menu {

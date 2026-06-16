@@ -5,9 +5,9 @@ listing:
   id: workshop-listing
   contents: workshops/*/index.qmd
   type: table
-  fields: [date, title, facilitator]
+  fields: [date, title]
   sort: "date asc"
-  date-format: "DD MMM YYYY"
+  date-format: "MMM YYYY"
 ---
 
 ### About the Project
@@ -46,7 +46,7 @@ modelling, mapping, and decision-making.
 :::
 
 
-## Facilitators
+## JKUAT Team
 
 ::: {.educator-list}
 
@@ -76,35 +76,36 @@ Caroline Wanja Mugo is a Lecturer in Biostatistics at JKUAT with a background in
 
 
 ::: {.educator-card}
-![Anthony Waititu](assets/images/usericon.jpg){.educator-photo}
+![Anthony Waititu](assets/images/waititu.jpeg){.educator-photo}
 
 ::: {.educator-content}
 ### Anthony Waititu
 
 *Associate Professor*
 
-Lorem ipsum lorem ipsum lorem ipsum
+**Brief Biography**
+
+Gichuhi A. Waititu is an Associate Professor of Statistics at Jomo Kenyatta University of Agriculture and Technology (JKUAT), Kenya. He currently serves as the Dean of the School of Mathematics and Physical Sciences at JKUAT. He has over twenty (20) years of experience in teaching applied statistics at university level, alongside extensive engagement in research and academic leadership. His research interests focus on Machine Learning and Artificial Intelligence, with applications in data science and statistical modelling.
 
 :::
 :::
 
 
 ::: {.educator-card}
-![Charity Wamwea](assets/images/usericon.jpg){.educator-photo}
+![Charity Wamwea](assets/images/charity.jpeg){.educator-photo}
 
 ::: {.educator-content}
 ### Charity Wamwea
 
-*sample*
 
-Lorem ipsum lorem ipsum lorem ipsum
 
 :::
 :::
 
 :::
 
-### Partners
+## Partners
+- [International Livestock Research Institute](https://www.ilri.org)
 - [Jomo Kenyatta University of Agriculture and Technology](https://www.jkuat.ac.ke)
 - [Kenya Medical Research Institute](https://www.kemri.go.ke)
 - [Kenya Meteorological Department](https://meteo.go.ke/)

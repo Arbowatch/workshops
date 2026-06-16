@@ -19,7 +19,8 @@ date: 2025-08-28
 
 ### Materials
 Download all the materials
-[Download zip](/materials/workshop_1/day-5/day_5.zip){.btn .btn-secondary}
+
+[Download all](/materials/workshop_1/day-5/day_5.zip){.btn .btn-secondary}
 
 
 ### Reference Document

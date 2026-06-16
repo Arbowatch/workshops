@@ -19,14 +19,6 @@ Download all the day's materials
 
 [Download all](link){.btn .btn-secondary}
 
-
-#### Reference Document
-
-<iframe src="reference.pdf" width="100%" height="600px" style="border: none;"></iframe>
-
-[Download PDF](reference.pdf){.btn .btn-outline-primary}
-
-
 ### Video Recording
 
 {{< video https://www.youtube.com/watch?v=VIDEO_ID >}}

@@ -25,21 +25,10 @@ Download all the day's materials
 
 [Download all](/materials/workshop_1/day-2/day_2.zip){.btn .btn-secondary}
 
-### Reference Document
-
-<iframe src="/materials/workshop_1/day-2/Data%20Collection%20and%20Ethics%20Slides.pdf" width="100%" height="600px" style="border: none;"></iframe>
-
-[Download PDF](/materials/workshop_1/day-2/Data%20Collection%20and%20Ethics%20Slides.pdf){.btn .btn-outline-primary}
-
 
 ### Quiz
 - Follow the link to complete the quiz
 [Data Collection and Ethics Quiz](https://forms.gle/bvPuAryFnt3HowMFA)
-
-
-### Assignment
-- Follow the link to find the assignment
-[Google Form Assignment](/materials/workshop_1/day-2/Google%20Form%20Assignment.pdf)
 
 
 ### Video Recordings

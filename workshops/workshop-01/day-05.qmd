@@ -23,12 +23,6 @@ Download all the materials
 [Download all](/materials/workshop_1/day-5/day_5.zip){.btn .btn-secondary}
 
 
-### Reference Document
-<iframe src="/materials/workshop_1/day-5/Excel%20Fundamentals%20Day%20One.pdf" width="100%" height="600px" style="border: none;"></iframe>
-
-[Download PDF](/materials/workshop_1/day-5/Excel%20Fundamentals%20Day%20One.pdf){.btn .btn-outline-primary}
-
-
 ## Video Recording
 
 {{< video https://www.youtube.com/watch?v=VIDEO_ID >}}

@@ -33,18 +33,18 @@ Before attending, please ensure you have:
 
 | Date | Time | Activity & Topics | Persons-in-Charge |
 | :--- | :--- | :--- | :--- |
-| [**Thu, Oct 23**](pretraining.qmd) | 11:00 am - 12:00 pm | **Pre-training Session**<br>• Installing R and RStudio<br>• Pre-training survey | Henry Kissinger |
-| [**Mon, Oct 27**](day-01.qmd) | 08:30 am - 11:30 am | **Introduction to R and R basics**<br>• Getting Started with R and R Studio (interface, objects, variables, operators)<br>• R Projects and working directories<br>• R Basics and data structures (vectors, tibbles, lists)<br>• Intro to the tidyverse<br>• Exploring and summarizing data<br>• Importing datasets (`readr`, `readxl`) | Henry Kissinger |
+| **23 Oct 2025** | 11:00 am - 12:00 pm | **Pre-training Session**<br>• Installing R and RStudio<br>• Pre-training survey | Henry Kissinger |
+| **27 Oct 2025** | 08:30 am - 11:30 am | **Introduction to R and R basics**<br>• Getting Started with R and R Studio (interface, objects, variables, operators)<br>• R Projects and working directories<br>• R Basics and data structures (vectors, tibbles, lists)<br>• Intro to the tidyverse<br>• Exploring and summarizing data<br>• Importing datasets (`readr`, `readxl`) | Henry Kissinger |
 | | 04:00 pm - 05:00 pm | **Practicals** | Mentors |
-| [**Tue, Oct 28**](day-02.qmd) | 08:30 am - 11:30 am | **Data wrangling and manipulation using R**<br>• Renaming, Filtering, Selecting, Mutating, Arranging data<br>• Handling missing data (`drop_na`, `replace_na`)<br>**Descriptive statistics and data summarization**<br>• Grouping and summarizing (`dplyr`)<br>• Calculating mean, median, variance, SD<br>• Producing frequency tables | Winnie Chacha /<br>Caroline Mugo |
+| **28 Oct 2025** | 08:30 am - 11:30 am | **Data wrangling and manipulation using R**<br>• Renaming, Filtering, Selecting, Mutating, Arranging data<br>• Handling missing data (`drop_na`, `replace_na`)<br>**Descriptive statistics and data summarization**<br>• Grouping and summarizing (`dplyr`)<br>• Calculating mean, median, variance, SD<br>• Producing frequency tables | Winnie Chacha /<br>Caroline Mugo |
 | | 04:00 pm - 05:00 pm | **Practicals** | Mentors |
-| [**Wed, Oct 29**](day-03.qmd) | 08:30 am - 11:30 am | **Advanced Summarization & Merging**<br>• Cross-tabulations using `group_by()` combinations<br>• Using `janitor::tabyl()` for clean summary tables<br>• Working with multiple datasets (Appending, Merging) | Winnie Chacha /<br>Caroline Mugo |
+| **29 Oct 2025** | 08:30 am - 11:30 am | **Advanced Summarization & Merging**<br>• Cross-tabulations using `group_by()` combinations<br>• Using `janitor::tabyl()` for clean summary tables<br>• Working with multiple datasets (Appending, Merging) | Winnie Chacha /<br>Caroline Mugo |
 | | 04:00 pm - 05:00 pm | **Practicals** | Mentors |
-| [**Thu, Oct 30**](day-04.qmd) | 08:30 am - 11:30 am | **Data visualization with ggplot2**<br>• Principles of data visualization for public health<br>• Grammar of Graphics (`aes`, `geom_*`)<br>• Creating key plots (Bar, Histograms, Boxplots, Line, Scatter)<br>• Customizing plots (Labels, titles, themes, colors)<br>• Faceting for subgroup analysis<br>• Exporting visuals (`ggsave()`) | Anthony Waititu |
+| **30 Oct 2025** | 08:30 am - 11:30 am | **Data visualization with ggplot2**<br>• Principles of data visualization for public health<br>• Grammar of Graphics (`aes`, `geom_*`)<br>• Creating key plots (Bar, Histograms, Boxplots, Line, Scatter)<br>• Customizing plots (Labels, titles, themes, colors)<br>• Faceting for subgroup analysis<br>• Exporting visuals (`ggsave()`) | Anthony Waititu |
 | | 04:00 pm - 05:00 pm | **Practicals** | Mentors |
-| [**Mon, Nov 3**](day-05.qmd) | 08:30 am - 11:30 am | **Functions & Control Structures**<br>• Inbuilt functions<br>• User-defined functions (syntax and parameters)<br>• Conditional logic (`if`, `else`) | Charity Wamwea |
+| **03 Nov 2025** | 08:30 am - 11:30 am | **Functions & Control Structures**<br>• Inbuilt functions<br>• User-defined functions (syntax and parameters)<br>• Conditional logic (`if`, `else`) | Charity Wamwea |
 | | 04:00 pm - 05:00 pm | **Practicals** | Mentors |
-| [**Tue, Nov 4**](day-06) | 08:30 am - 11:30 am | **Loops & Reporting**<br>• Repetitive Loops (`for`, `while`, `repeat`)<br>• Introduction to simple reproducible reporting with R Markdown<br>• Post-training Survey | Charity Wamwea /<br>Kissinger |
+| **04 Nov 2025** | 08:30 am - 11:30 am | **Loops & Reporting**<br>• Repetitive Loops (`for`, `while`, `repeat`)<br>• Introduction to simple reproducible reporting with R Markdown<br>• Post-training Survey | Charity Wamwea /<br>Kissinger |
 | | 04:00 pm - 05:00 pm | **Practicals** | Mentors |
 
 
@@ -60,11 +60,11 @@ Download all
 
 | Name | Institution |
 | :--- |:---------- |
-| Kissinger Athiany | JKUAT |
+| Henry Athiany | JKUAT |
 | Caroline Wanja Mugo | JKUAT |
-| Prof Anthony Waititu | JKUAT |
-| Dr Charity Mkajuma Wamwea | JKUAT |
-| Dr Winnie Chacha | JKUAT |
+| Anthony Waititu | JKUAT |
+| Charity Wamwea | JKUAT |
+| Winnie Chacha | JKUAT |
 
 
 ### Mentors

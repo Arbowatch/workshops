@@ -18,3 +18,18 @@ The module also covers time series methods for identifying trends, assessing sea
 ::: {.callout-tip title="Expected Outcome"}
 Participants will be able to select appropriate statistical models, apply them in `R`, interpret model outputs, and communicate findings to support evidence-based public health action.
 :::
+
+
+## Facilitators
+
+| Name | Institution |
+| :--- |:---------- |
+| Henry Athiany | JKUAT |
+| Caroline Wanja Mugo | JKUAT |
+| Anthony Waititu | JKUAT |
+| Charity Wamwea | JKUAT |
+| Winnie Chacha | JKUAT |
+| Jane Aduda | JKUAT |
+| Mulugeta Geremew | Ethiopia |
+| Mekuria Zelalem | Ethiopia |
+| Asnake Worku | Ethiopia |

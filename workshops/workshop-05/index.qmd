@@ -1,6 +1,21 @@
 ---
 title: "Spatial Epidemiology, Risk Mapping, and Decision Support Systems"
-date: "TBD"
+date: 2026-10
 ---
 
+### Introduction
+
+This module introduces Geographic Information Systems (GIS) concepts and their applications in health research and infectious disease surveillance. It provides participants with foundational knowledge of spatial data, mapping principles, and the use of tools such as **QGIS** and **R** for geospatial analysis.
+
+Participants will gain practical experience in acquiring and cleaning spatial datasets, creating thematic maps, applying cartographic design principles, and performing spatial analyses including buffer analysis, overlay analysis, clustering, and hotspot detection. The module also introduces spatial regression methods and spatial visualization techniques in R.
+
+In addition, participants will learn how to develop interactive dashboards using **Shiny App** to support visualization, reporting, and decision-making in public health surveillance.
+
+::: {.callout-tip title="Expected Outcome"}
+Participants will be able to generate risk maps, conduct basic spatial analyses, visualize surveillance data geographically, and develop simple dashboards that integrate maps and health indicators to support evidence-based decision-making.
+:::
+
+
+::: {.callout-note appearance="simple"}
 Coming soon
+:::

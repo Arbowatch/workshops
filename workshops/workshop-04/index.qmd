@@ -1,6 +1,21 @@
 ---
 title: "Mathematical Modelling Techniques"
-date: TBD
+date: 2026-07
 ---
 
+### Introduction
+
+This module focuses on infectious disease transmission modelling and its application in public health surveillance, preparedness, and outbreak response. It introduces participants to the principles of epidemic modelling, including the differences between deterministic and stochastic approaches.
+
+Participants will explore foundational compartmental models such as **SI, SIR, and SEIR**, and learn how these models represent disease transmission dynamics. The module covers key epidemiological concepts including growth rate, reproduction number (R₀), herd immunity, and epidemic thresholds.
+
+The module also demonstrates how to simulate public health interventions, including vaccination, treatment, and social distancing, while introducing key modelling processes such as parameter estimation, model calibration, scenario analysis, uncertainty assessment, and policy interpretation.
+
+::: {.callout-tip title="Expected Outcome"}
+Participants will be able to implement and interpret basic infectious disease models in R, explore outbreak dynamics, evaluate intervention scenarios, and apply modelling results to support public health decision-making.
+:::
+
+
+::: {.callout-note appearance="simple"}
 Coming soon
+:::

@@ -1,6 +1,20 @@
 ---
 title: "Statistical Modelling for Public Health Research"
-date: TBD
+date:  2026-04-19
 ---
 
-Coming soon
+### Introduction
+
+This module provides a foundation in statistical modelling for epidemiological and surveillance data analysis. It introduces key concepts in statistical inference, beginning with hypothesis formulation and testing, including p-values, confidence intervals, and commonly used statistical tests.
+
+Participants will learn the principles of statistical modelling, including the relationship between response and explanatory variables, confounding, interaction effects, and the development of conceptual models. The module introduces essential regression approaches, including:
+
+- Linear regression for continuous outcomes
+- Logistic regression for binary outcomes
+- Poisson and Negative Binomial regression for count data
+
+The module also covers time series methods for identifying trends, assessing seasonality, and supporting short-term forecasting of public health events.
+
+::: {.callout-tip title="Expected Outcome"}
+Participants will be able to select appropriate statistical models, apply them in `R`, interpret model outputs, and communicate findings to support evidence-based public health action.
+:::

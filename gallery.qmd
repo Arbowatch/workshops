@@ -8,25 +8,25 @@ lightbox: true
 
 ::: {layout="[[1,1,1]]"}
 
-![](gallery/Ethiopia Workshop/eth1.jpeg)
+![](gallery/Ethiopia workshop/eth1.jpeg)
 
-![](gallery/Ethiopia Workshop/eth10.jpeg)
+![](gallery/Ethiopia workshop/eth10.jpeg)
 
-![](gallery/Ethiopia Workshop/eth2.jpeg)
+![](gallery/Ethiopia workshop/eth2.jpeg)
 
-![](gallery/Ethiopia Workshop/eth3.jpeg)
+![](gallery/Ethiopia workshop/eth3.jpeg)
 
-![](gallery/Ethiopia Workshop/eth4.jpeg)
+![](gallery/Ethiopia workshop/eth4.jpeg)
 
-![](gallery/Ethiopia Workshop/eth5.jpeg)
+![](gallery/Ethiopia workshop/eth5.jpeg)
 
-![](gallery/Ethiopia Workshop/eth6.jpeg)
+![](gallery/Ethiopia workshop/eth6.jpeg)
 
-![](gallery/Ethiopia Workshop/eth7.jpeg)
+![](gallery/Ethiopia workshop/eth7.jpeg)
 
-![](gallery/Ethiopia Workshop/eth8.jpeg)
+![](gallery/Ethiopia workshop/eth8.jpeg)
 
-![](gallery/Ethiopia Workshop/eth9.jpeg)
+![](gallery/Ethiopia workshop/eth9.jpeg)
 
 :::
 
@@ -34,73 +34,223 @@ lightbox: true
 
 ::: {layout="[[1,1,1]]"}
 
-![](gallery/Kenya Workshop/IMG_20260309_094354.jpg)
+![](gallery/Kenya workshop/IMG_20260309_094354.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260309_094401.jpg)
+![](gallery/Kenya workshop/IMG_20260309_094401.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260309_094412.jpg)
+![](gallery/Kenya workshop/IMG_20260309_094412.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260309_094415.jpg)
+![](gallery/Kenya workshop/IMG_20260309_094415.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260309_094418.jpg)
+![](gallery/Kenya workshop/IMG_20260309_094418.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260309_094427.jpg)
+![](gallery/Kenya workshop/IMG_20260309_094427.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260309_094522.jpg)
+![](gallery/Kenya workshop/IMG_20260309_094522.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260309_094529.jpg)
+![](gallery/Kenya workshop/IMG_20260309_094529.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260309_094705.jpg)
+![](gallery/Kenya workshop/IMG_20260309_094705.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260309_094709.jpg)
+![](gallery/Kenya workshop/IMG_20260309_094709.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260309_094806.jpg)
+![](gallery/Kenya workshop/IMG_20260309_094806.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260309_100042.jpg)
+![](gallery/Kenya workshop/IMG_20260309_100042.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260309_100043.jpg)
+![](gallery/Kenya workshop/IMG_20260309_100043.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260309_111307.jpg)
+![](gallery/Kenya workshop/IMG_20260309_111307.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260309_111319.jpg)
+![](gallery/Kenya workshop/IMG_20260309_111319.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260309_111336.jpg)
+![](gallery/Kenya workshop/IMG_20260309_111336.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260309_111344.jpg)
+![](gallery/Kenya workshop/IMG_20260309_111344.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260312_144518.jpg)
+![](gallery/Kenya workshop/IMG_20260312_144518.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260312_144527.jpg)
+![](gallery/Kenya workshop/IMG_20260312_144527.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260312_144531.jpg)
+![](gallery/Kenya workshop/IMG_20260312_144531.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260312_145227.jpg)
+![](gallery/Kenya workshop/IMG_20260312_145227.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260312_145248.jpg)
+![](gallery/Kenya workshop/IMG_20260312_145248.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260312_145252.jpg)
+![](gallery/Kenya workshop/IMG_20260312_145252.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260312_145258.jpg)
+![](gallery/Kenya workshop/IMG_20260312_145258.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260312_145617.jpg)
+![](gallery/Kenya workshop/IMG_20260312_145617.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260312_145624.jpg)
+![](gallery/Kenya workshop/IMG_20260312_145624.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260312_145633.jpg)
+![](gallery/Kenya workshop/IMG_20260312_145633.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260312_145637.jpg)
+![](gallery/Kenya workshop/IMG_20260312_145637.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260312_145638.jpg)
+![](gallery/Kenya workshop/IMG_20260312_145638.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260312_150638.jpg)
+![](gallery/Kenya workshop/IMG_20260312_150638.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260312_150641.jpg)
+![](gallery/Kenya workshop/IMG_20260312_150641.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260312_150646.jpg)
+![](gallery/Kenya workshop/IMG_20260312_150646.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260312_160415.jpg)
+![](gallery/Kenya workshop/IMG_20260312_160415.jpg)
 
-![](gallery/Kenya Workshop/IMG_20260312_160719.jpg)
+![](gallery/Kenya workshop/IMG_20260312_160719.jpg)
+
+:::
+
+## Mogadishu Workshop
+
+::: {layout="[[1,1,1]]"}
+
+![](gallery/Mogadishu workshop/DSC00083.jpg)
+
+![](gallery/Mogadishu workshop/DSC00084.jpg)
+
+![](gallery/Mogadishu workshop/DSC00090.jpg)
+
+![](gallery/Mogadishu workshop/DSC00092.jpg)
+
+![](gallery/Mogadishu workshop/DSC00094.jpg)
+
+![](gallery/Mogadishu workshop/DSC00099.jpg)
+
+![](gallery/Mogadishu workshop/DSC00105.jpg)
+
+![](gallery/Mogadishu workshop/DSC00106.jpg)
+
+![](gallery/Mogadishu workshop/DSC00111.jpg)
+
+![](gallery/Mogadishu workshop/DSC00112.jpg)
+
+![](gallery/Mogadishu workshop/DSC00115.jpg)
+
+![](gallery/Mogadishu workshop/DSC00120.jpg)
+
+![](gallery/Mogadishu workshop/DSC00121.jpg)
+
+![](gallery/Mogadishu workshop/DSC00126.jpg)
+
+![](gallery/Mogadishu workshop/DSC00134.jpg)
+
+![](gallery/Mogadishu workshop/DSC00150.jpg)
+
+![](gallery/Mogadishu workshop/DSC00154.jpg)
+
+![](gallery/Mogadishu workshop/DSC00167.jpg)
+
+![](gallery/Mogadishu workshop/DSC00171.jpg)
+
+![](gallery/Mogadishu workshop/DSC00172.jpg)
+
+![](gallery/Mogadishu workshop/DSC00182.jpg)
+
+![](gallery/Mogadishu workshop/DSC00185.jpg)
+
+![](gallery/Mogadishu workshop/DSC00186.jpg)
+
+![](gallery/Mogadishu workshop/DSC00187.jpg)
+
+![](gallery/Mogadishu workshop/DSC00192.jpg)
+
+![](gallery/Mogadishu workshop/DSC00196.jpg)
+
+![](gallery/Mogadishu workshop/DSC00198.jpg)
+
+![](gallery/Mogadishu workshop/DSC00203.jpg)
+
+![](gallery/Mogadishu workshop/DSC00209.jpg)
+
+![](gallery/Mogadishu workshop/DSC00212.jpg)
+
+![](gallery/Mogadishu workshop/DSC00218.jpg)
+
+![](gallery/Mogadishu workshop/DSC00219.jpg)
+
+![](gallery/Mogadishu workshop/DSC00230.jpg)
+
+![](gallery/Mogadishu workshop/DSC00232.jpg)
+
+![](gallery/Mogadishu workshop/DSC00233.jpg)
+
+![](gallery/Mogadishu workshop/DSC00234.jpg)
+
+![](gallery/Mogadishu workshop/DSC00235.jpg)
+
+![](gallery/Mogadishu workshop/DSC00245.jpg)
+
+![](gallery/Mogadishu workshop/DSC00259.jpg)
+
+![](gallery/Mogadishu workshop/DSC00261.jpg)
+
+![](gallery/Mogadishu workshop/DSC00265.jpg)
+
+![](gallery/Mogadishu workshop/DSC00267.jpg)
+
+![](gallery/Mogadishu workshop/DSC00268.jpg)
+
+![](gallery/Mogadishu workshop/DSC00269.jpg)
+
+![](gallery/Mogadishu workshop/DSC00270.jpg)
+
+![](gallery/Mogadishu workshop/DSC00272.jpg)
+
+![](gallery/Mogadishu workshop/DSC00275.jpg)
+
+![](gallery/Mogadishu workshop/DSC00276.jpg)
+
+![](gallery/Mogadishu workshop/DSC00277.jpg)
+
+![](gallery/Mogadishu workshop/DSC00279.jpg)
+
+![](gallery/Mogadishu workshop/DSC00282.jpg)
+
+![](gallery/Mogadishu workshop/DSC00283.jpg)
+
+![](gallery/Mogadishu workshop/DSC00284.jpg)
+
+![](gallery/Mogadishu workshop/DSC00285.jpg)
+
+![](gallery/Mogadishu workshop/DSC00286.jpg)
+
+![](gallery/Mogadishu workshop/DSC00291.jpg)
+
+![](gallery/Mogadishu workshop/DSC00297.jpg)
+
+![](gallery/Mogadishu workshop/DSC00298.jpg)
+
+![](gallery/Mogadishu workshop/DSC00299.jpg)
+
+![](gallery/Mogadishu workshop/DSC00300.jpg)
+
+![](gallery/Mogadishu workshop/DSC00303.jpg)
+
+![](gallery/Mogadishu workshop/DSC00307.jpg)
+
+![](gallery/Mogadishu workshop/DSC00309.jpg)
+
+![](gallery/Mogadishu workshop/DSC00310.jpg)
+
+![](gallery/Mogadishu workshop/DSC00315.jpg)
+
+![](gallery/Mogadishu workshop/DSC00317.jpg)
+
+![](gallery/Mogadishu workshop/DSC00318.jpg)
+
+![](gallery/Mogadishu workshop/DSC00320.jpg)
+
+![](gallery/Mogadishu workshop/DSC00323.jpg)
+
+![](gallery/Mogadishu workshop/DSC00325.jpg)
+
+![](gallery/Mogadishu workshop/DSC00329.jpg)
+
+![](gallery/Mogadishu workshop/DSC00332.jpg)
 
 :::
 

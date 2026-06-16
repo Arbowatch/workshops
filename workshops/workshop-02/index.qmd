@@ -7,8 +7,17 @@ description: "Introduces R for reproducible data handling, analysis, and visuali
 
 ### Introduction
 
-- lorem lorem lore 
+R and RStudio are powerful, open-source tools widely used for modern public health data analysis, enabling analysts to manage, explore, visualize, and communicate data-driven insights effectively. 
+This module introduces participants to the `R` programming environment and the RStudio interface, with a focus on practical applications in public health surveillance and epidemiological analysis.
 
+Using the `tidyverse` workflow, participants will learn essential data analysis processes, including importing, cleaning, transforming, summarizing, and visualizing health data. 
+The module provides hands-on experience with key `R` packages such as `readr`, `dplyr`, `tidyr`, and `ggplot2` for efficient and reproducible analytical workflows.
+
+By the end of the module, participants will be able to apply `R` to perform descriptive analyses, generate meaningful visualizations, interpret disease patterns and trends, and create reproducible reports that support evidence-based public health decision-making.
+
+::: {.callout-tip title="Module Focus"}
+Develop practical R skills for managing surveillance datasets, calculating key public health indicators, creating informative visualizations, and producing reproducible analytical outputs for routine public health analysis.
+:::
 
 ### Prerequisites
 
@@ -20,25 +29,37 @@ Before attending, please ensure you have:
 - Brought sturdy footwear and waterproof field sheets
 
 
-
 ## Timetable
 
-| Day | Date | Topics | Facilitator |
-|---|---|---|---|
-| [Day 1](day-01.qmd) | 01 Jun 2024 | Field Safety, Data Collection Methods, GPS Exercise | John Smith, Jane Doe |
-| [Day 2](day-02.qmd) | 02 Jun 2024 | Transect Surveys, Data Entry and Validation | John Smith |
+| Date | Time | Activity & Topics | Persons-in-Charge |
+| :--- | :--- | :--- | :--- |
+| [**Thu, Oct 23**](pretraining.qmd) | 11:00 am - 12:00 pm | **Pre-training Session**<br>• Installing R and RStudio<br>• Pre-training survey | Henry Kissinger |
+| [**Mon, Oct 27**](day-01.qmd) | 08:30 am - 11:30 am | **Introduction to R and R basics**<br>• Getting Started with R and R Studio (interface, objects, variables, operators)<br>• R Projects and working directories<br>• R Basics and data structures (vectors, tibbles, lists)<br>• Intro to the tidyverse<br>• Exploring and summarizing data<br>• Importing datasets (`readr`, `readxl`) | Henry Kissinger |
+| | 04:00 pm - 05:00 pm | **Practicals** | Mentors |
+| [**Tue, Oct 28**](day-02.qmd) | 08:30 am - 11:30 am | **Data wrangling and manipulation using R**<br>• Renaming, Filtering, Selecting, Mutating, Arranging data<br>• Handling missing data (`drop_na`, `replace_na`)<br>**Descriptive statistics and data summarization**<br>• Grouping and summarizing (`dplyr`)<br>• Calculating mean, median, variance, SD<br>• Producing frequency tables | Winnie Chacha /<br>Caroline Mugo |
+| | 04:00 pm - 05:00 pm | **Practicals** | Mentors |
+| [**Wed, Oct 29**](day-03.qmd) | 08:30 am - 11:30 am | **Advanced Summarization & Merging**<br>• Cross-tabulations using `group_by()` combinations<br>• Using `janitor::tabyl()` for clean summary tables<br>• Working with multiple datasets (Appending, Merging) | Winnie Chacha /<br>Caroline Mugo |
+| | 04:00 pm - 05:00 pm | **Practicals** | Mentors |
+| [**Thu, Oct 30**](day-04.qmd) | 08:30 am - 11:30 am | **Data visualization with ggplot2**<br>• Principles of data visualization for public health<br>• Grammar of Graphics (`aes`, `geom_*`)<br>• Creating key plots (Bar, Histograms, Boxplots, Line, Scatter)<br>• Customizing plots (Labels, titles, themes, colors)<br>• Faceting for subgroup analysis<br>• Exporting visuals (`ggsave()`) | Anthony Waititu |
+| | 04:00 pm - 05:00 pm | **Practicals** | Mentors |
+| [**Mon, Nov 3**](day-05.qmd) | 08:30 am - 11:30 am | **Functions & Control Structures**<br>• Inbuilt functions<br>• User-defined functions (syntax and parameters)<br>• Conditional logic (`if`, `else`) | Charity Wamwea |
+| | 04:00 pm - 05:00 pm | **Practicals** | Mentors |
+| [**Tue, Nov 4**](day-06) | 08:30 am - 11:30 am | **Loops & Reporting**<br>• Repetitive Loops (`for`, `while`, `repeat`)<br>• Introduction to simple reproducible reporting with R Markdown<br>• Post-training Survey | Charity Wamwea /<br>Kissinger |
+| | 04:00 pm - 05:00 pm | **Practicals** | Mentors |
 
 
 ### Materials
 
+Download all
 
+[Download all](){.btn .btn-primary}
 
 
 
 ### Facilitators
 
 | Name | Institution |
-| ---- |------------ |
+| :--- |:---------- |
 | Kissinger Athiany | JKUAT |
 | Caroline Wanja Mugo | JKUAT |
 | Prof Anthony Waititu | JKUAT |
@@ -48,5 +69,72 @@ Before attending, please ensure you have:
 
 ### Mentors
 
+| Name | Institution |
+| :---- | :----------- |
+| Herbert Imboga | JKUAT |
+| Susan Mwelu | JKUAT |
+| Matabel Odin | JKUAT |
+| Dennis Odhiambo | JKUAT |
+| Damaris Mulwa | JKUAT |
+| Stellamaris Ajwang | JKUAT |
+| Vinscent Andika | JKUAT |
 
-### Participants
+## Participants
+
+| S No | Name | Country | Group | Group Name | Mentor(s) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | Henok Tadesse Bireda | Ethiopia | 1 | Gambella | Henry Kissinger / Matabel Odin |
+| 2 | Abdirahman Mohamed Abdullahi | Somalia | 1 | Gambella | Henry Kissinger / Matabel Odin |
+| 3 | Seth Ouma Okeyo | Kenya | 1 | Gambella | Henry Kissinger / Matabel Odin |
+| 4 | Dereje Dilu | Ethiopia | 1 | Gambella | Henry Kissinger / Matabel Odin |
+| 5 | Hillary Chebon Chelanga | Kenya | 1 | Gambella | Henry Kissinger / Matabel Odin |
+| 6 | Shafie Abdulkadir Hassan | Somalia | 1 | Gambella | Henry Kissinger / Matabel Odin |
+| 7 | Edith C. Koskei | Kenya | 1 | Gambella | Henry Kissinger / Matabel Odin |
+| 8 | Joel Lutomiah | Kenya | 1 | Gambella | Henry Kissinger / Matabel Odin |
+| 9 | Mikias Alayu Alemu | Ethiopia | 2 | Omo | Herbert Imbogah / Caroline Mugo |
+| 10 | Marian Muse Osman | Somalia | 2 | Omo | Herbert Imbogah / Caroline Mugo |
+| 11 | Yusuf Ajack Ibrahim | Kenya | 2 | Omo | Herbert Imbogah / Caroline Mugo |
+| 12 | Adamu Tayachew | Ethiopia | 2 | Omo | Herbert Imbogah / Caroline Mugo |
+| 13 | Akengo Hellen | Kenya | 2 | Omo | Herbert Imbogah / Caroline Mugo |
+| 14 | Limbaso Konongoi | Kenya | 2 | Omo | Herbert Imbogah / Caroline Mugo |
+| 15 | Ahmed Nor Osman Hassan | Somalia | 2 | Omo | Herbert Imbogah / Caroline Mugo |
+| 16 | Esther Nyaboke Bundi | Kenya | 2 | Omo | Herbert Imbogah / Caroline Mugo |
+| 17 | Abraham Ali | Ethiopia | 3 | Hargeisa | Anthony Waititu / Dennis Odhiambo |
+| 18 | Francis Oketch Ochieng | Kenya | 3 | Hargeisa | Anthony Waititu / Dennis Odhiambo |
+| 19 | Abdullahi Mohamed Mohamud | Somalia | 3 | Hargeisa | Anthony Waititu / Dennis Odhiambo |
+| 20 | Chalachew Sisay | Ethiopia | 3 | Hargeisa | Anthony Waititu / Dennis Odhiambo |
+| 21 | Hellensyombwii Koka | Kenya | 3 | Hargeisa | Anthony Waititu / Dennis Odhiambo |
+| 22 | Abdirisak Suleiman Osman | Somalia | 3 | Hargeisa | Anthony Waititu / Dennis Odhiambo |
+| 23 | Margaret Wairimu Wanyeki Nganga | Kenya | 3 | Hargeisa | Anthony Waititu / Dennis Odhiambo |
+| 24 | Millicent Makandi | Kenya | 3 | Hargeisa | Anthony Waititu / Dennis Odhiambo |
+| 25 | Hamdi Ahmed Ali | Somalia | 4 | Kismayo | Caroline Mugo / Vincent Andika |
+| 26 | Francis Ng'Ang'A | Kenya | 4 | Kismayo | Caroline Mugo / Vincent Andika |
+| 27 | Dessalegn Geleta | Ethiopia | 4 | Kismayo | Caroline Mugo / Vincent Andika |
+| 28 | Victor Ofula | Kenya | 4 | Kismayo | Caroline Mugo / Vincent Andika |
+| 29 | Samuel Arach Owaka | Kenya | 4 | Kismayo | Caroline Mugo / Vincent Andika |
+| 30 | Osman Ahmed Mohamed | Somalia | 4 | Kismayo | Caroline Mugo / Vincent Andika |
+| 31 | Valentine Kabita | Kenya | 4 | Kismayo | Caroline Mugo / Vincent Andika |
+| 32 | Mesfin Wossen | Ethiopia | 4 | Kismayo | Caroline Mugo / Vincent Andika |
+| 33 | Worku Fitesa | Ethiopia | 5 | Amboseli | Charity Wamwea / Damaris Mulwa |
+| 34 | Ahmed Yusuf Mohamed | Somalia | 5 | Amboseli | Charity Wamwea / Damaris Mulwa |
+| 35 | Paul Kyalo | Kenya | 5 | Amboseli | Charity Wamwea / Damaris Mulwa |
+| 36 | Abdulkarim Abdulle Yusuf | Somalia | 5 | Amboseli | Charity Wamwea / Damaris Mulwa |
+| 37 | Evalyne Kanyina | Kenya | 5 | Amboseli | Charity Wamwea / Damaris Mulwa |
+| 38 | Abate Tensai | Ethiopia | 5 | Amboseli | Charity Wamwea / Damaris Mulwa |
+| 39 | Safia Hassan | Kenya | 5 | Amboseli | Charity Wamwea / Damaris Mulwa |
+| 40 | Mohamed Abdirahman Hashi | Somalia | 6 | Samburu | Winnie Chacha / Stellamaris Ajwang |
+| 41 | Fitsum Bekele Endeshaw | Ethiopia | 6 | Samburu | Winnie Chacha / Stellamaris Ajwang |
+| 42 | Mesfin Diro | Ethiopia | 6 | Samburu | Winnie Chacha / Stellamaris Ajwang |
+| 43 | Langat Kipngetich Solomon | Kenya | 6 | Samburu | Winnie Chacha / Stellamaris Ajwang |
+| 44 | Albert Nyunja | Kenya | 6 | Samburu | Winnie Chacha / Stellamaris Ajwang |
+| 45 | Mulugeta Geremew | Ethiopia | 6 | Samburu | Winnie Chacha / Stellamaris Ajwang |
+| 46 | Nicholas Kurgat | Kenya | 6 | Samburu | Winnie Chacha / Stellamaris Ajwang |
+| 47 | Abdulrizak Suleiman Osman | Somalia | 6 | Samburu | Winnie Chacha / Stellamaris Ajwang |
+| 48 | Aamir Muse Osman | Somalia | 7 | Aberdare | Henry Kissinger / Susan Mwelu |
+| 49 | James Mutisya | Kenya | 7 | Aberdare | Henry Kissinger / Susan Mwelu |
+| 50 | Bedri Abdulatif | Ethiopia | 7 | Aberdare | Henry Kissinger / Susan Mwelu |
+| 51 | Samson Warkaye Lamma | Ethiopia | 7 | Aberdare | Henry Kissinger / Susan Mwelu |
+| 52 | Francis Mulwa Musili | Kenya | 7 | Aberdare | Henry Kissinger / Susan Mwelu |
+| 53 | Asnake Worku | Ethiopia | 7 | Aberdare | Henry Kissinger / Susan Mwelu |
+| 54 | Simon Muhoro | Kenya | 7 | Aberdare | Henry Kissinger / Susan Mwelu |
+| 55 | Oscar Gaunya | Kenya | 7 | Aberdare | Henry Kissinger / Susan Mwelu |

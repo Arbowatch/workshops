@@ -96,6 +96,7 @@ Gichuhi A. Waititu is an Associate Professor of Statistics at Jomo Kenyatta Univ
 ### Charity Wamwea
 
 
+Charity Wamwea is a lecturer and researcher in Actuarial Science, Applied Statistics, and Mathematical Finance at Jomo Kenyatta University of Agriculture and Technology (JKUAT). She specializes in statistical, risk, and financial modelling, machine learning, and data science, with research interests spanning epidemiology, public health, survival analysis, infectious disease modelling, and non‑communicable diseases. Her work applies quantitative methods to address challenges in health systems, disease surveillance, and financial risk management.
 
 :::
 :::

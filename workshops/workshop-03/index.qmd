@@ -30,6 +30,6 @@ Participants will be able to select appropriate statistical models, apply them i
 | Charity Wamwea | JKUAT |
 | Winnie Chacha | JKUAT |
 | Jane Aduda | JKUAT |
-| Mulugeta Geremew | Ethiopia |
-| Mekuria Zelalem | Ethiopia |
-| Asnake Worku | Ethiopia |
+| Mulugeta Geremew | EPHI |
+| Zelalem Bonger | GOHi |
+| Asnake Worku | EPHI |

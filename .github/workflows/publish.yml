@@ -29,12 +29,10 @@ jobs:
           node-version: 20
 
       - name: Encrypt site with staticrypt
+        env:
+          SITE_PASSWORD: ${{ secrets.SITE_PASSWORD }}
         run: |
-          npx staticrypt "_site/**/*.html" \
-            --password "${{ secrets.SITE_PASSWORD }}" \
-            --short \
-            --directory "_site" \
-            -r "_site"
+          npx staticrypt "_site" -r --short -p "$SITE_PASSWORD" -d "_site"
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4

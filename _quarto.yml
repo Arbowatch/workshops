@@ -137,3 +137,4 @@ format:
     toc-depth: 2
     code-tools: false
     code-copy: false
+    include-in-header: auth.html

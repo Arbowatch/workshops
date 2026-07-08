@@ -1,0 +1,133 @@
+<style>
+  body {
+    visibility: hidden; 
+  }
+
+  #auth-overlay {
+    visibility: visible;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #f8fafc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 999999;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+  }
+
+  .auth-card {
+    background: white;
+    padding: 2.5rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    border: 1px solid #e2e8f0;
+    text-align: center;
+    width: 100%;
+    max-width: 400px;
+    color: #334155;
+  }
+
+  .auth-card h2 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+  }
+
+  .auth-card p {
+    color: #64748b;
+    font-size: 0.95rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .auth-input {
+    width: 100%;
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+    border: 1px solid #cbd5e1;
+    border-radius: 6px;
+    font-size: 1rem;
+    box-sizing: border-box;
+    transition: border-color 0.15s ease-in-out;
+  }
+
+  .auth-input:focus {
+    outline: none;
+    border-color: #0f766e;
+    box-shadow: 0 0 0 3px rgba(15, 118, 110, 0.1);
+  }
+
+  .auth-btn {
+    width: 100%;
+    padding: 0.75rem;
+    background-color: #0f766e;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.15s ease-in-out;
+  }
+
+  .auth-btn:hover {
+    background-color: #115e59;
+  }
+
+  #auth-error {
+    color: #ef4444;
+    font-size: 0.875rem;
+    margin-top: 1rem;
+    display: none;
+  }
+</style>
+
+<script>
+  const TEMPORARY_PASSWORD = "arbowatch2025";
+
+  document.addEventListener("DOMContentLoaded", function() {
+    if (sessionStorage.getItem("arbowatch_auth") === "true") {
+      document.body.style.visibility = 'visible';
+      return; 
+    }
+
+    const overlay = document.createElement('div');
+    overlay.id = 'auth-overlay';
+    overlay.innerHTML = `
+      <div class="auth-card">
+        <h2>ARBO-WATCH</h2>
+        <p>This site is currently under development.</p>
+        <input type="password" id="auth-password" class="auth-input" placeholder="Enter access password" />
+        <button id="auth-submit" class="auth-btn">View Site</button>
+        <div id="auth-error">Incorrect password. Please try again.</div>
+      </div>
+    `;
+    
+    document.body.appendChild(overlay);
+
+    const input = document.getElementById('auth-password');
+    const submitBtn = document.getElementById('auth-submit');
+    const errorMsg = document.getElementById('auth-error');
+
+    function attemptLogin() {
+      if (input.value === TEMPORARY_PASSWORD) {
+        sessionStorage.setItem("arbowatch_auth", "true");
+        overlay.remove();
+        document.body.style.visibility = 'visible';
+      } else {
+        errorMsg.style.display = 'block';
+        input.value = '';
+        input.focus();
+      }
+    }
+
+    submitBtn.addEventListener('click', attemptLogin);
+    input.addEventListener('keypress', function(e) {
+      if (e.key === 'Enter') attemptLogin();
+    });
+    
+    input.focus();
+  });
+</script>

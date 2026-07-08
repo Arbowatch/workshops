@@ -10,7 +10,7 @@
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-color: #f8fafc;
+    background-color: #f5f5f5;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -27,17 +27,19 @@
     text-align: center;
     width: 100%;
     max-width: 400px;
-    color: #334155;
+    color: #3f3731;
   }
 
   .auth-card h2 {
     margin-top: 0;
     margin-bottom: 0.5rem;
     font-weight: 600;
+    color: #682622;
   }
 
   .auth-card p {
-    color: #64748b;
+    color: #3f3731;
+    opacity: 0.8;
     font-size: 0.95rem;
     margin-bottom: 1.5rem;
   }
@@ -51,18 +53,19 @@
     font-size: 1rem;
     box-sizing: border-box;
     transition: border-color 0.15s ease-in-out;
+    color: #3f3731;
   }
 
   .auth-input:focus {
     outline: none;
-    border-color: #0f766e;
-    box-shadow: 0 0 0 3px rgba(15, 118, 110, 0.1);
+    border-color: #682622;
+    box-shadow: 0 0 0 3px rgba(104, 38, 34, 0.15);
   }
 
   .auth-btn {
     width: 100%;
     padding: 0.75rem;
-    background-color: #0f766e;
+    background-color: #682622;
     color: white;
     border: none;
     border-radius: 6px;
@@ -73,11 +76,12 @@
   }
 
   .auth-btn:hover {
-    background-color: #115e59;
+    background-color: #3f3731;
   }
 
   #auth-error {
-    color: #ef4444;
+    color: #682622;
+    font-weight: 500;
     font-size: 0.875rem;
     margin-top: 1rem;
     display: none;
@@ -98,7 +102,6 @@
     overlay.innerHTML = `
       <div class="auth-card">
         <h2>ARBO-WATCH</h2>
-        <p>This site is currently under development.</p>
         <input type="password" id="auth-password" class="auth-input" placeholder="Enter access password" />
         <button id="auth-submit" class="auth-btn">View Site</button>
         <div id="auth-error">Incorrect password. Please try again.</div>

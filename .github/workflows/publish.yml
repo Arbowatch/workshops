@@ -1,4 +1,4 @@
-name: Quarto publish
+name: Quarto Publish
 
 on:
   push:
@@ -17,6 +17,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # 1. Ensure Python is ready for your pre-render script
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          
+      # Uncomment if build-gallery.py needs external packages!
+      # - name: Install Python dependencies
+      #   run: pip install pillow pandas # (replace with whatever your script needs)
+
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
@@ -28,11 +38,12 @@ jobs:
         with:
           node-version: 20
 
+      # 2. Find and encrypt only the HTML files, overwriting them in place
       - name: Encrypt site with staticrypt
         env:
           SITE_PASSWORD: ${{ secrets.SITE_PASSWORD }}
         run: |
-          npx staticrypt "_site" -r --short -p "$SITE_PASSWORD" -d "_site"
+          find _site -type f -name "*.html" -exec bash -c 'npx staticrypt "$1" --short -p "$SITE_PASSWORD" -o "$1"' _ {} \;
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4

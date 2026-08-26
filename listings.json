@@ -1,0 +1,13 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/workshops/workshop-01/index.html",
+      "/workshops/workshop-02/index.html",
+      "/workshops/workshop-03/index.html",
+      "/workshops/workshop-04/index.html",
+      "/workshops/workshop-05/index.html",
+      "/workshops/other-trainings/index.html"
+    ]
+  }
+]

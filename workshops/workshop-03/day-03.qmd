@@ -1,25 +1,20 @@
 ---
-title: "Workshop 02 — Day 2"
-date: 2024-06-01
+title: "Module III — Day 3"
+date: 2026-04-19
 ---
 
-## Schedule
+::: {.topic-list}
 
-| Time | Topic | Facilitator |
-|---|---|---|
-| 09:00 - 09:30 | Field Safety & Protocols | John Smith |
-| 09:30 - 10:30 | Data Collection Methods | John Smith |
-| 10:30 - 10:45 | Break | |
-| 10:45 - 12:00 | GPS and Data Sheets Exercise | Jane Doe |
+::: {.topic-item}
+### Count data modelling
+Poisson and Negative Binomial regression for modelling count outcomes such as case counts.
+:::
 
+::: {.topic-item}
+### Datasets and R code
+Example datasets and R scripts used in the day's exercises.
+:::
 
-### Materials
+:::
 
-Download all the day's materials
-
-[Download all](link){.btn .btn-secondary}
-
-
-### Video Recording
-
-{{< video https://www.youtube.com/watch?v=VIDEO_ID >}}
+[Download all materials](materials/day-03/day-3.zip){.btn-download}

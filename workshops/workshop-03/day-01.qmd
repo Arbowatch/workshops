@@ -1,25 +1,30 @@
 ---
-title: "Workshop 02 — Day 2"
-date: 2024-06-01
+title: "Module III — Day 1"
+date: 2026-04-19
 ---
 
-## Schedule
+::: {.topic-list}
 
-| Time | Topic | Facilitator |
-|---|---|---|
-| 09:00 - 09:30 | Field Safety & Protocols | John Smith |
-| 09:30 - 10:30 | Data Collection Methods | John Smith |
-| 10:30 - 10:45 | Break | |
-| 10:45 - 12:00 | GPS and Data Sheets Exercise | Jane Doe |
+::: {.topic-item}
+### Module overview
+Introduction to the module, objectives, and how the four days are structured.
+:::
 
+::: {.topic-item}
+### Recap of R Software
+A refresher on the R environment, data structures, and core functions used throughout the module.
+:::
 
-### Materials
+::: {.topic-item}
+### Introduction and hypothesis testing
+Foundations of statistical inference: p-values, confidence intervals, and common hypothesis tests.
+:::
 
-Download all the day's materials
+::: {.topic-item}
+### Datasets and R code
+Example datasets and R scripts used in the day's exercises.
+:::
 
-[Download all](link){.btn .btn-secondary}
+:::
 
-
-### Video Recording
-
-{{< video https://www.youtube.com/watch?v=VIDEO_ID >}}
+[Download all materials](materials/day-01/day-1.zip){.btn-download}

@@ -1,25 +1,25 @@
 ---
-title: "Workshop 02 — Day 2"
-date: 2024-06-01
+title: "Module III — Day 4"
+date: 2026-04-19
 ---
 
-## Schedule
+::: {.topic-list}
 
-| Time | Topic | Facilitator |
-|---|---|---|
-| 09:00 - 09:30 | Field Safety & Protocols | John Smith |
-| 09:30 - 10:30 | Data Collection Methods | John Smith |
-| 10:30 - 10:45 | Break | |
-| 10:45 - 12:00 | GPS and Data Sheets Exercise | Jane Doe |
+::: {.topic-item}
+### Time series models
+Identifying trends, assessing seasonality, and short-term forecasting of public health events.
+:::
 
+::: {.topic-item}
+### Group assignments
+Applied group exercises bringing together the methods covered in the module.
+:::
 
-### Materials
+::: {.topic-item}
+### Datasets and R code
+Example datasets and R scripts used in the day's exercises.
+:::
 
-Download all the day's materials
+:::
 
-[Download all](link){.btn .btn-secondary}
-
-
-### Video Recording
-
-{{< video https://www.youtube.com/watch?v=VIDEO_ID >}}
+[Download all materials](materials/day-04/day-4.zip){.btn-download}

@@ -1,0 +1,37 @@
+---
+title: "Module IV — Day 4"
+date: 2026-07
+---
+
+### Recording
+
+::: {.video-frame}
+{{< video https://www.youtube.com/watch?v=VIDEO_ID >}}
+:::
+
+### Materials
+
+::: {.topic-list}
+
+::: {.topic-item}
+### Presentation
+Slides used during the day's session.
+
+[Download](materials/day-04/){.btn-download}
+:::
+
+::: {.topic-item}
+### Notes
+Supporting notes and reference material.
+
+[Download](materials/day-04/){.btn-download}
+:::
+
+::: {.topic-item}
+### Exercises
+Hands-on exercises and datasets.
+
+[Download](materials/day-04/){.btn-download}
+:::
+
+:::

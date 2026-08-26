@@ -1,2 +1,2 @@
 ## Workshops
-- Workshops CMS
+- Workshops

@@ -224,3 +224,77 @@ iframe {
   white-space: nowrap;
   font-weight: 500;
 }
+
+/* ----- Topic materials (day pages) ----- */
+.topic-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin: 1.25rem 0;
+}
+
+.topic-item {
+  padding: 1rem 1.25rem;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-left: 3px solid #682622;
+  border-radius: 6px;
+  background-color: #fafafa;
+}
+
+.topic-item h3 {
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+  font-size: 1.05rem;
+}
+
+.topic-item p {
+  margin-bottom: 0.6rem;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.btn-download {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.78rem;
+  font-weight: 500;
+  padding: 0.25rem 0.7rem;
+  border-radius: 4px;
+  background-color: #682622;
+  color: #fff !important;
+  text-decoration: none;
+  transition: background-color 0.15s;
+}
+
+.btn-download:hover,
+.btn-download:focus {
+  background-color: #3f3731;
+  color: #fff !important;
+  text-decoration: none;
+}
+
+/* ----- Recording video (workshop IV) ----- */
+.video-frame {
+  max-width: 640px;
+  margin: 1rem 0 1.5rem;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+}
+
+.video-frame .ratio,
+.video-frame .quarto-video {
+  margin: 0;
+}
+
+.video-frame iframe {
+  margin: 0;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  display: block;
+}

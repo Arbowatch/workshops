@@ -1,3 +1,3 @@
 ## Workshops
 - Workshops
-- Published at https://
+- Published at https://arbowatch.github.io/workshops/

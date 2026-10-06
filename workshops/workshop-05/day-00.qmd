@@ -21,7 +21,7 @@ date: 2026-08-01
 ### Presentation, Manual, and Schedule
 Slides used during the day's session, supporting manual, and schedule of the whole workshop.
 
-[Download all](materials/day-01/module_V_day00.zip){.btn-download}
+[Download all](materials/day-00/module_V_day00.zip){.btn-download}
 :::
 
 :::

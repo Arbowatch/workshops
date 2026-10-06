@@ -16,6 +16,11 @@ Participants will be able to generate risk maps, conduct basic spatial analyses,
 :::
 
 
-::: {.callout-note appearance="simple"}
-Coming soon
-:::
+## Facilitators
+
+| Name | Institution |
+| :--- |:---------- |
+| Henry Athiany | JKUAT |
+| Caroline Wanja Mugo | JKUAT |
+| Charity Wamwea | JKUAT |
+| Winnie Chacha | JKUAT |

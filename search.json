@@ -538,7 +538,17 @@
     "href": "workshops/workshop-05/index.html",
     "title": "Spatial Epidemiology, Risk Mapping, and Decision Support Systems",
     "section": "",
-    "text": "Introduction\nThis module introduces Geographic Information Systems (GIS) concepts and their applications in health research and infectious disease surveillance. It provides participants with foundational knowledge of spatial data, mapping principles, and the use of tools such as QGIS and R for geospatial analysis.\nParticipants will gain practical experience in acquiring and cleaning spatial datasets, creating thematic maps, applying cartographic design principles, and performing spatial analyses including buffer analysis, overlay analysis, clustering, and hotspot detection. The module also introduces spatial regression methods and spatial visualization techniques in R.\nIn addition, participants will learn how to develop interactive dashboards using Shiny App to support visualization, reporting, and decision-making in public health surveillance.\n\n\n\n\n\n\nTipExpected Outcome\n\n\n\nParticipants will be able to generate risk maps, conduct basic spatial analyses, visualize surveillance data geographically, and develop simple dashboards that integrate maps and health indicators to support evidence-based decision-making.\n\n\n\n\n\n\n\n\nComing soon",
+    "text": "This module introduces Geographic Information Systems (GIS) concepts and their applications in health research and infectious disease surveillance. It provides participants with foundational knowledge of spatial data, mapping principles, and the use of tools such as QGIS and R for geospatial analysis.\nParticipants will gain practical experience in acquiring and cleaning spatial datasets, creating thematic maps, applying cartographic design principles, and performing spatial analyses including buffer analysis, overlay analysis, clustering, and hotspot detection. The module also introduces spatial regression methods and spatial visualization techniques in R.\nIn addition, participants will learn how to develop interactive dashboards using Shiny App to support visualization, reporting, and decision-making in public health surveillance.\n\n\n\n\n\n\nTipExpected Outcome\n\n\n\nParticipants will be able to generate risk maps, conduct basic spatial analyses, visualize surveillance data geographically, and develop simple dashboards that integrate maps and health indicators to support evidence-based decision-making.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-05/index.html#facilitators",
+    "href": "workshops/workshop-05/index.html#facilitators",
+    "title": "Spatial Epidemiology, Risk Mapping, and Decision Support Systems",
+    "section": "Facilitators",
+    "text": "Facilitators\n\n\n\nName\nInstitution\n\n\n\n\nHenry Athiany\nJKUAT\n\n\nCaroline Wanja Mugo\nJKUAT\n\n\nCharity Wamwea\nJKUAT\n\n\nWinnie Chacha\nJKUAT",
     "crumbs": [
       "Overview"
     ]

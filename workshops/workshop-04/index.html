@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.18">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2026-07-01">
+<meta name="dcterms.date" content="2026-07-21">
 
 <title>Mathematical Modelling Techniques – ARBO-WATCH</title>
 <style>
@@ -43,10 +43,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-df56bb1ddce29e5b428dd43e261ae836.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-2c376e4cf8bf36d26d1b08f9607cc310.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -211,6 +211,35 @@ ul.task-list li input[type="checkbox"] {
   });
 </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -379,8 +408,14 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul class="collapse">
+  <li><a href="#facilitators" id="toc-facilitators" class="nav-link active" data-scroll-target="#facilitators">Facilitators</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -398,7 +433,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">July 1, 2026</p>
+      <p class="date">July 21, 2026</p>
     </div>
   </div>
   
@@ -428,16 +463,144 @@ ul.task-list li input[type="checkbox"] {
 <p>Participants will be able to implement and interpret basic infectious disease models in R, explore outbreak dynamics, evaluate intervention scenarios, and apply modelling results to support public health decision-making.</p>
 </div>
 </div>
-<div class="callout callout-style-simple callout-note">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-body-container">
-<p>Coming soon</p>
-</div>
-</div>
-</div>
+</section>
+<section id="module-overview" class="level3">
+<h3 class="anchored" data-anchor-id="module-overview">Module Overview</h3>
+<p>Infectious disease modeling is an increasingly important field that offers critical insights into how diseases spread and how they can be controlled. By fitting disease transmission and recovery models to real-world data, we can assess the effectiveness of potential interventions and explore different scenarios using key metrics such as the basic reproduction number (<span class="math inline">\(R_0\)</span>) or by forward predictions generated from stochastic simulations. This training introduces participants to the implementation and interpretation of infectious disease models using the statistical programming language R, with a strong emphasis on policy applications and the effective communication of uncertainty in model results.</p>
+</section>
+<section id="learning-objectives" class="level3">
+<h3 class="anchored" data-anchor-id="learning-objectives">Learning Objectives</h3>
+<p>By completing this course, participants should be able to:</p>
+<ol type="1">
+<li>Understand key epidemiological concepts underpinning infectious disease transmission and control.</li>
+<li>Gain practical skills in analysing and interpreting epidemic data using R.</li>
+<li>Develop competence in constructing and simulating basic mathematical models of infectious diseases (SI, SIR, and extensions).</li>
+<li>Learn how to incorporate stochasticity, interventions, and uncertainty into model analysis.</li>
+<li>Understand approaches for fitting models to data and interpreting model outputs for policy and surveillance purposes.</li>
+<li>Strengthen their ability to communicate model results and uncertainty to decision-makers and public health stakeholders.</li>
+</ol>
+</section>
+<section id="module-outline" class="level3">
+<h3 class="anchored" data-anchor-id="module-outline">Module Outline</h3>
+<section id="foundations-of-infectious-disease-epidemiology" class="level4">
+<h4 class="anchored" data-anchor-id="foundations-of-infectious-disease-epidemiology">Foundations of infectious disease epidemiology</h4>
+<ul>
+<li>Overview of infectious disease epidemiology and its public health importance</li>
+<li>Patterns and measurements of infection (incidence, prevalence, epidemic curves)</li>
+<li>Determinants and dynamics of infectious diseases</li>
+<li>Data sources and surveillance systems for infectious disease monitoring</li>
+<li>Exploring and summarising epidemic data in R</li>
+<li>Visualising outbreak trends using ggplot2</li>
+</ul>
+</section>
+<section id="introduction-to-mathematical-modelling-in-epidemiology" class="level4">
+<h4 class="anchored" data-anchor-id="introduction-to-mathematical-modelling-in-epidemiology">Introduction to mathematical modelling in epidemiology</h4>
+<ul>
+<li>Role of models in public health decision-making</li>
+<li>Conceptual, mathematical, and computational modelling approaches</li>
+<li>Population biology and epidemic dynamics</li>
+<li>Building simple transmission models (SI model)</li>
+<li>Implementing and visualising basic models in R</li>
+</ul>
+</section>
+<section id="compartmental-models-and-key-epidemiological-quantities" class="level4">
+<h4 class="anchored" data-anchor-id="compartmental-models-and-key-epidemiological-quantities">Compartmental models and key epidemiological quantities</h4>
+<ul>
+<li>SIR and SEIR models: structure, assumptions, and model diagrams</li>
+<li>Deriving and interpreting ordinary differential equations (ODEs)</li>
+<li>Understanding epidemiological quantities: <span class="math inline">\(R_0\)</span>, <span class="math inline">\(R_e\)</span>, herd immunity, and invasion thresholds</li>
+<li>Implementing SIR models in R using deSolve</li>
+<li>Simulating and interpreting epidemic curves</li>
+</ul>
+</section>
+<section id="model-calibration-fitting-and-stochastic-simulations" class="level4">
+<h4 class="anchored" data-anchor-id="model-calibration-fitting-and-stochastic-simulations">Model calibration, fitting, and stochastic simulations</h4>
+<ul>
+<li>Parameter estimation and model calibration using real or simulated data</li>
+<li>Distinguishing between deterministic and stochastic modelling approaches</li>
+<li>Running stochastic epidemic simulations in R</li>
+<li>Exploring randomness and uncertainty in model outcomes</li>
+<li>Summarising and visualising uncertainty using plots and summaries</li>
+</ul>
+</section>
+<section id="modelling-interventions-and-control-strategies" class="level4">
+<h4 class="anchored" data-anchor-id="modelling-interventions-and-control-strategies">Modelling interventions and control strategies</h4>
+<ul>
+<li>Incorporating interventions (vaccination, social distancing, treatment) into models</li>
+<li>Simulating alternative control scenarios and comparing outcomes</li>
+<li>Evaluating intervention impact and model sensitivity</li>
+<li>Interpreting results to inform public health decision-making</li>
+<li>Scenario-based exercises using R</li>
+</ul>
+</section>
+<section id="communicating-results-and-policy-applications" class="level4">
+<h4 class="anchored" data-anchor-id="communicating-results-and-policy-applications">Communicating results and policy applications</h4>
+<ul>
+<li>Communicating assumptions, limitations, and uncertainty in model results</li>
+<li>Translating modelling insights into actionable policy recommendations</li>
+<li>Introduction to vector-borne disease models (e.g., malaria, dengue, Chikungunya)</li>
+<li>Extending models to include vectors and multiple transmission routes</li>
+<li>Case study and group presentations: interpreting and reporting model outputs</li>
+</ul>
+</section>
+</section>
+<section id="learning-experiences" class="level3">
+<h3 class="anchored" data-anchor-id="learning-experiences">Learning Experiences</h3>
+<p>Participants will engage in interactive virtual lectures on Google Meet. At the end of each training session, trainees will be given tasks to tackle during the day so as to self-assess their understanding on the concepts covered within that day. The tasks will then be monitored and reviewed during the afternoon mentorship sessions.</p>
+</section>
+<section id="evaluation" class="level3">
+<h3 class="anchored" data-anchor-id="evaluation">Evaluation</h3>
+<p>Participants will work in small groups to develop and present an infectious disease modelling project using real or simulated data, demonstrating their ability to apply epidemiological concepts, implement models in R, and interpret results for public health decision-making.</p>
+<p>Pre and post training surveys will also be used to assess improvements in knowledge, skills, and confidence in applying mathematical modelling for infectious diseases.</p>
+</section>
+<section id="facilitators" class="level2">
+<h2 class="anchored" data-anchor-id="facilitators">Facilitators</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Name</th>
+<th style="text-align: left;">Institution</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Henry Athiany</td>
+<td style="text-align: left;">JKUAT</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Caroline Wanja Mugo</td>
+<td style="text-align: left;">JKUAT</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Anthony Waititu</td>
+<td style="text-align: left;">JKUAT</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Charity Wamwea</td>
+<td style="text-align: left;">JKUAT</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Winnie Chacha</td>
+<td style="text-align: left;">JKUAT</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Jane Aduda</td>
+<td style="text-align: left;">JKUAT</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Mulugeta Geremew</td>
+<td style="text-align: left;">EPHI</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Zelalem Bonger</td>
+<td style="text-align: left;">GOHi</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Asnake Worku</td>
+<td style="text-align: left;">EPHI</td>
+</tr>
+</tbody>
+</table>
 
 
 </section>

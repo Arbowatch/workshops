@@ -1,9 +1,15 @@
 ---
-title: "Sensitivity Analysis and Modelling Interventions"
-date: 2026-07-28
+title: "Spatial Analysis in R for Public Health"
+date: 2026-08-07
 ---
 
-### Recording
+### Session 1 Recording
+
+::: {.video-frame}
+{{< video https://www.youtube.com/watch?v=VIDEO_ID >}}
+:::
+
+### Session 2 Recording
 
 ::: {.video-frame}
 {{< video https://www.youtube.com/watch?v=VIDEO_ID >}}
@@ -17,7 +23,7 @@ date: 2026-07-28
 ### Presentation, Notes, and Exercises
 Slides used during the day's session, supporting notes, and hands-on exercises.
 
-[Download all](materials/day-05/module_IV_day05.zip){.btn-download}
+[Download all](materials/day-03/module_V_day03.zip){.btn-download}
 :::
 
 :::

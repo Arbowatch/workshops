@@ -1,6 +1,6 @@
 ---
-title: "Sensitivity Analysis and Modelling Interventions"
-date: 2026-07-28
+title: "Risk Mapping Tools in R"
+date: 2026-08-13
 ---
 
 ### Recording
@@ -17,7 +17,7 @@ date: 2026-07-28
 ### Presentation, Notes, and Exercises
 Slides used during the day's session, supporting notes, and hands-on exercises.
 
-[Download all](materials/day-05/module_IV_day05.zip){.btn-download}
+[Download all](materials/day-06/module_V_day06.zip){.btn-download}
 :::
 
 :::

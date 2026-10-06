@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2026-08-07">
 
-<title>ARBO-WATCH Capacity Building Hub – ARBO-WATCH</title>
+<title>Spatial Analysis in R for Public Health – ARBO-WATCH</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -29,25 +30,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-2c376e4cf8bf36d26d1b08f9607cc310.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-2c376e4cf8bf36d26d1b08f9607cc310.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -75,35 +74,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-workshop-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-workshop-listing'] = new List('listing-workshop-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <style>
   body {
     visibility: hidden; 
@@ -241,51 +211,22 @@ ul.task-list li input[type="checkbox"] {
   });
 </script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-sidebar docked nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./assets/logo/arbowatch.png" alt="" class="navbar-logo light-content">
-    <img src="./assets/logo/arbowatch.png" alt="" class="navbar-logo dark-content">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../assets/logo/arbowatch.png" alt="" class="navbar-logo light-content">
+    <img src="../../assets/logo/arbowatch.png" alt="" class="navbar-logo dark-content">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">ARBO-WATCH</span>
     </a>
   </div>
@@ -296,7 +237,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -305,27 +246,27 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-workshops">    
         <li>
-    <a class="dropdown-item" href="./workshops/workshop-01/index.html">
+    <a class="dropdown-item" href="../../workshops/workshop-01/index.html">
  <span class="dropdown-text">Module I - Data Collection and Management</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./workshops/workshop-02/index.html">
+    <a class="dropdown-item" href="../../workshops/workshop-02/index.html">
  <span class="dropdown-text">Module II - Introduction to R for Public Health Surveillance</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./workshops/workshop-03/index.html">
+    <a class="dropdown-item" href="../../workshops/workshop-03/index.html">
  <span class="dropdown-text">Module III - Statistical Modelling for Public Health Research</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./workshops/workshop-04/index.html">
+    <a class="dropdown-item" href="../../workshops/workshop-04/index.html">
  <span class="dropdown-text">Module IV - Mathematical Modelling Techniques</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./workshops/workshop-05/index.html">
+    <a class="dropdown-item" href="../../workshops/workshop-05/index.html">
  <span class="dropdown-text">Module V - Spatial Epidemiology, Risk Mapping, and Decision Support Systems</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./workshops/other-trainings/index.html">
+    <a class="dropdown-item" href="../../workshops/other-trainings/index.html">
  <span class="dropdown-text">Other Trainings</span></a>
   </li>  
     </ul>
@@ -333,23 +274,23 @@ window.Quarto = {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./success-stories.html"> 
+    <a class="nav-link" href="../../success-stories.html"> 
 <span class="menu-text">Success Stories</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./community.html"> 
+    <a class="nav-link" href="../../community.html"> 
 <span class="menu-text">Community of Practice</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./gallery.html"> 
+    <a class="nav-link" href="../../gallery.html"> 
 <span class="menu-text">Photo gallery</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.html"> 
+    <a class="nav-link" href="../../contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./license.html"> 
+    <a class="nav-link" href="../../license.html"> 
 <span class="menu-text">License</span></a>
   </li>  
   <li class="nav-item compact">
@@ -363,27 +304,96 @@ window.Quarto = {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../workshops/workshop-05/day-00.html">Days</a></li><li class="breadcrumb-item"><a href="../../workshops/workshop-05/day-03.html">Day 3</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-<!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul class="collapse">
-  <li><a href="#jkuat-team" id="toc-jkuat-team" class="nav-link active" data-scroll-target="#jkuat-team">JKUAT Team</a></li>
-  <li><a href="#partners" id="toc-partners" class="nav-link" data-scroll-target="#partners">Partners</a></li>
-  </ul>
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../workshops/workshop-05/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Overview</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Days</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../workshops/workshop-05/day-00.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Pre-training session</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../workshops/workshop-05/day-01.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Day 1</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../workshops/workshop-05/day-02.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Day 2</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../workshops/workshop-05/day-03.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Day 3</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../workshops/workshop-05/day-04.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Day 4</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../workshops/workshop-05/day-05.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Day 5</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../workshops/workshop-05/day-06.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Day 6</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
 </nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../workshops/workshop-05/day-00.html">Days</a></li><li class="breadcrumb-item"><a href="../../workshops/workshop-05/day-03.html">Day 3</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">ARBO-WATCH Capacity Building Hub</h1>
+<h1 class="title">Spatial Analysis in R for Public Health</h1>
 </div>
 
 
@@ -391,6 +401,12 @@ window.Quarto = {
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">August 7, 2026</p>
+    </div>
+  </div>
   
     
   </div>
@@ -400,214 +416,30 @@ window.Quarto = {
 </header>
 
 
-<section id="about-the-project" class="level3">
-<h3 class="anchored" data-anchor-id="about-the-project">About the Project</h3>
-<p>The ARBO-WATCH project seeks to design and deploy dengue and Chikungunya fever decision support tools informed by process-based models in Kenya, Somalia and Ethiopia. These analyses will utilize relevant primary and secondary data from all these countries to uncover broader epidemiological patterns of these diseases in the region. The project is being implemented by a consortium made up of nine institutions including ILRI, the Kenya Medical Research Institute, Kenya’s Ministry of Health, Jomo Kenyatta University of Agriculture and Technology, Ethiopia Public Health Institute, Global One Health Initiative, Ohio State University, Abrar University and the Ministry of Health Somalia.</p>
-<p>Read <a href="https://www.ilri.org/research/projects/arbo-watch-project">here to learn more</a> about the project.</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/DwMV8qmgmbA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="curriculum-overview" class="level3">
-<h3 class="anchored" data-anchor-id="curriculum-overview">Curriculum Overview</h3>
-<ul>
-<li>This curriculum is designed to strengthen analytical capacity in infectious disease surveillance and outbreak response.</li>
-<li>It promotes mastery of research design, data analysis, modelling, visualization, and decision-support tools.</li>
-<li>The training emphasizes the use of free and open-source platforms for accessibility and sustainability.</li>
-<li>The curriculum is organized into five (5) modules, and each module has been allocated the training number days, but additional module content is available online.</li>
-</ul>
-<div class="callout callout-style-default callout-tip callout-titled" title="Overall Goal">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Overall Goal
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>To build an end-to-end skill set that moves participants from data collection to analysis, modelling, mapping, and decision-making.</p>
-</div>
+<section id="session-1-recording" class="level3">
+<h3 class="anchored" data-anchor-id="session-1-recording">Session 1 Recording</h3>
+<div class="video-frame">
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/VIDEO_ID" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </div>
 </section>
-<section id="modules-overview" class="level3">
-<h3 class="anchored" data-anchor-id="modules-overview">Modules Overview</h3>
-<div id="listing-workshop-listing" class="quarto-listing quarto-listing-container-table">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-    <select id="listing-workshop-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-workshop-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-      <option value="" disabled="" selected="" hidden="">Order By</option>
-      <option value="index" data-direction="asc">Default</option>
-      <option value="listing-date-sort" data-direction="asc">
-        Date - Oldest
-      </option>
-      <option value="listing-date-sort" data-direction="desc">
-        Date - Newest
-      </option>
-      <option value="listing-title-sort" data-direction="asc">
-        Title
-      </option>
-    </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
-</th>
-
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
-</th>
-
-</tr>
-</thead>
-<tbody class="list">
-
-<tr data-index="0" data-listing-date-sort="1756080000000" data-listing-file-modified-sort="1791286988450" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="20" data-listing-word-count-sort="3958" data-listing-title-sort="Data Collection and Management" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Aug 2025</span>
-</td>
-<td>
-<a href="./workshops/workshop-01/index.html" class="title listing-title">Data Collection and Management</a>
-</td>
-
-</tr>
-
-<tr data-index="1" data-listing-date-sort="1761523200000" data-listing-file-modified-sort="1791286988451" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1620" data-listing-title-sort="Introduction to R for Public Health Surveillance" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Oct 2025</span>
-</td>
-<td>
-<a href="./workshops/workshop-02/index.html" class="title listing-title">Introduction to R for Public Health Surveillance</a>
-</td>
-
-</tr>
-
-<tr data-index="2" data-listing-date-sort="1776556800000" data-listing-file-modified-sort="1791286988452" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="185" data-listing-title-sort="Statistical Modelling for Public Health Research" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Apr 2026</span>
-</td>
-<td>
-<a href="./workshops/workshop-03/index.html" class="title listing-title">Statistical Modelling for Public Health Research</a>
-</td>
-
-</tr>
-
-<tr data-index="3" data-listing-date-sort="1784592000000" data-listing-file-modified-sort="1791286988454" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="756" data-listing-title-sort="Mathematical Modelling Techniques" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Jul 2026</span>
-</td>
-<td>
-<a href="./workshops/workshop-04/index.html" class="title listing-title">Mathematical Modelling Techniques</a>
-</td>
-
-</tr>
-
-<tr data-index="4" data-listing-date-sort="1791244800000" data-listing-file-modified-sort="1791286988505" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="142" data-listing-title-sort="Spatial Epidemiology, Risk Mapping, and Decision Support Systems" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Oct 2026</span>
-</td>
-<td>
-<a href="./workshops/workshop-05/index.html" class="title listing-title">Spatial Epidemiology, Risk Mapping, and Decision Support Systems</a>
-</td>
-
-</tr>
-
-<tr data-index="5" data-listing-file-modified-sort="1791286988450" data-listing-reading-time-sort="1" data-listing-word-count-sort="40" data-listing-title-sort="Other Trainings" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">&nbsp;</span>
-</td>
-<td>
-<a href="./workshops/other-trainings/index.html" class="title listing-title">Other Trainings</a>
-</td>
-
-</tr>
-
-</tbody>
-</table>
-<div class="listing-no-matching d-none">No matching items</div>
+<section id="session-2-recording" class="level3">
+<h3 class="anchored" data-anchor-id="session-2-recording">Session 2 Recording</h3>
+<div class="video-frame">
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/VIDEO_ID" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </div>
 </section>
-<section id="jkuat-team" class="level2">
-<h2 class="anchored" data-anchor-id="jkuat-team">JKUAT Team</h2>
-<div class="educator-list">
-<div class="educator-card">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="assets/images/henry.jpg" class="educator-photo img-fluid figure-img"></p>
-<figcaption>Henry Athiany</figcaption>
-</figure>
-</div>
-<section id="henry-athiany" class="level3 educator-content">
-<h3 class="anchored" data-anchor-id="henry-athiany">Henry Athiany</h3>
-<p><em>Research Biostatistician</em></p>
-<p>Henry Athiany is a Lecturer in the Department of Statistics and Actuarial Sciences (STACS) at JKUAT, with training in Biostatistics and Epidemiology and a background in Mathematics and Computer Science. His research spans epidemiology, infectious disease modelling, Bayesian and spatiotemporal analysis, clinical trials, statistical computing, bioinformatics, time-series forecasting, and mental health analytics. With over 15 years of experience working with large-scale eHealth and routinely collected healthcare data, he has contributed to national public health initiatives, including serving on Kenya’s COVID-19 Modelling Technical Committee and supporting multiple Ministry of Health projects on digital health systems, diagnostics optimization, and health information interoperability. He is also an experienced trainer in statistical software and research methods and has held leadership roles within the International Biometric Society and the Statistical Society of Kenya. Currently, he supports the ARBO-WATCH project as part of the JKUAT team.</p>
+<section id="materials" class="level3">
+<h3 class="anchored" data-anchor-id="materials">Materials</h3>
+</section>
+<div class="topic-list">
+<section id="presentation-notes-and-exercises" class="level3 topic-item">
+<h3 class="anchored" data-anchor-id="presentation-notes-and-exercises">Presentation, Notes, and Exercises</h3>
+<p>Slides used during the day’s session, supporting notes, and hands-on exercises.</p>
+<p><a href="materials/day-03/module_V_day03.zip" class="btn-download">Download all</a></p>
 </section>
 </div>
-<div class="educator-card">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="assets/images/Caroline Wanja Mugo.jpg" class="educator-photo img-fluid figure-img"></p>
-<figcaption>Caroline Wanja Mugo</figcaption>
-</figure>
-</div>
-<section id="caroline-wanja-mugo" class="level3 educator-content">
-<h3 class="anchored" data-anchor-id="caroline-wanja-mugo">Caroline Wanja Mugo</h3>
-<p><em>Lecturer Biostatistics</em></p>
-<p>Caroline Wanja Mugo is a Lecturer in Biostatistics at JKUAT with a background in Biostatistics and Epidemiology. Her research interests include infectious disease epidemiology, statistical methods for public health, and data-driven decision-making. She has experience working with large datasets and routinely collected healthcare data, contributing to national public health initiatives. Caroline has also been involved in training and capacity-building efforts in biostatistics and epidemiology. She currently supports the ARBO-WATCH project as part of the JKUAT team.</p>
-</section>
-</div>
-<div class="educator-card">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="assets/images/waititu.jpeg" class="educator-photo img-fluid figure-img"></p>
-<figcaption>Anthony Waititu</figcaption>
-</figure>
-</div>
-<section id="anthony-waititu" class="level3 educator-content">
-<h3 class="anchored" data-anchor-id="anthony-waititu">Anthony Waititu</h3>
-<p><em>Associate Professor</em></p>
-<p>Gichuhi A. Waititu is an Associate Professor of Statistics at Jomo Kenyatta University of Agriculture and Technology (JKUAT), Kenya. He currently serves as the Dean of the School of Mathematics and Physical Sciences at JKUAT. He has over twenty (20) years of experience in teaching applied statistics at university level, alongside extensive engagement in research and academic leadership. His research interests focus on Machine Learning and Artificial Intelligence, with applications in data science and statistical modelling.</p>
-</section>
-</div>
-<div class="educator-card">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="assets/images/charity.jpeg" class="educator-photo img-fluid figure-img"></p>
-<figcaption>Charity Wamwea</figcaption>
-</figure>
-</div>
-<section id="charity-wamwea" class="level3 educator-content">
-<h3 class="anchored" data-anchor-id="charity-wamwea">Charity Wamwea</h3>
-<p>Charity Wamwea is a lecturer and researcher in Actuarial Science, Applied Statistics, and Mathematical Finance at Jomo Kenyatta University of Agriculture and Technology (JKUAT). She specializes in statistical, risk, and financial modelling, machine learning, and data science, with research interests spanning epidemiology, public health, survival analysis, infectious disease modelling, and non‑communicable diseases. Her work applies quantitative methods to address challenges in health systems, disease surveillance, and financial risk management.</p>
-</section>
-</div>
-</div>
-</section>
-<section id="partners" class="level2">
-<h2 class="anchored" data-anchor-id="partners">Partners</h2>
-<ul>
-<li><a href="https://www.ilri.org">International Livestock Research Institute</a></li>
-<li><a href="https://www.jkuat.ac.ke">Jomo Kenyatta University of Agriculture and Technology</a></li>
-<li><a href="https://www.kemri.go.ke">Kenya Medical Research Institute</a></li>
-<li><a href="https://meteo.go.ke/">Kenya Meteorological Department</a></li>
-<li><a href="https://ephi.gov.et/">Ethiopian Public Health Institute</a></li>
-<li><a href="https://arachti.org/">Abrar Research &amp; Training Centre</a></li>
-<li><a href="https://moh.gov.so">Federal Ministry of Health in Somalia</a></li>
-<li><a href="https://oia.osu.edu/global-one-health-initiative">Global One Health Initiative</a></li>
-<li>Kenya’s Department of Disease Surveillance and Epidemic Response</li>
-<li><a href="https://osu.edu">Ohio State University</a></li>
-</ul>
 
 
-
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -968,12 +800,12 @@ window.Quarto = {
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
-    <a class="nav-link" href="./license.html">
+    <a class="nav-link" href="../../license.html">
 <p>License</p>
 </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="./contact.html">
+    <a class="nav-link" href="../../contact.html">
 <p>Contact</p>
 </a>
   </li>  

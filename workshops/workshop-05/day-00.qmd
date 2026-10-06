@@ -1,0 +1,27 @@
+---
+title: "Pre-training session"
+date: 2026-08-01
+---
+
+### Recording
+
+::: {.video-frame}
+{{< video https://www.youtube.com/watch?v=VIDEO_ID >}}
+:::
+
+### Training Datasets and Shapefiles
+
+[Download zip](materials/day-00/training_datasets.zip){.btn-download}
+
+### Materials
+
+::: {.topic-list}
+
+::: {.topic-item}
+### Presentation, Manual, and Schedule
+Slides used during the day's session, supporting manual, and schedule of the whole workshop.
+
+[Download all](materials/day-01/module_V_day00.zip){.btn-download}
+:::
+
+:::

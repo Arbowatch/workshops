@@ -1,6 +1,6 @@
 ---
-title: "Module IV — Day 6"
-date: 2026-07
+title: "Communicating Results and Policy Applications in Mathematical Modelling"
+date: 2026-07-29
 ---
 
 ### Recording
@@ -14,24 +14,10 @@ date: 2026-07
 ::: {.topic-list}
 
 ::: {.topic-item}
-### Presentation
-Slides used during the day's session.
+### Presentation, Notes, and Exercises
+Slides used during the day's session, supporting notes, and hands-on exercises.
 
-[Download](materials/day-06/){.btn-download}
-:::
-
-::: {.topic-item}
-### Notes
-Supporting notes and reference material.
-
-[Download](materials/day-06/){.btn-download}
-:::
-
-::: {.topic-item}
-### Exercises
-Hands-on exercises and datasets.
-
-[Download](materials/day-06/){.btn-download}
+[Download all](materials/day-06/module_IV_day06.zip){.btn-download}
 :::
 
 :::

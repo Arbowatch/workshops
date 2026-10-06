@@ -1,6 +1,6 @@
 ---
-title: "Module IV — Day 5"
-date: 2026-07
+title: "Sensitivity Analysis and Modelling Interventions"
+date: 2026-07-28
 ---
 
 ### Recording
@@ -14,24 +14,10 @@ date: 2026-07
 ::: {.topic-list}
 
 ::: {.topic-item}
-### Presentation
-Slides used during the day's session.
+### Presentation, Notes, and Exercises
+Slides used during the day's session, supporting notes, and hands-on exercises.
 
-[Download](materials/day-05/){.btn-download}
-:::
-
-::: {.topic-item}
-### Notes
-Supporting notes and reference material.
-
-[Download](materials/day-05/){.btn-download}
-:::
-
-::: {.topic-item}
-### Exercises
-Hands-on exercises and datasets.
-
-[Download](materials/day-05/){.btn-download}
+[Download all](materials/day-05/moudle_IV_day05.zip){.btn-download}
 :::
 
 :::

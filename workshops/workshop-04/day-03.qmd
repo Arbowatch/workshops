@@ -1,9 +1,15 @@
 ---
-title: "Module IV — Day 3"
-date: 2026-07
+title: "On Compartmental Models"
+date: 2026-07-23
 ---
 
-### Recording
+### Session 1 Recording
+
+::: {.video-frame}
+{{< video https://www.youtube.com/watch?v=VIDEO_ID >}}
+:::
+
+### Session 2 Recording
 
 ::: {.video-frame}
 {{< video https://www.youtube.com/watch?v=VIDEO_ID >}}
@@ -14,24 +20,10 @@ date: 2026-07
 ::: {.topic-list}
 
 ::: {.topic-item}
-### Presentation
-Slides used during the day's session.
+### Presentation, Notes, and Exercises
+Slides used during the day's session, supporting notes, and hands-on exercises.
 
-[Download](materials/day-03/){.btn-download}
-:::
-
-::: {.topic-item}
-### Notes
-Supporting notes and reference material.
-
-[Download](materials/day-03/){.btn-download}
-:::
-
-::: {.topic-item}
-### Exercises
-Hands-on exercises and datasets.
-
-[Download](materials/day-03/){.btn-download}
+[Download all](materials/day-03/module_IV_day03.zip){.btn-download}
 :::
 
 :::

@@ -1,6 +1,6 @@
 ---
-title: "Module IV — Day 4"
-date: 2026-07
+title: "Model Calibration, Fitting & Intervention Modelling"
+date: 2026-07-27
 ---
 
 ### Recording
@@ -14,24 +14,10 @@ date: 2026-07
 ::: {.topic-list}
 
 ::: {.topic-item}
-### Presentation
-Slides used during the day's session.
+### Presentation, Notes, and Exercises
+Slides used during the day's session, supporting notes, and hands-on exercises.
 
-[Download](materials/day-04/){.btn-download}
-:::
-
-::: {.topic-item}
-### Notes
-Supporting notes and reference material.
-
-[Download](materials/day-04/){.btn-download}
-:::
-
-::: {.topic-item}
-### Exercises
-Hands-on exercises and datasets.
-
-[Download](materials/day-04/){.btn-download}
+[Download all](materials/day-04/module_IV_day04.zip){.btn-download}
 :::
 
 :::

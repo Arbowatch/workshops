@@ -96,11 +96,7 @@ Pre and post training surveys will also be used to assess improvements in knowle
 | Name | Institution |
 | :--- |:---------- |
 | Henry Athiany | JKUAT |
-| Caroline Wanja Mugo | JKUAT |
-| Anthony Waititu | JKUAT |
-| Charity Wamwea | JKUAT |
-| Winnie Chacha | JKUAT |
-| Jane Aduda | JKUAT |
-| Mulugeta Geremew | EPHI |
-| Zelalem Bonger | GOHi |
-| Asnake Worku | EPHI |
+| Caroline Mugo | JKUAT |
+| Duncan Gathungu | JKUAT |
+| Samwel Mwalili | JKUAT |
+| Fredrick Oketch | ILRI |

@@ -25,3 +25,68 @@ Participants will be able to generate risk maps, conduct basic spatial analyses,
 | Boniface Malenje | JKUAT |
 | Charity Wamwea | JKUAT |
 | Winnie Chacha | JKUAT |
+
+
+## Participants
+
+| S_No | Name | Institution | Country |
+| :--- | :--- | :--- | :--- |
+| 1 | Bernard Osang'ir | Hasselt University | Belgium |
+| 2 | Anwar Taju | EPHI | Ethiopia |
+| 3 | Ayehu Mekonnen | EPHI | Ethiopia |
+| 4 | Chalie Mulu Belete | EPHI | Ethiopia |
+| 5 | Leykun Getaneh | EPHI | Ethiopia |
+| 6 | Mandefro Kebede | EPHI | Ethiopia |
+| 7 | Mesfin Asmamaw | EPHI | Ethiopia |
+| 8 | Nathan Fikre | EPHI | Ethiopia |
+| 9 | Samson Warkaye Lamma | EPHI | Ethiopia |
+| 10 | Suwebi Ahmed | EPHI | Ethiopia |
+| 11 | Tsegaye Berkessa | EPHI | Ethiopia |
+| 12 | Yeshambel Worku | EPHI | Ethiopia |
+| 13 | Zerihun Kebede | EPHI | Ethiopia |
+| 14 | Akengo Hellen | ILRI | Kenya |
+| 15 | Fiona Muthiora | ILRI | Kenya |
+| 16 | Francis Oketch Ochieng | ILRI | Kenya |
+| 17 | Simon Muhoro | ILRI | Kenya |
+| 18 | Albert Nyunja | KEMRI | Kenya |
+| 19 | Edith C. Koskei | KEMRI | Kenya |
+| 20 | Francis Mulwa Musili | KEMRI | Kenya |
+| 21 | Hellen Koka | KEMRI | Kenya |
+| 22 | James Mutisya | KEMRI | Kenya |
+| 23 | Joel Lutomiah | KEMRI | Kenya |
+| 24 | Langat Kipngetich Solomon | KEMRI | Kenya |
+| 25 | Limbaso Konongoi | KEMRI | Kenya |
+| 26 | Paul Kyalo | KEMRI | Kenya |
+| 27 | Samuel Arach Owaka | KEMRI | Kenya |
+| 28 | Seth Ouma Okeyo | KEMRI | Kenya |
+| 29 | Victor Ofula | KEMRI | Kenya |
+| 30 | Esther Nyaboke Bundi | KNPHI | Kenya |
+| 31 | Evalyne Kanyina | KNPHI | Kenya |
+| 32 | Francis Ng'ang'a | KNPHI | Kenya |
+| 33 | Hillary Chebon Chelanga | KNPHI | Kenya |
+| 34 | Margaret Wairimu Wanyeki Nganga | KNPHI | Kenya |
+| 35 | Millicent Makandi | KNPHI | Kenya |
+| 36 | Nicholas Kurgat | KNPHI | Kenya |
+| 37 | Oscar Gaunya | KNPHI | Kenya |
+| 38 | Safia Hassan | KNPHI | Kenya |
+| 39 | Valentine Kabita | KNPHI | Kenya |
+| 40 | Yusuf Ajack Ibrahim | KNPHI | Kenya |
+| 41 | Aamir Muse Osman | Abrar Research and Training Centre | Somalia |
+| 42 | Abas Mohamed Sharif | Abrar Research and Training Centre | Somalia |
+| 43 | Abdulkarim Abdulle Yusuf | Abrar Research and Training Centre | Somalia |
+| 44 | Abdulrazik Suleiman Osman | Abrar Research and Training Centre | Somalia |
+| 45 | Abdullahi Abdulle Ali | Capital University of Somalia | Somalia |
+| 46 | Abdullahi Mohamud Omar | Capital University of Somalia | Somalia |
+| 47 | Ahmed Mohamud Hussein | Capital University of Somalia | Somalia |
+| 48 | Ali Mohamed Hussein | Capital University of Somalia | Somalia |
+| 49 | Mohamed daud Mohamud | Capital University of Somalia | Somalia |
+| 50 | Yasin Mohamed Ali | Capital University of Somalia | Somalia |
+| 51 | Shafici Abdulqadir Hassan | Jamuhuriya University | Somalia |
+| 52 | Abdullahi Mohamed Mohamud | Ministry of Health | Somalia |
+| 53 | Ahmed Yusuf | Ministry of Health | Somalia |
+| 54 | Fadumo Hassan Mohamed | Ministry of Health | Somalia |
+| 55 | Hamdi Ahmed Ali | Ministry of Health | Somalia |
+| 56 | Mohamed Abdirahman Hashi | Ministry of Health | Somalia |
+| 57 | Sadaq Adan Husein | Ministry of Health | Somalia |
+| 58 | Marian Osman | National Institute of Health | Somalia |
+| 59 | Naima Ibrahim Ahmed | Somali National University | Somalia |

@@ -33,3 +33,22 @@ Participants will be able to select appropriate statistical models, apply them i
 | Mulugeta Geremew | EPHI |
 | Zelalem Bonger | GOHi |
 | Asnake Worku | EPHI |
+
+
+## Participants
+
+| S_No | Name | Institution | Country |
+| :--- | :--- | :--- | :--- |
+| 1 | Abas Mohamed Sharif | Abrar Research and Training Centre | Somalia |
+| 2 | Aamir Muse Osman | Abrar Research and Training Centre | Somalia |
+| 3 | Abdulkarim Abdulle Yusuf | Abrar Research and Training Centre | Somalia |
+| 4 | Abdulrazik Suleiman Osman | Abrar Research and Training Centre | Somalia |
+| 5 | Fadumo Hassan Mohamed | Ministry of Health | Somalia |
+| 6 | Shafici Abdulqadir Hassan | Jamuhuriya University | Somalia |
+| 7 | Abdullahi Mohamed Mohamud | Ministry of Health | Somalia |
+| 8 | Ahmed Yusuf | Ministry of Health | Somalia |
+| 9 | Hamdi Ahmed Ali | Ministry of Health | Somalia |
+| 10 | Mohamed Abdirahman Hashi | Ministry of Health | Somalia |
+| 11 | Marian Osman | National Institute of Health | Somalia |
+| 12 | Naima Ibrahim Ahmed | Somali National University | Somalia |
+| 13 | Sadaq Adan Husein | Ministry of Health | Somalia |

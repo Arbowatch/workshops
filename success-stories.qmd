@@ -1,13 +1,43 @@
 ---
-title: "Success Stories"
+title: "Testimonials"
 ---
 
-### Testimonials & Stories
+ARBO-WATCH capacity-building programs continue to strengthen the skills of public health professionals across the Horn of Africa. The stories below are from Somalia, and we look forward to adding testimonials from Kenya and Ethiopia as more participants share their experiences.
 
-Read how ARBO-WATCH capacity building has impacted participants across Kenya, Somalia, and Ethiopia.
+::: {.testimonial-list}
+::: {.grid .testimonial-card}
+::: {.g-col-12 .g-col-md-4}
+::: {.testimonial-photo}
+Photo to be added
+:::
+:::
 
----
+::: {.g-col-12 .g-col-md-8 .testimonial-content}
+### Dr. Abdullahi Mohamed Mohamud
+**National Surveillance Officer, Federal Ministry of Health, Somalia**
 
-::: {.callout-note appearance="simple"}
-*Testimonials and participant stories will be shared here as they are collected.*
+> Participating in the ARBO WATCH capacity-building program strengthened my practical skills in disease surveillance data work and research. The training gave me hands-on skills in data collection and management tools (Kobo Toolbox, Google Forms, Excel), introduced me to R for public health surveillance, and deepened my understanding of statistical modelling for epidemiological research. These skills have directly supported how I analyze and interpret surveillance data during outbreak investigation.
+>
+> I thank the ARBO WATCH consortium and the JKUAT team for this well-structured and practical training to develop epidemiological models for predicting the incidence of dengue and chikungunya and provide decision-support tools to inform surveillance and control in the Horn of Africa.
+:::
+:::
+
+::: {.grid .testimonial-card}
+::: {.g-col-12 .g-col-md-4}
+::: {.testimonial-photo}
+Photo to be added
+:::
+:::
+
+::: {.g-col-12 .g-col-md-8 .testimonial-content}
+### Dr. Ahmed Yusuf
+**Public Health Department, Federal Ministry of Health, Somalia**
+
+> The five-module data training program was an exceptional professional development experience. The interactive morning and afternoon practical sessions provided hands-on expertise in essential tools, including advanced Excel for data management, R for statistical analysis, and QGIS for spatial health mapping.
+>
+> Beyond the technical skills I have acquired, the program allowed me to build a valuable professional network with brilliant colleagues across the field. I am deeply grateful to the organizers and everyone who made this possible, especially the mentors whose dedication, guidance, patience, and interactive support made this training so impactful.
+>
+> Applying these tools directly to real-world datasets has significantly strengthened my capacity to analyze complex health data, visualize disease trends, and support evidence-based public health policy.
+:::
+:::
 :::

@@ -27,7 +27,7 @@ website:
           
     right:
       - href: success-stories.qmd
-        text: Success Stories
+        text: Testimonials
 
       - href: community.qmd
         text: Community of Practice

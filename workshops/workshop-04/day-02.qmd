@@ -6,7 +6,7 @@ date: 2026-07-22
 ### Recording
 
 ::: {.video-frame}
-{{< video https://www.youtube.com/watch?v=VIDEO_ID >}}
+{{< video https://www.youtube.com/watch?v=e0Uz-DrKqfM >}}
 :::
 
 ### Materials

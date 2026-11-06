@@ -28,64 +28,6 @@
     "text": "Ethiopia (Addis Ababa) WorkshopKenya (Nairobi) WorkshopSomalia (Mogadishu) Workshop"
   },
   {
-    "objectID": "success-stories.html",
-    "href": "success-stories.html",
-    "title": "Testimonials",
-    "section": "",
-    "text": "ARBO-WATCH capacity-building programs continue to strengthen the skills of public health professionals across the Horn of Africa. The stories below are from Somalia, and we look forward to adding testimonials from Kenya and Ethiopia as more participants share their experiences.\n\n\n\n\nPhoto to be added\n\n\n\nDr. Abdullahi Mohamed Mohamud\nNational Surveillance Officer, Federal Ministry of Health, Somalia\n\nParticipating in the ARBO WATCH capacity-building program strengthened my practical skills in disease surveillance data work and research. The training gave me hands-on skills in data collection and management tools (Kobo Toolbox, Google Forms, Excel), introduced me to R for public health surveillance, and deepened my understanding of statistical modelling for epidemiological research. These skills have directly supported how I analyze and interpret surveillance data during outbreak investigation.\nI thank the ARBO WATCH consortium and the JKUAT team for this well-structured and practical training to develop epidemiological models for predicting the incidence of dengue and chikungunya and provide decision-support tools to inform surveillance and control in the Horn of Africa.\n\n\n\n\n\n\nPhoto to be added\n\n\n\nDr. Ahmed Yusuf\nPublic Health Department, Federal Ministry of Health, Somalia\n\nThe five-module data training program was an exceptional professional development experience. The interactive morning and afternoon practical sessions provided hands-on expertise in essential tools, including advanced Excel for data management, R for statistical analysis, and QGIS for spatial health mapping.\nBeyond the technical skills I have acquired, the program allowed me to build a valuable professional network with brilliant colleagues across the field. I am deeply grateful to the organizers and everyone who made this possible, especially the mentors whose dedication, guidance, patience, and interactive support made this training so impactful.\nApplying these tools directly to real-world datasets has significantly strengthened my capacity to analyze complex health data, visualize disease trends, and support evidence-based public health policy."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Get in Touch",
-    "section": "",
-    "text": "For any inquiry, please reach out to:\n\nEMAIL: henry.athiany@gmail.com or cwmugo@jkuat.ac.ke\nPHONE: +254723440110 or +254733388887"
-  },
-  {
-    "objectID": "workshops/workshop-03/day-01.html",
-    "href": "workshops/workshop-03/day-01.html",
-    "title": "Module III — Day 1",
-    "section": "",
-    "text": "Module overview\nIntroduction to the module, objectives, and how the four days are structured.\n\n\nRecap of R Software\nA refresher on the R environment, data structures, and core functions used throughout the module.\n\n\nIntroduction and hypothesis testing\nFoundations of statistical inference: p-values, confidence intervals, and common hypothesis tests.\n\n\nDatasets and R code\nExample datasets and R scripts used in the day’s exercises.\n\n\nDownload all materials",
-    "crumbs": [
-      "Days",
-      "Day 1"
-    ]
-  },
-  {
-    "objectID": "workshops/workshop-03/day-04.html",
-    "href": "workshops/workshop-03/day-04.html",
-    "title": "Module III — Day 4",
-    "section": "",
-    "text": "Time series models\nIdentifying trends, assessing seasonality, and short-term forecasting of public health events.\n\n\nGroup assignments\nApplied group exercises bringing together the methods covered in the module.\n\n\nDatasets and R code\nExample datasets and R scripts used in the day’s exercises.\n\n\nDownload all materials",
-    "crumbs": [
-      "Days",
-      "Day 4"
-    ]
-  },
-  {
-    "objectID": "workshops/workshop-01/day-05.html",
-    "href": "workshops/workshop-01/day-05.html",
-    "title": "Fundamentals of Excel for Data Driven Decision Making",
-    "section": "",
-    "text": "Time\nActivity\nFacilitator\n\n\n\n\n8:00 – 10:00 AM\nProcess and Methods of Data Analysis\nCharity Wamwea / Caroline Mugo\n\n\n\nExcel Formulas and Functions\n\n\n\n\nText Functions\n\n\n\n\nReference Functions\n\n\n\n\nDate Functions\n\n\n\n\nConditional Formatting\n\n\n\n4:00 – 5:00 PM\nPracticals\nMentors",
-    "crumbs": [
-      "Days",
-      "Day 4"
-    ]
-  },
-  {
-    "objectID": "workshops/workshop-01/day-05.html#video-recording",
-    "href": "workshops/workshop-01/day-05.html#video-recording",
-    "title": "Fundamentals of Excel for Data Driven Decision Making",
-    "section": "Video Recording",
-    "text": "Video Recording",
-    "crumbs": [
-      "Days",
-      "Day 4"
-    ]
-  },
-  {
     "objectID": "workshops/workshop-01/index.html",
     "href": "workshops/workshop-01/index.html",
     "title": "Data Collection and Management",
@@ -136,6 +78,17 @@
     ]
   },
   {
+    "objectID": "workshops/workshop-01/day-04.html",
+    "href": "workshops/workshop-01/day-04.html",
+    "title": "Digital Data Collection Tools - KoboCollect",
+    "section": "",
+    "text": "Schedule\n\n\n\nTime\nActivity\nFacilitator\n\n\n\n\n8:00 – 10:00 AM\nBuilding forms\nHenry Kissinger\n\n\n\nManaging forms\n\n\n\n\nAnalyzing data\n\n\n\n\nOffline data collection\n\n\n\n4:00 – 5:00 PM\nPracticals\nMentors\n\n\n\n\n\nMaterials\nDownload all the day’s Materials\nDownload all\n\n\nVideo Recording",
+    "crumbs": [
+      "Days",
+      "Day 3"
+    ]
+  },
+  {
     "objectID": "workshops/workshop-01/day-03.html",
     "href": "workshops/workshop-01/day-03.html",
     "title": "Digital Data Collection Tools - KoboCollect",
@@ -147,25 +100,25 @@
     ]
   },
   {
-    "objectID": "workshops/workshop-01/day-02.html",
-    "href": "workshops/workshop-01/day-02.html",
-    "title": "Digital Data Collection Tools: Getting Started on Google Forms",
+    "objectID": "workshops/workshop-01/day-05.html",
+    "href": "workshops/workshop-01/day-05.html",
+    "title": "Fundamentals of Excel for Data Driven Decision Making",
     "section": "",
-    "text": "Schedule\n\n\n\nTime\nActivity\nFacilitator\n\n\n\n\n8:00 - 8:20 AM\nOpening Remarks and Training Launch\nBernard Bett\n\n\n8:25 - 10:00 AM\nPre-training Survey\nAnthony Waititu\n\n\n\nUnderstanding data and its importance\n\n\n\n\nPrinciples of good data collection\n\n\n\n\nMethods of data collection\n\n\n\n\nTools for data collection\n\n\n\n\nData management concepts\n\n\n\n\nData quality management\n\n\n\n\nData security and ethics\n\n\n\n4:00 - 5:00 PM\nPracticals on data collection and ethics\nMentors\n\n\n\n\n\nMaterials\nDownload all the day’s materials\nDownload all\n\n\nQuiz\n\nFollow the link to complete the quiz Data Collection and Ethics Quiz\n\n\n\nVideo Recordings\n\nSession 1\n\n\n\nSession 2",
+    "text": "Time\nActivity\nFacilitator\n\n\n\n\n8:00 – 10:00 AM\nProcess and Methods of Data Analysis\nCharity Wamwea / Caroline Mugo\n\n\n\nExcel Formulas and Functions\n\n\n\n\nText Functions\n\n\n\n\nReference Functions\n\n\n\n\nDate Functions\n\n\n\n\nConditional Formatting\n\n\n\n4:00 – 5:00 PM\nPracticals\nMentors",
     "crumbs": [
       "Days",
-      "Day 1"
+      "Day 4"
     ]
   },
   {
-    "objectID": "workshops/workshop-05/day-05.html",
-    "href": "workshops/workshop-05/day-05.html",
-    "title": "Decision Support Tools in R & Risk Mapping Tools in R",
-    "section": "",
-    "text": "Recording\n\n\n\n\n\nMaterials\n\n\n\nPresentation, Notes, and Exercises\nSlides used during the day’s session, supporting notes, and hands-on exercises.\nDownload all",
+    "objectID": "workshops/workshop-01/day-05.html#video-recording",
+    "href": "workshops/workshop-01/day-05.html#video-recording",
+    "title": "Fundamentals of Excel for Data Driven Decision Making",
+    "section": "Video Recording",
+    "text": "Video Recording",
     "crumbs": [
       "Days",
-      "Day 5"
+      "Day 4"
     ]
   },
   {
@@ -180,36 +133,130 @@
     ]
   },
   {
-    "objectID": "workshops/workshop-05/day-00.html",
-    "href": "workshops/workshop-05/day-00.html",
-    "title": "Pre-training session",
+    "objectID": "workshops/workshop-05/day-04.html",
+    "href": "workshops/workshop-05/day-04.html",
+    "title": "Decision Support Tools in R",
     "section": "",
-    "text": "Recording\n\n\n\n\n\nTraining Datasets and Shapefiles\nDownload zip\n\n\nMaterials\n\n\n\nPresentation, Manual, and Schedule\nSlides used during the day’s session, supporting manual, and schedule of the whole workshop.\nDownload all",
+    "text": "Recording\n\n\n\n\n\nMaterials\n\n\n\nPresentation, Notes, and Exercises\nSlides used during the day’s session, supporting notes, and hands-on exercises.\nDownload all",
     "crumbs": [
       "Days",
-      "Pre-training session"
+      "Day 4"
     ]
   },
   {
-    "objectID": "workshops/workshop-05/day-02.html",
-    "href": "workshops/workshop-05/day-02.html",
+    "objectID": "workshops/workshop-05/day-03.html",
+    "href": "workshops/workshop-05/day-03.html",
     "title": "Spatial Analysis in R for Public Health",
     "section": "",
+    "text": "Session 1 Recording\n\n\n\n\n\nSession 2 Recording\n\n\n\n\n\nMaterials\n\n\n\nPresentation, Notes, and Exercises\nSlides used during the day’s session, supporting notes, and hands-on exercises.\nDownload all",
+    "crumbs": [
+      "Days",
+      "Day 3"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-05/day-05.html",
+    "href": "workshops/workshop-05/day-05.html",
+    "title": "Decision Support Tools in R & Risk Mapping Tools in R",
+    "section": "",
     "text": "Recording\n\n\n\n\n\nMaterials\n\n\n\nPresentation, Notes, and Exercises\nSlides used during the day’s session, supporting notes, and hands-on exercises.\nDownload all",
+    "crumbs": [
+      "Days",
+      "Day 5"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-02/day-01.html",
+    "href": "workshops/workshop-02/day-01.html",
+    "title": "Introduction to R and R Basics",
+    "section": "",
+    "text": "Schedule\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator\n\n\n\n\n8:30 – 11:30 AM\nGetting Started with R and RStudio\nHenry Kissinger\n\n\n\nInterface, objects, variables, and operators\n\n\n\n\nR Projects and working directories\n\n\n\n\nR Basics and data structures (vectors, tibbles, lists)\n\n\n\n\nIntroduction to the tidyverse\n\n\n\n\nExploring and summarizing data\n\n\n\n\nImporting datasets (readr, readxl)\n\n\n\n4:00 – 5:00 PM\nPracticals\nMentors\n\n\n\n\n\nMaterials\nDownload all the day’s materials\nDownload all\n\n\nVideo Recordings",
+    "crumbs": [
+      "Days",
+      "Day 1"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-02/project.html",
+    "href": "workshops/workshop-02/project.html",
+    "title": "Group Project",
+    "section": "",
+    "text": "The project covers the topics of data importation, cleaning and wrangling in R among other aspects learnt in the past few days. For each project, you should try and come up with an objective and carry out descriptive analysis that helps answer your objective. If possible, you may carry out statistical analysis to answer your objective. The project code should be clearly written (with comments) and should be submitted by the group leader to the address: hathiany@abrbowatch.com by Thursday 13th November 2025.\nIf possible, you can use R Markdown for the project and share the .rmd file while submitting your work. Each project will be tackled by one group independently while one group will be allowed to choose a project of their choice. In case of any challenges, you may get in touch with your mentor for assistance/guidance.\nFinally, to enable the group members interact, we have created WhatsApp groups where you can join and be part of the team as you work on the project. See the assignment document on the link to join and join via the ARBOWATCH WhatsApp group.",
+    "crumbs": [
+      "Group Project"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-02/day-06.html",
+    "href": "workshops/workshop-02/day-06.html",
+    "title": "Loops & Reporting",
+    "section": "",
+    "text": "Schedule\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator\n\n\n\n\n8:30 – 11:30 AM\nRepetitive loops (for, while, repeat)\nCharity Wamwea /Henry Kissinger\n\n\n\nIntroduction to reproducible reporting with R Markdown\n\n\n\n\nPost-training survey\n\n\n\n4:00 – 5:00 PM\nPracticals\nMentors\n\n\n\n\n\nMaterials\nDownload all the day’s materials\nDownload all\n\n\nVideo Recordings",
+    "crumbs": [
+      "Days",
+      "Day 6"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-02/day-02.html",
+    "href": "workshops/workshop-02/day-02.html",
+    "title": "Data Wrangling, Manipulation & Descriptive Statistics",
+    "section": "",
+    "text": "Schedule\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator\n\n\n\n\n8:30 – 11:30 AM\nData wrangling and manipulation using R\nWinnie Chacha /Caroline Mugo\n\n\n\nRenaming, Filtering, Selecting, Mutating, Arranging data\n\n\n\n\nHandling missing data (drop_na, replace_na)\n\n\n\n\nDescriptive statistics and data summarization\n\n\n\n\nGrouping and summarizing (dplyr)\n\n\n\n\nCalculating mean, median, variance, SD\n\n\n\n\nProducing frequency tables\n\n\n\n4:00 – 5:00 PM\nPracticals\nMentors\n\n\n\n\n\nMaterials\nDownload all the day’s materials\nDownload all\n\n\nVideo Recordings",
     "crumbs": [
       "Days",
       "Day 2"
     ]
   },
   {
-    "objectID": "workshops/workshop-04/day-05.html",
-    "href": "workshops/workshop-04/day-05.html",
-    "title": "Sensitivity Analysis and Modelling Interventions",
+    "objectID": "workshops/workshop-02/pretraining.html",
+    "href": "workshops/workshop-02/pretraining.html",
+    "title": "Pre-training Session",
     "section": "",
-    "text": "Recording\n\n\n\n\n\nMaterials\n\n\n\nPresentation, Notes, and Exercises\nSlides used during the day’s session, supporting notes, and hands-on exercises.\nDownload all",
+    "text": "Schedule\n\n\n\nTime\nActivity\nFacilitator\n\n\n\n\n11:00 – 11:30 AM\nInstalling R and RStudio\nHenry Kissinger\n\n\n\nVerifying installation and troubleshooting\n\n\n\n\nOverview of the RStudio interface\n\n\n\n11:30 AM – 12:00 PM\nPre-training survey\nHenry Kissinger",
+    "crumbs": [
+      "Pre-training session"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-03/index.html",
+    "href": "workshops/workshop-03/index.html",
+    "title": "Statistical Modelling for Public Health Research",
+    "section": "",
+    "text": "This module provides a foundation in statistical modelling for epidemiological and surveillance data analysis. It introduces key concepts in statistical inference, beginning with hypothesis formulation and testing, including p-values, confidence intervals, and commonly used statistical tests.\nParticipants will learn the principles of statistical modelling, including the relationship between response and explanatory variables, confounding, interaction effects, and the development of conceptual models. The module introduces essential regression approaches, including:\n\nLinear regression for continuous outcomes\nLogistic regression for binary outcomes\nPoisson and Negative Binomial regression for count data\n\nThe module also covers time series methods for identifying trends, assessing seasonality, and supporting short-term forecasting of public health events.\n\n\n\n\n\n\nTipExpected Outcome\n\n\n\nParticipants will be able to select appropriate statistical models, apply them in R, interpret model outputs, and communicate findings to support evidence-based public health action.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-03/index.html#facilitators",
+    "href": "workshops/workshop-03/index.html#facilitators",
+    "title": "Statistical Modelling for Public Health Research",
+    "section": "Facilitators",
+    "text": "Facilitators\n\n\n\nName\nInstitution\n\n\n\n\nHenry Athiany\nJKUAT\n\n\nCaroline Wanja Mugo\nJKUAT\n\n\nAnthony Waititu\nJKUAT\n\n\nCharity Wamwea\nJKUAT\n\n\nWinnie Chacha\nJKUAT\n\n\nJane Aduda\nJKUAT\n\n\nMulugeta Geremew\nEPHI\n\n\nZelalem Bonger\nGOHi\n\n\nAsnake Worku\nEPHI",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-03/index.html#participants",
+    "href": "workshops/workshop-03/index.html#participants",
+    "title": "Statistical Modelling for Public Health Research",
+    "section": "Participants",
+    "text": "Participants\n\n\n\n\n\n\n\n\n\nS_No\nName\nInstitution\nCountry\n\n\n\n\n1\nAbas Mohamed Sharif\nAbrar Research and Training Centre\nSomalia\n\n\n2\nAamir Muse Osman\nAbrar Research and Training Centre\nSomalia\n\n\n3\nAbdulkarim Abdulle Yusuf\nAbrar Research and Training Centre\nSomalia\n\n\n4\nAbdulrazik Suleiman Osman\nAbrar Research and Training Centre\nSomalia\n\n\n5\nFadumo Hassan Mohamed\nMinistry of Health\nSomalia\n\n\n6\nShafici Abdulqadir Hassan\nJamuhuriya University\nSomalia\n\n\n7\nAbdullahi Mohamed Mohamud\nMinistry of Health\nSomalia\n\n\n8\nAhmed Yusuf\nMinistry of Health\nSomalia\n\n\n9\nHamdi Ahmed Ali\nMinistry of Health\nSomalia\n\n\n10\nMohamed Abdirahman Hashi\nMinistry of Health\nSomalia\n\n\n11\nMarian Osman\nNational Institute of Health\nSomalia\n\n\n12\nNaima Ibrahim Ahmed\nSomali National University\nSomalia\n\n\n13\nSadaq Adan Husein\nMinistry of Health\nSomalia",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-03/day-03.html",
+    "href": "workshops/workshop-03/day-03.html",
+    "title": "Module III — Day 3",
+    "section": "",
+    "text": "Count data modelling\nPoisson and Negative Binomial regression for modelling count outcomes such as case counts.\n\n\nDatasets and R code\nExample datasets and R scripts used in the day’s exercises.\n\n\nDownload all materials",
     "crumbs": [
       "Days",
-      "Day 5"
+      "Day 3"
     ]
   },
   {
@@ -235,6 +282,60 @@
     ]
   },
   {
+    "objectID": "workshops/workshop-04/day-03.html",
+    "href": "workshops/workshop-04/day-03.html",
+    "title": "On Compartmental Models",
+    "section": "",
+    "text": "Session 1 Recording\n\n\n\n\n\nSession 2 Recording\n\n\n\n\n\nMaterials\n\n\n\nPresentation, Notes, and Exercises\nSlides used during the day’s session, supporting notes, and hands-on exercises.\nDownload all",
+    "crumbs": [
+      "Days",
+      "Day 3"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-04/day-05.html",
+    "href": "workshops/workshop-04/day-05.html",
+    "title": "Sensitivity Analysis and Modelling Interventions",
+    "section": "",
+    "text": "Recording\n\n\n\n\n\nMaterials\n\n\n\nPresentation, Notes, and Exercises\nSlides used during the day’s session, supporting notes, and hands-on exercises.\nDownload all",
+    "crumbs": [
+      "Days",
+      "Day 5"
+    ]
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "This work is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).\nYou are free to share and adapt the material for any purpose, provided appropriate credit is given.\n© ARBO-WATCH, 2025–2028."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Get in Touch",
+    "section": "",
+    "text": "For any inquiry, please reach out to:\n\nEMAIL: henry.athiany@gmail.com or cwmugo@jkuat.ac.ke\nPHONE: +254723440110 or +254733388887"
+  },
+  {
+    "objectID": "workshops/other-trainings/index.html",
+    "href": "workshops/other-trainings/index.html",
+    "title": "Other Trainings",
+    "section": "",
+    "text": "In addition to the workshops listed above, the project team has also conducted other trainings on various topics. These trainings are designed to provide participants with practical skills and knowledge in specific areas related to data collection, analysis, and decision-making."
+  },
+  {
+    "objectID": "workshops/workshop-04/day-02.html",
+    "href": "workshops/workshop-04/day-02.html",
+    "title": "Implementing & Visualising Basic SI / SIR Models in R",
+    "section": "",
+    "text": "Recording\n\n\n\n\n\nMaterials\n\n\n\nPresentation, Notes, and Exercises\nSlides used during the day’s session, supporting notes, and hands-on exercises.\nDownload all",
+    "crumbs": [
+      "Days",
+      "Day 2"
+    ]
+  },
+  {
     "objectID": "workshops/workshop-04/day-06.html",
     "href": "workshops/workshop-04/day-06.html",
     "title": "Communicating Results and Policy Applications in Mathematical Modelling",
@@ -246,6 +347,59 @@
     ]
   },
   {
+    "objectID": "workshops/workshop-04/index.html",
+    "href": "workshops/workshop-04/index.html",
+    "title": "Mathematical Modelling Techniques",
+    "section": "",
+    "text": "This module focuses on infectious disease transmission modelling and its application in public health surveillance, preparedness, and outbreak response. It introduces participants to the principles of epidemic modelling, including the differences between deterministic and stochastic approaches.\nParticipants will explore foundational compartmental models such as SI, SIR, and SEIR, and learn how these models represent disease transmission dynamics. The module covers key epidemiological concepts including growth rate, reproduction number (R₀), herd immunity, and epidemic thresholds.\nThe module also demonstrates how to simulate public health interventions, including vaccination, treatment, and social distancing, while introducing key modelling processes such as parameter estimation, model calibration, scenario analysis, uncertainty assessment, and policy interpretation.\n\n\n\n\n\n\nTipExpected Outcome\n\n\n\nParticipants will be able to implement and interpret basic infectious disease models in R, explore outbreak dynamics, evaluate intervention scenarios, and apply modelling results to support public health decision-making.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-04/index.html#facilitators",
+    "href": "workshops/workshop-04/index.html#facilitators",
+    "title": "Mathematical Modelling Techniques",
+    "section": "Facilitators",
+    "text": "Facilitators\n\n\n\nName\nInstitution\n\n\n\n\nHenry Athiany\nJKUAT\n\n\nCaroline Mugo\nJKUAT\n\n\nDuncan Gathungu\nJKUAT\n\n\nSamwel Mwalili\nJKUAT\n\n\nFrancis Oketch\nILRI",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-03/day-02.html",
+    "href": "workshops/workshop-03/day-02.html",
+    "title": "Module III — Day 2",
+    "section": "",
+    "text": "Linear regression\nModelling continuous outcomes: fitting, interpreting coefficients, and checking assumptions.\n\n\nLogistic regression\nModelling binary outcomes and interpreting odds ratios in a public health context.\n\n\nDatasets and R code\nExample datasets and R scripts used in the day’s exercises.\n\n\nDownload all materials",
+    "crumbs": [
+      "Days",
+      "Day 2"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-03/day-04.html",
+    "href": "workshops/workshop-03/day-04.html",
+    "title": "Module III — Day 4",
+    "section": "",
+    "text": "Time series models\nIdentifying trends, assessing seasonality, and short-term forecasting of public health events.\n\n\nGroup assignments\nApplied group exercises bringing together the methods covered in the module.\n\n\nDatasets and R code\nExample datasets and R scripts used in the day’s exercises.\n\n\nDownload all materials",
+    "crumbs": [
+      "Days",
+      "Day 4"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-03/day-01.html",
+    "href": "workshops/workshop-03/day-01.html",
+    "title": "Module III — Day 1",
+    "section": "",
+    "text": "Module overview\nIntroduction to the module, objectives, and how the four days are structured.\n\n\nRecap of R Software\nA refresher on the R environment, data structures, and core functions used throughout the module.\n\n\nIntroduction and hypothesis testing\nFoundations of statistical inference: p-values, confidence intervals, and common hypothesis tests.\n\n\nDatasets and R code\nExample datasets and R scripts used in the day’s exercises.\n\n\nDownload all materials",
+    "crumbs": [
+      "Days",
+      "Day 1"
+    ]
+  },
+  {
     "objectID": "workshops/workshop-02/day-05.html",
     "href": "workshops/workshop-02/day-05.html",
     "title": "Functions & Control Structures",
@@ -254,6 +408,28 @@
     "crumbs": [
       "Days",
       "Day 5"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-02/day-03.html",
+    "href": "workshops/workshop-02/day-03.html",
+    "title": "Advanced Summarization & Merging",
+    "section": "",
+    "text": "Schedule\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator\n\n\n\n\n8:30 – 11:30 AM\nCross-tabulations using group_by() combinations\nWinnie Chacha /Caroline Mugo\n\n\n\nUsing janitor::tabyl() for clean summary tables\n\n\n\n\nWorking with multiple datasets (Appending, Merging)\n\n\n\n4:00 – 5:00 PM\nPracticals\nMentors\n\n\n\n\n\nMaterials\nDownload all the day’s materials\nDownload all\n\n\nVideo Recordings",
+    "crumbs": [
+      "Days",
+      "Day 3"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-02/day-04.html",
+    "href": "workshops/workshop-02/day-04.html",
+    "title": "Data Visualization with ggplot2",
+    "section": "",
+    "text": "Schedule\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator\n\n\n\n\n8:30 – 11:30 AM\nPrinciples of data visualization for public health\nAnthony Waititu\n\n\n\nGrammar of Graphics (aes, geom_*)\n\n\n\n\nCreating key plots (Bar, Histograms, Boxplots, Line, Scatter)\n\n\n\n\nCustomizing plots (labels, titles, themes, colors)\n\n\n\n\nFaceting for subgroup analysis\n\n\n\n\nExporting visuals (ggsave())\n\n\n\n4:00 – 5:00 PM\nPracticals\nMentors\n\n\n\n\n\nMaterials\nDownload all the day’s materials\nDownload all\n\n\nVideo Recordings",
+    "crumbs": [
+      "Days",
+      "Day 4"
     ]
   },
   {
@@ -287,127 +463,25 @@
     ]
   },
   {
-    "objectID": "workshops/workshop-02/day-03.html",
-    "href": "workshops/workshop-02/day-03.html",
-    "title": "Advanced Summarization & Merging",
+    "objectID": "workshops/workshop-05/day-00.html",
+    "href": "workshops/workshop-05/day-00.html",
+    "title": "Pre-training session",
     "section": "",
-    "text": "Schedule\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator\n\n\n\n\n8:30 – 11:30 AM\nCross-tabulations using group_by() combinations\nWinnie Chacha /Caroline Mugo\n\n\n\nUsing janitor::tabyl() for clean summary tables\n\n\n\n\nWorking with multiple datasets (Appending, Merging)\n\n\n\n4:00 – 5:00 PM\nPracticals\nMentors\n\n\n\n\n\nMaterials\nDownload all the day’s materials\nDownload all\n\n\nVideo Recordings",
+    "text": "Recording\n\n\n\n\n\nTraining Datasets and Shapefiles\nDownload zip\n\n\nMaterials\n\n\n\nPresentation, Manual, and Schedule\nSlides used during the day’s session, supporting manual, and schedule of the whole workshop.\nDownload all",
     "crumbs": [
       "Days",
-      "Day 3"
-    ]
-  },
-  {
-    "objectID": "workshops/workshop-02/day-04.html",
-    "href": "workshops/workshop-02/day-04.html",
-    "title": "Data Visualization with ggplot2",
-    "section": "",
-    "text": "Schedule\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator\n\n\n\n\n8:30 – 11:30 AM\nPrinciples of data visualization for public health\nAnthony Waititu\n\n\n\nGrammar of Graphics (aes, geom_*)\n\n\n\n\nCreating key plots (Bar, Histograms, Boxplots, Line, Scatter)\n\n\n\n\nCustomizing plots (labels, titles, themes, colors)\n\n\n\n\nFaceting for subgroup analysis\n\n\n\n\nExporting visuals (ggsave())\n\n\n\n4:00 – 5:00 PM\nPracticals\nMentors\n\n\n\n\n\nMaterials\nDownload all the day’s materials\nDownload all\n\n\nVideo Recordings",
-    "crumbs": [
-      "Days",
-      "Day 4"
-    ]
-  },
-  {
-    "objectID": "workshops/workshop-02/day-06.html",
-    "href": "workshops/workshop-02/day-06.html",
-    "title": "Loops & Reporting",
-    "section": "",
-    "text": "Schedule\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator\n\n\n\n\n8:30 – 11:30 AM\nRepetitive loops (for, while, repeat)\nCharity Wamwea /Henry Kissinger\n\n\n\nIntroduction to reproducible reporting with R Markdown\n\n\n\n\nPost-training survey\n\n\n\n4:00 – 5:00 PM\nPracticals\nMentors\n\n\n\n\n\nMaterials\nDownload all the day’s materials\nDownload all\n\n\nVideo Recordings",
-    "crumbs": [
-      "Days",
-      "Day 6"
-    ]
-  },
-  {
-    "objectID": "workshops/workshop-02/day-02.html",
-    "href": "workshops/workshop-02/day-02.html",
-    "title": "Data Wrangling, Manipulation & Descriptive Statistics",
-    "section": "",
-    "text": "Schedule\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator\n\n\n\n\n8:30 – 11:30 AM\nData wrangling and manipulation using R\nWinnie Chacha /Caroline Mugo\n\n\n\nRenaming, Filtering, Selecting, Mutating, Arranging data\n\n\n\n\nHandling missing data (drop_na, replace_na)\n\n\n\n\nDescriptive statistics and data summarization\n\n\n\n\nGrouping and summarizing (dplyr)\n\n\n\n\nCalculating mean, median, variance, SD\n\n\n\n\nProducing frequency tables\n\n\n\n4:00 – 5:00 PM\nPracticals\nMentors\n\n\n\n\n\nMaterials\nDownload all the day’s materials\nDownload all\n\n\nVideo Recordings",
-    "crumbs": [
-      "Days",
-      "Day 2"
-    ]
-  },
-  {
-    "objectID": "workshops/workshop-02/project.html",
-    "href": "workshops/workshop-02/project.html",
-    "title": "Group Project",
-    "section": "",
-    "text": "The project covers the topics of data importation, cleaning and wrangling in R among other aspects learnt in the past few days. For each project, you should try and come up with an objective and carry out descriptive analysis that helps answer your objective. If possible, you may carry out statistical analysis to answer your objective. The project code should be clearly written (with comments) and should be submitted by the group leader to the address: hathiany@abrbowatch.com by Thursday 13th November 2025.\nIf possible, you can use R Markdown for the project and share the .rmd file while submitting your work. Each project will be tackled by one group independently while one group will be allowed to choose a project of their choice. In case of any challenges, you may get in touch with your mentor for assistance/guidance.\nFinally, to enable the group members interact, we have created WhatsApp groups where you can join and be part of the team as you work on the project. See the assignment document on the link to join and join via the ARBOWATCH WhatsApp group.",
-    "crumbs": [
-      "Group Project"
-    ]
-  },
-  {
-    "objectID": "workshops/workshop-02/day-01.html",
-    "href": "workshops/workshop-02/day-01.html",
-    "title": "Introduction to R and R Basics",
-    "section": "",
-    "text": "Schedule\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator\n\n\n\n\n8:30 – 11:30 AM\nGetting Started with R and RStudio\nHenry Kissinger\n\n\n\nInterface, objects, variables, and operators\n\n\n\n\nR Projects and working directories\n\n\n\n\nR Basics and data structures (vectors, tibbles, lists)\n\n\n\n\nIntroduction to the tidyverse\n\n\n\n\nExploring and summarizing data\n\n\n\n\nImporting datasets (readr, readxl)\n\n\n\n4:00 – 5:00 PM\nPracticals\nMentors\n\n\n\n\n\nMaterials\nDownload all the day’s materials\nDownload all\n\n\nVideo Recordings",
-    "crumbs": [
-      "Days",
-      "Day 1"
-    ]
-  },
-  {
-    "objectID": "workshops/workshop-02/pretraining.html",
-    "href": "workshops/workshop-02/pretraining.html",
-    "title": "Pre-training Session",
-    "section": "",
-    "text": "Schedule\n\n\n\nTime\nActivity\nFacilitator\n\n\n\n\n11:00 – 11:30 AM\nInstalling R and RStudio\nHenry Kissinger\n\n\n\nVerifying installation and troubleshooting\n\n\n\n\nOverview of the RStudio interface\n\n\n\n11:30 AM – 12:00 PM\nPre-training survey\nHenry Kissinger",
-    "crumbs": [
       "Pre-training session"
     ]
   },
   {
-    "objectID": "workshops/other-trainings/index.html",
-    "href": "workshops/other-trainings/index.html",
-    "title": "Other Trainings",
-    "section": "",
-    "text": "In addition to the workshops listed above, the project team has also conducted other trainings on various topics. These trainings are designed to provide participants with practical skills and knowledge in specific areas related to data collection, analysis, and decision-making."
-  },
-  {
-    "objectID": "workshops/workshop-04/day-02.html",
-    "href": "workshops/workshop-04/day-02.html",
-    "title": "Implementing & Visualising Basic SI / SIR Models in R",
+    "objectID": "workshops/workshop-05/day-02.html",
+    "href": "workshops/workshop-05/day-02.html",
+    "title": "Spatial Analysis in R for Public Health",
     "section": "",
     "text": "Recording\n\n\n\n\n\nMaterials\n\n\n\nPresentation, Notes, and Exercises\nSlides used during the day’s session, supporting notes, and hands-on exercises.\nDownload all",
     "crumbs": [
       "Days",
       "Day 2"
-    ]
-  },
-  {
-    "objectID": "workshops/workshop-04/day-03.html",
-    "href": "workshops/workshop-04/day-03.html",
-    "title": "On Compartmental Models",
-    "section": "",
-    "text": "Session 1 Recording\n\n\n\n\n\nSession 2 Recording\n\n\n\n\n\nMaterials\n\n\n\nPresentation, Notes, and Exercises\nSlides used during the day’s session, supporting notes, and hands-on exercises.\nDownload all",
-    "crumbs": [
-      "Days",
-      "Day 3"
-    ]
-  },
-  {
-    "objectID": "workshops/workshop-04/index.html",
-    "href": "workshops/workshop-04/index.html",
-    "title": "Mathematical Modelling Techniques",
-    "section": "",
-    "text": "This module focuses on infectious disease transmission modelling and its application in public health surveillance, preparedness, and outbreak response. It introduces participants to the principles of epidemic modelling, including the differences between deterministic and stochastic approaches.\nParticipants will explore foundational compartmental models such as SI, SIR, and SEIR, and learn how these models represent disease transmission dynamics. The module covers key epidemiological concepts including growth rate, reproduction number (R₀), herd immunity, and epidemic thresholds.\nThe module also demonstrates how to simulate public health interventions, including vaccination, treatment, and social distancing, while introducing key modelling processes such as parameter estimation, model calibration, scenario analysis, uncertainty assessment, and policy interpretation.\n\n\n\n\n\n\nTipExpected Outcome\n\n\n\nParticipants will be able to implement and interpret basic infectious disease models in R, explore outbreak dynamics, evaluate intervention scenarios, and apply modelling results to support public health decision-making.",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "workshops/workshop-04/index.html#facilitators",
-    "href": "workshops/workshop-04/index.html#facilitators",
-    "title": "Mathematical Modelling Techniques",
-    "section": "Facilitators",
-    "text": "Facilitators\n\n\n\nName\nInstitution\n\n\n\n\nHenry Athiany\nJKUAT\n\n\nCaroline Mugo\nJKUAT\n\n\nDuncan Gathungu\nJKUAT\n\n\nSamwel Mwalili\nJKUAT\n\n\nFrancis Oketch\nILRI",
-    "crumbs": [
-      "Overview"
     ]
   },
   {
@@ -419,28 +493,6 @@
     "crumbs": [
       "Days",
       "Day 6"
-    ]
-  },
-  {
-    "objectID": "workshops/workshop-05/day-04.html",
-    "href": "workshops/workshop-05/day-04.html",
-    "title": "Decision Support Tools in R",
-    "section": "",
-    "text": "Recording\n\n\n\n\n\nMaterials\n\n\n\nPresentation, Notes, and Exercises\nSlides used during the day’s session, supporting notes, and hands-on exercises.\nDownload all",
-    "crumbs": [
-      "Days",
-      "Day 4"
-    ]
-  },
-  {
-    "objectID": "workshops/workshop-05/day-03.html",
-    "href": "workshops/workshop-05/day-03.html",
-    "title": "Spatial Analysis in R for Public Health",
-    "section": "",
-    "text": "Session 1 Recording\n\n\n\n\n\nSession 2 Recording\n\n\n\n\n\nMaterials\n\n\n\nPresentation, Notes, and Exercises\nSlides used during the day’s session, supporting notes, and hands-on exercises.\nDownload all",
-    "crumbs": [
-      "Days",
-      "Day 3"
     ]
   },
   {
@@ -474,6 +526,27 @@
     ]
   },
   {
+    "objectID": "workshops/workshop-01/pretraining.html",
+    "href": "workshops/workshop-01/pretraining.html",
+    "title": "Pre-Training Session",
+    "section": "",
+    "text": "Schedule\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator\n\n\n\n\n10:00 – 11:00 AM\nWelcome & orientation (5 min)\nHenry Kissinger\n\n\n\nIcebreaker Activity (5 min)\n\n\n\n\nIntroduction to Google Classroom & Breakout Rooms + Activity (25 min)\n\n\n\n\nPlenary debrief (10 min)\n\n\n\n\nTech check & logistics (10 min)\n\n\n\n\nQ&A and closing (5 min)",
+    "crumbs": [
+      "Pre-training session"
+    ]
+  },
+  {
+    "objectID": "workshops/workshop-01/day-02.html",
+    "href": "workshops/workshop-01/day-02.html",
+    "title": "Digital Data Collection Tools: Getting Started on Google Forms",
+    "section": "",
+    "text": "Schedule\n\n\n\nTime\nActivity\nFacilitator\n\n\n\n\n8:00 - 8:20 AM\nOpening Remarks and Training Launch\nBernard Bett\n\n\n8:25 - 10:00 AM\nPre-training Survey\nAnthony Waititu\n\n\n\nUnderstanding data and its importance\n\n\n\n\nPrinciples of good data collection\n\n\n\n\nMethods of data collection\n\n\n\n\nTools for data collection\n\n\n\n\nData management concepts\n\n\n\n\nData quality management\n\n\n\n\nData security and ethics\n\n\n\n4:00 - 5:00 PM\nPracticals on data collection and ethics\nMentors\n\n\n\n\n\nMaterials\nDownload all the day’s materials\nDownload all\n\n\nQuiz\n\nFollow the link to complete the quiz Data Collection and Ethics Quiz\n\n\n\nVideo Recordings\n\nSession 1\n\n\n\nSession 2",
+    "crumbs": [
+      "Days",
+      "Day 1"
+    ]
+  },
+  {
     "objectID": "workshops/workshop-01/day-06.html",
     "href": "workshops/workshop-01/day-06.html",
     "title": "Fundamentals of Excel for Data Driven Decision Making",
@@ -493,17 +566,6 @@
     "crumbs": [
       "Days",
       "Day 5"
-    ]
-  },
-  {
-    "objectID": "workshops/workshop-01/day-04.html",
-    "href": "workshops/workshop-01/day-04.html",
-    "title": "Digital Data Collection Tools - KoboCollect",
-    "section": "",
-    "text": "Schedule\n\n\n\nTime\nActivity\nFacilitator\n\n\n\n\n8:00 – 10:00 AM\nBuilding forms\nHenry Kissinger\n\n\n\nManaging forms\n\n\n\n\nAnalyzing data\n\n\n\n\nOffline data collection\n\n\n\n4:00 – 5:00 PM\nPracticals\nMentors\n\n\n\n\n\nMaterials\nDownload all the day’s Materials\nDownload all\n\n\nVideo Recording",
-    "crumbs": [
-      "Days",
-      "Day 3"
     ]
   },
   {
@@ -549,66 +611,11 @@
     "text": "Summary\n\nARBO-WATCH monitors arboreal biodiversity over 4 years\nWorkshops combine field skills with data analysis\nAll materials are freely available under CC BY 4.0"
   },
   {
-    "objectID": "workshops/workshop-01/pretraining.html",
-    "href": "workshops/workshop-01/pretraining.html",
-    "title": "Pre-Training Session",
+    "objectID": "success-stories.html",
+    "href": "success-stories.html",
+    "title": "Testimonials",
     "section": "",
-    "text": "Schedule\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator\n\n\n\n\n10:00 – 11:00 AM\nWelcome & orientation (5 min)\nHenry Kissinger\n\n\n\nIcebreaker Activity (5 min)\n\n\n\n\nIntroduction to Google Classroom & Breakout Rooms + Activity (25 min)\n\n\n\n\nPlenary debrief (10 min)\n\n\n\n\nTech check & logistics (10 min)\n\n\n\n\nQ&A and closing (5 min)",
-    "crumbs": [
-      "Pre-training session"
-    ]
-  },
-  {
-    "objectID": "workshops/workshop-03/day-02.html",
-    "href": "workshops/workshop-03/day-02.html",
-    "title": "Module III — Day 2",
-    "section": "",
-    "text": "Linear regression\nModelling continuous outcomes: fitting, interpreting coefficients, and checking assumptions.\n\n\nLogistic regression\nModelling binary outcomes and interpreting odds ratios in a public health context.\n\n\nDatasets and R code\nExample datasets and R scripts used in the day’s exercises.\n\n\nDownload all materials",
-    "crumbs": [
-      "Days",
-      "Day 2"
-    ]
-  },
-  {
-    "objectID": "workshops/workshop-03/day-03.html",
-    "href": "workshops/workshop-03/day-03.html",
-    "title": "Module III — Day 3",
-    "section": "",
-    "text": "Count data modelling\nPoisson and Negative Binomial regression for modelling count outcomes such as case counts.\n\n\nDatasets and R code\nExample datasets and R scripts used in the day’s exercises.\n\n\nDownload all materials",
-    "crumbs": [
-      "Days",
-      "Day 3"
-    ]
-  },
-  {
-    "objectID": "workshops/workshop-03/index.html",
-    "href": "workshops/workshop-03/index.html",
-    "title": "Statistical Modelling for Public Health Research",
-    "section": "",
-    "text": "This module provides a foundation in statistical modelling for epidemiological and surveillance data analysis. It introduces key concepts in statistical inference, beginning with hypothesis formulation and testing, including p-values, confidence intervals, and commonly used statistical tests.\nParticipants will learn the principles of statistical modelling, including the relationship between response and explanatory variables, confounding, interaction effects, and the development of conceptual models. The module introduces essential regression approaches, including:\n\nLinear regression for continuous outcomes\nLogistic regression for binary outcomes\nPoisson and Negative Binomial regression for count data\n\nThe module also covers time series methods for identifying trends, assessing seasonality, and supporting short-term forecasting of public health events.\n\n\n\n\n\n\nTipExpected Outcome\n\n\n\nParticipants will be able to select appropriate statistical models, apply them in R, interpret model outputs, and communicate findings to support evidence-based public health action.",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "workshops/workshop-03/index.html#facilitators",
-    "href": "workshops/workshop-03/index.html#facilitators",
-    "title": "Statistical Modelling for Public Health Research",
-    "section": "Facilitators",
-    "text": "Facilitators\n\n\n\nName\nInstitution\n\n\n\n\nHenry Athiany\nJKUAT\n\n\nCaroline Wanja Mugo\nJKUAT\n\n\nAnthony Waititu\nJKUAT\n\n\nCharity Wamwea\nJKUAT\n\n\nWinnie Chacha\nJKUAT\n\n\nJane Aduda\nJKUAT\n\n\nMulugeta Geremew\nEPHI\n\n\nZelalem Bonger\nGOHi\n\n\nAsnake Worku\nEPHI",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "workshops/workshop-03/index.html#participants",
-    "href": "workshops/workshop-03/index.html#participants",
-    "title": "Statistical Modelling for Public Health Research",
-    "section": "Participants",
-    "text": "Participants\n\n\n\n\n\n\n\n\n\nS_No\nName\nInstitution\nCountry\n\n\n\n\n1\nAbas Mohamed Sharif\nAbrar Research and Training Centre\nSomalia\n\n\n2\nAamir Muse Osman\nAbrar Research and Training Centre\nSomalia\n\n\n3\nAbdulkarim Abdulle Yusuf\nAbrar Research and Training Centre\nSomalia\n\n\n4\nAbdulrazik Suleiman Osman\nAbrar Research and Training Centre\nSomalia\n\n\n5\nFadumo Hassan Mohamed\nMinistry of Health\nSomalia\n\n\n6\nShafici Abdulqadir Hassan\nJamuhuriya University\nSomalia\n\n\n7\nAbdullahi Mohamed Mohamud\nMinistry of Health\nSomalia\n\n\n8\nAhmed Yusuf\nMinistry of Health\nSomalia\n\n\n9\nHamdi Ahmed Ali\nMinistry of Health\nSomalia\n\n\n10\nMohamed Abdirahman Hashi\nMinistry of Health\nSomalia\n\n\n11\nMarian Osman\nNational Institute of Health\nSomalia\n\n\n12\nNaima Ibrahim Ahmed\nSomali National University\nSomalia\n\n\n13\nSadaq Adan Husein\nMinistry of Health\nSomalia",
-    "crumbs": [
-      "Overview"
-    ]
+    "text": "ARBO-WATCH capacity-building programs continue to strengthen the skills of public health professionals across the Horn of Africa. The stories below are from Somalia, and we look forward to adding testimonials from Kenya and Ethiopia as more participants share their experiences.\n\n\n\n\nPhoto to be added\n\n\n\nDr. Abdullahi Mohamed Mohamud\nNational Surveillance Officer, Federal Ministry of Health, Somalia\n\nParticipating in the ARBO WATCH capacity-building program strengthened my practical skills in disease surveillance data work and research. The training gave me hands-on skills in data collection and management tools (Kobo Toolbox, Google Forms, Excel), introduced me to R for public health surveillance, and deepened my understanding of statistical modelling for epidemiological research. These skills have directly supported how I analyze and interpret surveillance data during outbreak investigation.\nI thank the ARBO WATCH consortium and the JKUAT team for this well-structured and practical training to develop epidemiological models for predicting the incidence of dengue and chikungunya and provide decision-support tools to inform surveillance and control in the Horn of Africa.\n\n\n\n\n\n\nPhoto to be added\n\n\n\nDr. Ahmed Yusuf\nPublic Health Department, Federal Ministry of Health, Somalia\n\nThe five-module data training program was an exceptional professional development experience. The interactive morning and afternoon practical sessions provided hands-on expertise in essential tools, including advanced Excel for data management, R for statistical analysis, and QGIS for spatial health mapping.\nBeyond the technical skills I have acquired, the program allowed me to build a valuable professional network with brilliant colleagues across the field. I am deeply grateful to the organizers and everyone who made this possible, especially the mentors whose dedication, guidance, patience, and interactive support made this training so impactful.\nApplying these tools directly to real-world datasets has significantly strengthened my capacity to analyze complex health data, visualize disease trends, and support evidence-based public health policy."
   },
   {
     "objectID": "community.html",
@@ -616,12 +623,5 @@
     "title": "Community of Practice",
     "section": "",
     "text": "Connect · Collaborate · Learn · Contribute · Make an Impact\n\n\n\n\nDiscussion Forum\nConnect, collaborate, and share knowledge with fellow ARBO-WATCH training alumni and facilitators.\n\n\n\n\n\n\n\nThe discussion forum is coming soon. Check back for updates on how to join the community."
-  },
-  {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "License",
-    "section": "",
-    "text": "This work is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).\nYou are free to share and adapt the material for any purpose, provided appropriate credit is given.\n© ARBO-WATCH, 2025–2028."
   }
 ]

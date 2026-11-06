@@ -2,7 +2,9 @@
 title: "Testimonials"
 ---
 
-ARBO-WATCH capacity-building programs continue to strengthen the skills of public health professionals across the Horn of Africa. The stories below are from Somalia, and we look forward to adding testimonials from Kenya and Ethiopia as more participants share their experiences.
+Behind every successful capacity-building programme are people whose knowledge, skills, and professional experiences continue to grow. Through its training initiatives, ARBO-WATCH is empowering public health professionals across the Horn of Africa with practical skills and knowledge to address public health challenges in their communities and beyond.
+
+The testimonials below offer a glimpse into the experiences, reflections, and lessons shared by participants from Somalia, Kenya, and Ethiopia. Their voices tell the story of learning, professional growth, collaboration, and the lasting value of investing in public health capacity.
 
 ::: {.testimonial-list}
 ::: {.grid .testimonial-card}

@@ -6,13 +6,13 @@ date: 2026-07-23
 ### Session 1 Recording
 
 ::: {.video-frame}
-{{< video https://www.youtube.com/watch?v=VIDEO_ID >}}
+{{< video https://www.youtube.com/watch?v=xbFladpSZME >}}
 :::
 
 ### Session 2 Recording
 
 ::: {.video-frame}
-{{< video https://www.youtube.com/watch?v=VIDEO_ID >}}
+{{< video https://www.youtube.com/watch?v=i7TZWNk02VY >}}
 :::
 
 ### Materials

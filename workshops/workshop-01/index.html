@@ -38,6 +38,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
+<link href="../../workshops/workshop-01/pretraining.html" rel="next">
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../../site_libs/quarto-html/scrollable-regions/scrollable-regions.js" type="module"></script>
@@ -45,10 +46,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e8230bc1e967bce92d5c6e4a28b66e7e.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-fea2963686f675d4c652c45998780d49.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-2af0ac04345c2cb0ed59e45007307fd0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -77,138 +78,51 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-  body {
-    visibility: hidden; 
-  }
-
-  #auth-overlay {
-    visibility: visible;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background-color: #f5f5f5;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    z-index: 999999;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
-  }
-
-  .auth-card {
-    background: white;
-    padding: 2.5rem;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-    border: 1px solid #e2e8f0;
-    text-align: center;
-    width: 100%;
-    max-width: 400px;
-    color: #3f3731;
-  }
-
-  .auth-card h2 {
-    margin-top: 0;
-    margin-bottom: 0.5rem;
-    font-weight: 600;
-    color: #682622;
-  }
-
-  .auth-card p {
-    color: #3f3731;
-    opacity: 0.8;
-    font-size: 0.95rem;
-    margin-bottom: 1.5rem;
-  }
-
-  .auth-input {
-    width: 100%;
-    padding: 0.75rem;
-    margin-bottom: 1rem;
-    border: 1px solid #cbd5e1;
-    border-radius: 6px;
-    font-size: 1rem;
-    box-sizing: border-box;
-    transition: border-color 0.15s ease-in-out;
-    color: #3f3731;
-  }
-
-  .auth-input:focus {
-    outline: none;
-    border-color: #682622;
-    box-shadow: 0 0 0 3px rgba(104, 38, 34, 0.15);
-  }
-
-  .auth-btn {
-    width: 100%;
-    padding: 0.75rem;
-    background-color: #682622;
-    color: white;
-    border: none;
-    border-radius: 6px;
-    font-size: 1rem;
-    font-weight: 500;
-    cursor: pointer;
-    transition: background-color 0.15s ease-in-out;
-  }
-
-  .auth-btn:hover {
-    background-color: #3f3731;
-  }
-
-  #auth-error {
-    color: #682622;
-    font-weight: 500;
-    font-size: 0.875rem;
-    margin-top: 1rem;
-    display: none;
-  }
+  body { visibility: hidden; }
+  #auth-overlay { visibility: visible; }
 </style>
 
 <script>
   const TEMPORARY_PASSWORD = "arbowatch2025";
 
-  document.addEventListener("DOMContentLoaded", function() {
+  document.addEventListener("DOMContentLoaded", function () {
     if (sessionStorage.getItem("arbowatch_auth") === "true") {
-      document.body.style.visibility = 'visible';
-      return; 
+      document.body.style.visibility = "visible";
+      return;
     }
 
-    const overlay = document.createElement('div');
-    overlay.id = 'auth-overlay';
+    const overlay = document.createElement("div");
+    overlay.id = "auth-overlay";
     overlay.innerHTML = `
-      <div class="auth-card">
+      <form class="auth-card" id="auth-form">
         <h2>ARBO-WATCH</h2>
-        <input type="password" id="auth-password" class="auth-input" placeholder="Enter access password" />
-        <button id="auth-submit" class="auth-btn">View Site</button>
-        <div id="auth-error">Incorrect password. Please try again.</div>
-      </div>
+        <p>Enter the password shared with your cohort.</p>
+        <label for="auth-password">Access password</label>
+        <input type="password" id="auth-password" class="auth-input" autocomplete="current-password" />
+        <button type="submit" class="auth-btn">View site</button>
+        <p id="auth-error" role="alert">That password is incorrect. Try again.</p>
+      </form>
     `;
-    
+
     document.body.appendChild(overlay);
 
-    const input = document.getElementById('auth-password');
-    const submitBtn = document.getElementById('auth-submit');
-    const errorMsg = document.getElementById('auth-error');
+    const form = document.getElementById("auth-form");
+    const input = document.getElementById("auth-password");
+    const errorMsg = document.getElementById("auth-error");
 
-    function attemptLogin() {
+    form.addEventListener("submit", function (event) {
+      event.preventDefault();
       if (input.value === TEMPORARY_PASSWORD) {
         sessionStorage.setItem("arbowatch_auth", "true");
         overlay.remove();
-        document.body.style.visibility = 'visible';
+        document.body.style.visibility = "visible";
       } else {
-        errorMsg.style.display = 'block';
-        input.value = '';
+        errorMsg.style.display = "block";
+        input.value = "";
         input.focus();
       }
-    }
-
-    submitBtn.addEventListener('click', attemptLogin);
-    input.addEventListener('keypress', function(e) {
-      if (e.key === 'Enter') attemptLogin();
     });
-    
+
     input.focus();
   });
 </script>
@@ -239,7 +153,7 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="../../index.html"> 
-<span class="menu-text">Home</span></a>
+<span class="menu-text">Overview</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-workshops" role="link" data-bs-toggle="dropdown" aria-expanded="false">
@@ -389,9 +303,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul class="collapse">
-  <li><a href="#time-schedule" id="toc-time-schedule" class="nav-link active" data-scroll-target="#time-schedule">Time Schedule</a></li>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#prerequisites" id="toc-prerequisites" class="nav-link" data-scroll-target="#prerequisites">Prerequisites</a></li>
+  <li><a href="#time-schedule" id="toc-time-schedule" class="nav-link" data-scroll-target="#time-schedule">Time Schedule</a></li>
   <li><a href="#materials" id="toc-materials" class="nav-link" data-scroll-target="#materials">Materials</a></li>
   <li><a href="#facilitators" id="toc-facilitators" class="nav-link" data-scroll-target="#facilitators">Facilitators</a></li>
+  <li><a href="#mentors" id="toc-mentors" class="nav-link" data-scroll-target="#mentors">Mentors</a></li>
   <li><a href="#participants" id="toc-participants" class="nav-link" data-scroll-target="#participants">Participants</a></li>
   </ul>
 </nav>
@@ -429,9 +346,9 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="introduction" class="level3">
-<h3 class="anchored" data-anchor-id="introduction">Introduction</h3>
-<p>This module introduces participants to the full data lifecycle: planning, collection, storage, cleaning, analysis, and reporting. It emphasizes ethical data collection, data quality, confidentiality, security, and sustainable storage practices The module provides hands-on training on:</p>
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>This module introduces participants to the full data lifecycle: planning, collection, storage, cleaning, analysis, and reporting. It emphasizes ethical data collection, data quality, confidentiality, security, and sustainable storage practices. The module provides hands-on training on:</p>
 <ul>
 <li>Google forms for digital questionnaire design</li>
 <li>Kobo Toolbox for mobile and field-based data collection</li>
@@ -452,8 +369,8 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
-<section id="prerequisites" class="level3">
-<h3 class="anchored" data-anchor-id="prerequisites">Prerequisites</h3>
+<section id="prerequisites" class="level2">
+<h2 class="anchored" data-anchor-id="prerequisites">Prerequisites</h2>
 <p>Before attending, please ensure you have:</p>
 <ul>
 <li>Installed <a href="https://cran.r-project.org/">R</a> (version ≥ 4.2) and <a href="https://posit.co/download/rstudio-desktop/">RStudio</a></li>
@@ -587,12 +504,12 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="materials" class="level2">
 <h2 class="anchored" data-anchor-id="materials">Materials</h2>
-<section id="pre-training-manual" class="level4">
-<h4 class="anchored" data-anchor-id="pre-training-manual">Pre-Training Manual</h4>
+<section id="pre-training-manual" class="level3">
+<h3 class="anchored" data-anchor-id="pre-training-manual">Pre-Training Manual</h3>
 <p><a href="../../materials/workshop_1/Arbowatch Course Manual 2025.pdf" class="btn btn-primary">Download Pre-Training Manual</a></p>
 </section>
-<section id="all-materials" class="level4">
-<h4 class="anchored" data-anchor-id="all-materials">All materials</h4>
+<section id="all-materials" class="level3">
+<h3 class="anchored" data-anchor-id="all-materials">All materials</h3>
 <p><a href="../../materials/workshop_1/all/workshop-1-all.zip" class="btn btn-primary">Download All</a></p>
 </section>
 </section>
@@ -628,8 +545,9 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </tbody>
 </table>
-<section id="mentors" class="level3">
-<h3 class="anchored" data-anchor-id="mentors">Mentors</h3>
+</section>
+<section id="mentors" class="level2">
+<h2 class="anchored" data-anchor-id="mentors">Mentors</h2>
 <table class="caption-top table">
 <thead>
 <tr class="header">
@@ -665,7 +583,6 @@ ul.task-list li input[type="checkbox"] {
 </tbody>
 </table>
 </section>
-</section>
 <section id="participants" class="level2">
 <h2 class="anchored" data-anchor-id="participants">Participants</h2>
 <table class="caption-top table">
@@ -674,7 +591,6 @@ ul.task-list li input[type="checkbox"] {
 <th>Name</th>
 <th>Country</th>
 <th>Group</th>
-<th>Organisation</th>
 </tr>
 </thead>
 <tbody>
@@ -682,289 +598,241 @@ ul.task-list li input[type="checkbox"] {
 <td>Henok Tadesse Bireda</td>
 <td>Ethiopia</td>
 <td>1</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Abdirahman Mohamed Abdullahi</td>
 <td>Somalia</td>
 <td>1</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Seth Ouma Okeyo</td>
 <td>Kenya</td>
 <td>1</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Hillary Chebon Chelanga</td>
 <td>Kenya</td>
 <td>1</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Shafie Abdulkadir Hassan</td>
 <td>Somalia</td>
 <td>1</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Edith C. Koskei</td>
 <td>Kenya</td>
 <td>1</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Joel Lutomiah</td>
 <td>Kenya</td>
 <td>1</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Mikias Alayu Alemu</td>
 <td>Ethiopia</td>
 <td>2</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Marian Muse Osman</td>
 <td>Somalia</td>
 <td>2</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Yusuf Ajack Ibrahim</td>
 <td>Kenya</td>
 <td>2</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Akengo Hellen</td>
 <td>Kenya</td>
 <td>2</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Limbaso Konongoi</td>
 <td>Kenya</td>
 <td>2</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Ahmed Nor Osman Hassan</td>
 <td>Somalia</td>
 <td>2</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Esther Nyaboke Bundi</td>
 <td>Kenya</td>
 <td>2</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Abraham Ali</td>
 <td>Ethiopia</td>
 <td>3</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Francis Oketch Ochieng</td>
 <td>Kenya</td>
 <td>3</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Abdullahi Mohamed Mohamud</td>
 <td>Somalia</td>
 <td>3</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Hellensyombwii Koka</td>
 <td>Kenya</td>
 <td>3</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Abdirisak Suleiman Osman</td>
 <td>Somalia</td>
 <td>3</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Margaret Wairimu Wanyeki Nganga</td>
 <td>Kenya</td>
 <td>3</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Millicent Makandi</td>
 <td>Kenya</td>
 <td>3</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Hamdi Ahmed Ali</td>
 <td>Somalia</td>
 <td>4</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Francis Ng’Ang’A</td>
 <td>Kenya</td>
 <td>4</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Victor Ofula</td>
 <td>Kenya</td>
 <td>4</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Samuel Arach Owaka</td>
 <td>Kenya</td>
 <td>4</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Osman Ahmed Mohamed</td>
 <td>Somalia</td>
 <td>4</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Valentine Kabita</td>
 <td>Kenya</td>
 <td>4</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Mesfin Wossen</td>
 <td>Ethiopia</td>
 <td>4</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Worku Fitesa</td>
 <td>Ethiopia</td>
 <td>5</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Ahmed Yusuf Mohamed</td>
 <td>Somalia</td>
 <td>5</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Edith Chepkorir</td>
 <td>Kenya</td>
 <td>5</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Abdulkarim Abdulle Yusuf</td>
 <td>Somalia</td>
 <td>5</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Evalyne Kanyina</td>
 <td>Kenya</td>
 <td>5</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Abate Tensai</td>
 <td>Ethiopia</td>
 <td>5</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Safia Hassan</td>
 <td>Kenya</td>
 <td>5</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Mohamed Abdirahman Hashi</td>
 <td>Somalia</td>
 <td>6</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Fitsum Bekele Endeshaw</td>
 <td>Ethiopia</td>
 <td>6</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Langat Kipngetich Solomon</td>
 <td>Kenya</td>
 <td>6</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Albert Nyunja</td>
 <td>Kenya</td>
 <td>6</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Mulugeta Geremew</td>
 <td>Ethiopia</td>
 <td>6</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Nicholas Kurgat</td>
 <td>Kenya</td>
 <td>6</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Abdulrizak Suleiman Osman</td>
 <td>Somalia</td>
 <td>6</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Aamir Muse Osman</td>
 <td>Somalia</td>
 <td>7</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>James Mutisya</td>
 <td>Kenya</td>
 <td>7</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Samson Warkaye Lamma</td>
 <td>Ethiopia</td>
 <td>7</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Francis Mulwa Musili</td>
 <td>Kenya</td>
 <td>7</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Asnake Worku</td>
 <td>Ethiopia</td>
 <td>7</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Oscar Gaunya</td>
 <td>Kenya</td>
 <td>7</td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -1387,6 +1255,15 @@ ul.task-list li input[type="checkbox"] {
   <script type="application/javascript">
   window.quartoScrollableRegionsLabels = {"code":"Scrollable code","output":"Scrollable output"};
   </script>
+<nav class="page-navigation" aria-label="Page">
+  <div class="nav-page nav-page-previous">
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../../workshops/workshop-01/pretraining.html" class="pagination-link" aria-label="Pre-training session">
+        <span class="nav-page-text">Pre-training session</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">

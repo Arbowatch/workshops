@@ -38,6 +38,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
+<link href="../../workshops/workshop-02/pretraining.html" rel="next">
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../../site_libs/quarto-html/scrollable-regions/scrollable-regions.js" type="module"></script>
@@ -45,10 +46,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e8230bc1e967bce92d5c6e4a28b66e7e.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-fea2963686f675d4c652c45998780d49.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-2af0ac04345c2cb0ed59e45007307fd0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -77,138 +78,51 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-  body {
-    visibility: hidden; 
-  }
-
-  #auth-overlay {
-    visibility: visible;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background-color: #f5f5f5;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    z-index: 999999;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
-  }
-
-  .auth-card {
-    background: white;
-    padding: 2.5rem;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-    border: 1px solid #e2e8f0;
-    text-align: center;
-    width: 100%;
-    max-width: 400px;
-    color: #3f3731;
-  }
-
-  .auth-card h2 {
-    margin-top: 0;
-    margin-bottom: 0.5rem;
-    font-weight: 600;
-    color: #682622;
-  }
-
-  .auth-card p {
-    color: #3f3731;
-    opacity: 0.8;
-    font-size: 0.95rem;
-    margin-bottom: 1.5rem;
-  }
-
-  .auth-input {
-    width: 100%;
-    padding: 0.75rem;
-    margin-bottom: 1rem;
-    border: 1px solid #cbd5e1;
-    border-radius: 6px;
-    font-size: 1rem;
-    box-sizing: border-box;
-    transition: border-color 0.15s ease-in-out;
-    color: #3f3731;
-  }
-
-  .auth-input:focus {
-    outline: none;
-    border-color: #682622;
-    box-shadow: 0 0 0 3px rgba(104, 38, 34, 0.15);
-  }
-
-  .auth-btn {
-    width: 100%;
-    padding: 0.75rem;
-    background-color: #682622;
-    color: white;
-    border: none;
-    border-radius: 6px;
-    font-size: 1rem;
-    font-weight: 500;
-    cursor: pointer;
-    transition: background-color 0.15s ease-in-out;
-  }
-
-  .auth-btn:hover {
-    background-color: #3f3731;
-  }
-
-  #auth-error {
-    color: #682622;
-    font-weight: 500;
-    font-size: 0.875rem;
-    margin-top: 1rem;
-    display: none;
-  }
+  body { visibility: hidden; }
+  #auth-overlay { visibility: visible; }
 </style>
 
 <script>
   const TEMPORARY_PASSWORD = "arbowatch2025";
 
-  document.addEventListener("DOMContentLoaded", function() {
+  document.addEventListener("DOMContentLoaded", function () {
     if (sessionStorage.getItem("arbowatch_auth") === "true") {
-      document.body.style.visibility = 'visible';
-      return; 
+      document.body.style.visibility = "visible";
+      return;
     }
 
-    const overlay = document.createElement('div');
-    overlay.id = 'auth-overlay';
+    const overlay = document.createElement("div");
+    overlay.id = "auth-overlay";
     overlay.innerHTML = `
-      <div class="auth-card">
+      <form class="auth-card" id="auth-form">
         <h2>ARBO-WATCH</h2>
-        <input type="password" id="auth-password" class="auth-input" placeholder="Enter access password" />
-        <button id="auth-submit" class="auth-btn">View Site</button>
-        <div id="auth-error">Incorrect password. Please try again.</div>
-      </div>
+        <p>Enter the password shared with your cohort.</p>
+        <label for="auth-password">Access password</label>
+        <input type="password" id="auth-password" class="auth-input" autocomplete="current-password" />
+        <button type="submit" class="auth-btn">View site</button>
+        <p id="auth-error" role="alert">That password is incorrect. Try again.</p>
+      </form>
     `;
-    
+
     document.body.appendChild(overlay);
 
-    const input = document.getElementById('auth-password');
-    const submitBtn = document.getElementById('auth-submit');
-    const errorMsg = document.getElementById('auth-error');
+    const form = document.getElementById("auth-form");
+    const input = document.getElementById("auth-password");
+    const errorMsg = document.getElementById("auth-error");
 
-    function attemptLogin() {
+    form.addEventListener("submit", function (event) {
+      event.preventDefault();
       if (input.value === TEMPORARY_PASSWORD) {
         sessionStorage.setItem("arbowatch_auth", "true");
         overlay.remove();
-        document.body.style.visibility = 'visible';
+        document.body.style.visibility = "visible";
       } else {
-        errorMsg.style.display = 'block';
-        input.value = '';
+        errorMsg.style.display = "block";
+        input.value = "";
         input.focus();
       }
-    }
-
-    submitBtn.addEventListener('click', attemptLogin);
-    input.addEventListener('keypress', function(e) {
-      if (e.key === 'Enter') attemptLogin();
     });
-    
+
     input.focus();
   });
 </script>
@@ -239,7 +153,7 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="../../index.html"> 
-<span class="menu-text">Home</span></a>
+<span class="menu-text">Overview</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-workshops" role="link" data-bs-toggle="dropdown" aria-expanded="false">
@@ -395,7 +309,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul class="collapse">
-  <li><a href="#timetable" id="toc-timetable" class="nav-link active" data-scroll-target="#timetable">Timetable</a></li>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#prerequisites" id="toc-prerequisites" class="nav-link" data-scroll-target="#prerequisites">Prerequisites</a></li>
+  <li><a href="#timetable" id="toc-timetable" class="nav-link" data-scroll-target="#timetable">Timetable</a></li>
+  <li><a href="#materials" id="toc-materials" class="nav-link" data-scroll-target="#materials">Materials</a></li>
+  <li><a href="#facilitators" id="toc-facilitators" class="nav-link" data-scroll-target="#facilitators">Facilitators</a></li>
+  <li><a href="#mentors" id="toc-mentors" class="nav-link" data-scroll-target="#mentors">Mentors</a></li>
   <li><a href="#participants" id="toc-participants" class="nav-link" data-scroll-target="#participants">Participants</a></li>
   </ul>
 </nav>
@@ -433,8 +352,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="introduction" class="level3">
-<h3 class="anchored" data-anchor-id="introduction">Introduction</h3>
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
 <p>R and RStudio are powerful, open-source tools widely used for modern public health data analysis, enabling analysts to manage, explore, visualize, and communicate data-driven insights effectively. This module introduces participants to the <code>R</code> programming environment and the RStudio interface, with a focus on practical applications in public health surveillance and epidemiological analysis.</p>
 <p>Using the <code>tidyverse</code> workflow, participants will learn essential data analysis processes, including importing, cleaning, transforming, summarizing, and visualizing health data. The module provides hands-on experience with key <code>R</code> packages such as <code>readr</code>, <code>dplyr</code>, <code>tidyr</code>, and <code>ggplot2</code> for efficient and reproducible analytical workflows.</p>
 <p>By the end of the module, participants will be able to apply <code>R</code> to perform descriptive analyses, generate meaningful visualizations, interpret disease patterns and trends, and create reproducible reports that support evidence-based public health decision-making.</p>
@@ -452,8 +371,8 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
-<section id="prerequisites" class="level3">
-<h3 class="anchored" data-anchor-id="prerequisites">Prerequisites</h3>
+<section id="prerequisites" class="level2">
+<h2 class="anchored" data-anchor-id="prerequisites">Prerequisites</h2>
 <p>Before attending, please ensure you have:</p>
 <ul>
 <li>Completed Workshop 01</li>
@@ -560,13 +479,13 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </tbody>
 </table>
-<section id="materials" class="level3">
-<h3 class="anchored" data-anchor-id="materials">Materials</h3>
-<p>Download all</p>
-<p><a href="" class="btn btn-primary">Download all</a></p>
 </section>
-<section id="facilitators" class="level3">
-<h3 class="anchored" data-anchor-id="facilitators">Facilitators</h3>
+<section id="materials" class="level2">
+<h2 class="anchored" data-anchor-id="materials">Materials</h2>
+<p>Downloads for each day are on that day’s page.</p>
+</section>
+<section id="facilitators" class="level2">
+<h2 class="anchored" data-anchor-id="facilitators">Facilitators</h2>
 <table class="caption-top table">
 <thead>
 <tr class="header">
@@ -598,8 +517,8 @@ ul.task-list li input[type="checkbox"] {
 </tbody>
 </table>
 </section>
-<section id="mentors" class="level3">
-<h3 class="anchored" data-anchor-id="mentors">Mentors</h3>
+<section id="mentors" class="level2">
+<h2 class="anchored" data-anchor-id="mentors">Mentors</h2>
 <table class="caption-top table">
 <thead>
 <tr class="header">
@@ -638,7 +557,6 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </tbody>
 </table>
-</section>
 </section>
 <section id="participants" class="level2">
 <h2 class="anchored" data-anchor-id="participants">Participants</h2>
@@ -1523,6 +1441,15 @@ ul.task-list li input[type="checkbox"] {
   <script type="application/javascript">
   window.quartoScrollableRegionsLabels = {"code":"Scrollable code","output":"Scrollable output"};
   </script>
+<nav class="page-navigation" aria-label="Page">
+  <div class="nav-page nav-page-previous">
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../../workshops/workshop-02/pretraining.html" class="pagination-link" aria-label="Pre-training session">
+        <span class="nav-page-text">Pre-training session</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">

@@ -45,10 +45,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e8230bc1e967bce92d5c6e4a28b66e7e.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-fea2963686f675d4c652c45998780d49.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-2af0ac04345c2cb0ed59e45007307fd0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -100,138 +100,51 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 <style>
-  body {
-    visibility: hidden; 
-  }
-
-  #auth-overlay {
-    visibility: visible;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background-color: #f5f5f5;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    z-index: 999999;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
-  }
-
-  .auth-card {
-    background: white;
-    padding: 2.5rem;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-    border: 1px solid #e2e8f0;
-    text-align: center;
-    width: 100%;
-    max-width: 400px;
-    color: #3f3731;
-  }
-
-  .auth-card h2 {
-    margin-top: 0;
-    margin-bottom: 0.5rem;
-    font-weight: 600;
-    color: #682622;
-  }
-
-  .auth-card p {
-    color: #3f3731;
-    opacity: 0.8;
-    font-size: 0.95rem;
-    margin-bottom: 1.5rem;
-  }
-
-  .auth-input {
-    width: 100%;
-    padding: 0.75rem;
-    margin-bottom: 1rem;
-    border: 1px solid #cbd5e1;
-    border-radius: 6px;
-    font-size: 1rem;
-    box-sizing: border-box;
-    transition: border-color 0.15s ease-in-out;
-    color: #3f3731;
-  }
-
-  .auth-input:focus {
-    outline: none;
-    border-color: #682622;
-    box-shadow: 0 0 0 3px rgba(104, 38, 34, 0.15);
-  }
-
-  .auth-btn {
-    width: 100%;
-    padding: 0.75rem;
-    background-color: #682622;
-    color: white;
-    border: none;
-    border-radius: 6px;
-    font-size: 1rem;
-    font-weight: 500;
-    cursor: pointer;
-    transition: background-color 0.15s ease-in-out;
-  }
-
-  .auth-btn:hover {
-    background-color: #3f3731;
-  }
-
-  #auth-error {
-    color: #682622;
-    font-weight: 500;
-    font-size: 0.875rem;
-    margin-top: 1rem;
-    display: none;
-  }
+  body { visibility: hidden; }
+  #auth-overlay { visibility: visible; }
 </style>
 
 <script>
   const TEMPORARY_PASSWORD = "arbowatch2025";
 
-  document.addEventListener("DOMContentLoaded", function() {
+  document.addEventListener("DOMContentLoaded", function () {
     if (sessionStorage.getItem("arbowatch_auth") === "true") {
-      document.body.style.visibility = 'visible';
-      return; 
+      document.body.style.visibility = "visible";
+      return;
     }
 
-    const overlay = document.createElement('div');
-    overlay.id = 'auth-overlay';
+    const overlay = document.createElement("div");
+    overlay.id = "auth-overlay";
     overlay.innerHTML = `
-      <div class="auth-card">
+      <form class="auth-card" id="auth-form">
         <h2>ARBO-WATCH</h2>
-        <input type="password" id="auth-password" class="auth-input" placeholder="Enter access password" />
-        <button id="auth-submit" class="auth-btn">View Site</button>
-        <div id="auth-error">Incorrect password. Please try again.</div>
-      </div>
+        <p>Enter the password shared with your cohort.</p>
+        <label for="auth-password">Access password</label>
+        <input type="password" id="auth-password" class="auth-input" autocomplete="current-password" />
+        <button type="submit" class="auth-btn">View site</button>
+        <p id="auth-error" role="alert">That password is incorrect. Try again.</p>
+      </form>
     `;
-    
+
     document.body.appendChild(overlay);
 
-    const input = document.getElementById('auth-password');
-    const submitBtn = document.getElementById('auth-submit');
-    const errorMsg = document.getElementById('auth-error');
+    const form = document.getElementById("auth-form");
+    const input = document.getElementById("auth-password");
+    const errorMsg = document.getElementById("auth-error");
 
-    function attemptLogin() {
+    form.addEventListener("submit", function (event) {
+      event.preventDefault();
       if (input.value === TEMPORARY_PASSWORD) {
         sessionStorage.setItem("arbowatch_auth", "true");
         overlay.remove();
-        document.body.style.visibility = 'visible';
+        document.body.style.visibility = "visible";
       } else {
-        errorMsg.style.display = 'block';
-        input.value = '';
+        errorMsg.style.display = "block";
+        input.value = "";
         input.focus();
       }
-    }
-
-    submitBtn.addEventListener('click', attemptLogin);
-    input.addEventListener('keypress', function(e) {
-      if (e.key === 'Enter') attemptLogin();
     });
-    
+
     input.focus();
   });
 </script>
@@ -291,7 +204,7 @@ window.Quarto = {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link active" href="./index.html" aria-current="page"> 
-<span class="menu-text">Home</span></a>
+<span class="menu-text">Overview</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-workshops" role="link" data-bs-toggle="dropdown" aria-expanded="false">
@@ -368,7 +281,10 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul class="collapse">
-  <li><a href="#jkuat-team" id="toc-jkuat-team" class="nav-link active" data-scroll-target="#jkuat-team">JKUAT Team</a></li>
+  <li><a href="#about-the-project" id="toc-about-the-project" class="nav-link active" data-scroll-target="#about-the-project">About the project</a></li>
+  <li><a href="#curriculum" id="toc-curriculum" class="nav-link" data-scroll-target="#curriculum">Curriculum</a></li>
+  <li><a href="#modules" id="toc-modules" class="nav-link" data-scroll-target="#modules">Modules</a></li>
+  <li><a href="#jkuat-team" id="toc-jkuat-team" class="nav-link" data-scroll-target="#jkuat-team">JKUAT team</a></li>
   <li><a href="#partners" id="toc-partners" class="nav-link" data-scroll-target="#partners">Partners</a></li>
   </ul>
 </nav>
@@ -379,6 +295,7 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">ARBO-WATCH Capacity Building Hub</h1>
+<p class="subtitle lead">Training for dengue and chikungunya decision support in Kenya, Somalia, and Ethiopia.</p>
 </div>
 
 
@@ -395,36 +312,33 @@ window.Quarto = {
 </header>
 
 
-<section id="about-the-project" class="level3">
-<h3 class="anchored" data-anchor-id="about-the-project">About the Project</h3>
-<p>The ARBO-WATCH project seeks to design and deploy dengue and Chikungunya fever decision support tools informed by process-based models in Kenya, Somalia and Ethiopia. These analyses will utilize relevant primary and secondary data from all these countries to uncover broader epidemiological patterns of these diseases in the region. The project is being implemented by a consortium made up of nine institutions including ILRI, the Kenya Medical Research Institute, Kenya’s Ministry of Health, Jomo Kenyatta University of Agriculture and Technology, Ethiopia Public Health Institute, Global One Health Initiative, Ohio State University, Abrar University and the Ministry of Health Somalia.</p>
-<p>Read <a href="https://www.ilri.org/research/projects/arbo-watch-project">here to learn more</a> about the project.</p>
+<section id="about-the-project" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-project">About the project</h2>
+<p>The ARBO-WATCH project designs and deploys decision-support tools for dengue and chikungunya in Kenya, Somalia, and Ethiopia. The work uses primary and secondary data from these countries to uncover regional epidemiological patterns.</p>
+<p>A consortium of nine institutions implements the project: ILRI, the Kenya Medical Research Institute, Kenya’s Ministry of Health, Jomo Kenyatta University of Agriculture and Technology, the Ethiopia Public Health Institute, the Global One Health Initiative, Ohio State University, Abrar University, and the Ministry of Health Somalia.</p>
+<p><a href="https://www.ilri.org/research/projects/arbo-watch-project">About the project at ILRI</a></p>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/DwMV8qmgmbA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </section>
-<section id="curriculum-overview" class="level3">
-<h3 class="anchored" data-anchor-id="curriculum-overview">Curriculum Overview</h3>
-<ul>
-<li>This curriculum is designed to strengthen analytical capacity in infectious disease surveillance and outbreak response.</li>
-<li>It promotes mastery of research design, data analysis, modelling, visualization, and decision-support tools.</li>
-<li>The training emphasizes the use of free and open-source platforms for accessibility and sustainability.</li>
-<li>The curriculum is organized into five (5) modules, and each module has been allocated the training number days, but additional module content is available online.</li>
-</ul>
+<section id="curriculum" class="level2">
+<h2 class="anchored" data-anchor-id="curriculum">Curriculum</h2>
+<p>This curriculum strengthens analytical capacity for infectious-disease surveillance and outbreak response. It builds skill in research design, data analysis, modelling, visualization, and decision-support tools, using free and open-source software.</p>
+<p>The curriculum has five modules. Each module has a set number of training days, and more material stays available online.</p>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Overall Goal
+<span class="screen-reader-only">Tip</span>Overall goal
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>To build an end-to-end skill set that moves participants from data collection to analysis, modelling, mapping, and decision-making.</p>
+<p>Build an end-to-end skill set that moves participants from data collection to analysis, modelling, mapping, and decision-making.</p>
 </div>
 </div>
 </section>
-<section id="modules-overview" class="level3">
-<h3 class="anchored" data-anchor-id="modules-overview">Modules Overview</h3>
+<section id="modules" class="level2">
+<h2 class="anchored" data-anchor-id="modules">Modules</h2>
 <div id="listing-workshop-listing" class="quarto-listing quarto-listing-container-table">
 <div class="listing-actions-group">
    <div class="input-group input-group-sm quarto-listing-sort">
@@ -464,7 +378,7 @@ window.Quarto = {
 </thead>
 <tbody class="list">
 
-<tr data-index="0" data-listing-date-sort="1756080000000" data-listing-file-modified-sort="1794134446771" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="20" data-listing-word-count-sort="3958" data-listing-title-sort="Data Collection and Management" data-listing-filename-sort="index.qmd">
+<tr data-index="0" data-listing-date-sort="1756080000000" data-listing-file-modified-sort="1794137988765" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="17" data-listing-word-count-sort="3262" data-listing-title-sort="Data Collection and Management" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Aug 2025</span>
 </td>
@@ -474,7 +388,7 @@ window.Quarto = {
 
 </tr>
 
-<tr data-index="1" data-listing-date-sort="1761523200000" data-listing-file-modified-sort="1794134446771" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1620" data-listing-title-sort="Introduction to R for Public Health Surveillance" data-listing-filename-sort="index.qmd">
+<tr data-index="1" data-listing-date-sort="1761523200000" data-listing-file-modified-sort="1794137988766" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1625" data-listing-title-sort="Introduction to R for Public Health Surveillance" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 2025</span>
 </td>
@@ -484,7 +398,7 @@ window.Quarto = {
 
 </tr>
 
-<tr data-index="2" data-listing-date-sort="1776556800000" data-listing-file-modified-sort="1794134446772" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="364" data-listing-title-sort="Statistical Modelling for Public Health Research" data-listing-filename-sort="index.qmd">
+<tr data-index="2" data-listing-date-sort="1776556800000" data-listing-file-modified-sort="1794137988766" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="364" data-listing-title-sort="Statistical Modelling for Public Health Research" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Apr 2026</span>
 </td>
@@ -494,7 +408,7 @@ window.Quarto = {
 
 </tr>
 
-<tr data-index="3" data-listing-date-sort="1784592000000" data-listing-file-modified-sort="1794134446774" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="735" data-listing-title-sort="Mathematical Modelling Techniques" data-listing-filename-sort="index.qmd">
+<tr data-index="3" data-listing-date-sort="1784592000000" data-listing-file-modified-sort="1794137988769" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="735" data-listing-title-sort="Mathematical Modelling Techniques" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Jul 2026</span>
 </td>
@@ -504,7 +418,7 @@ window.Quarto = {
 
 </tr>
 
-<tr data-index="4" data-listing-date-sort="1791244800000" data-listing-file-modified-sort="1794134446827" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="803" data-listing-title-sort="Spatial Epidemiology, Risk Mapping, and Decision Support Systems" data-listing-filename-sort="index.qmd">
+<tr data-index="4" data-listing-date-sort="1791244800000" data-listing-file-modified-sort="1794137988831" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="803" data-listing-title-sort="Spatial Epidemiology, Risk Mapping, and Decision Support Systems" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 2026</span>
 </td>
@@ -514,7 +428,7 @@ window.Quarto = {
 
 </tr>
 
-<tr data-index="5" data-listing-file-modified-sort="1794134446771" data-listing-reading-time-sort="1" data-listing-word-count-sort="40" data-listing-title-sort="Other Trainings" data-listing-filename-sort="index.qmd">
+<tr data-index="5" data-listing-file-modified-sort="1794137988765" data-listing-reading-time-sort="1" data-listing-word-count-sort="40" data-listing-title-sort="Other Trainings" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">&nbsp;</span>
 </td>
@@ -530,7 +444,7 @@ window.Quarto = {
 </div>
 </section>
 <section id="jkuat-team" class="level2">
-<h2 class="anchored" data-anchor-id="jkuat-team">JKUAT Team</h2>
+<h2 class="anchored" data-anchor-id="jkuat-team">JKUAT team</h2>
 <div class="educator-list">
 <div class="educator-card">
 <div class="quarto-figure quarto-figure-center">
@@ -541,7 +455,7 @@ window.Quarto = {
 </div>
 <section id="henry-athiany" class="level3 educator-content">
 <h3 class="anchored" data-anchor-id="henry-athiany">Henry Athiany</h3>
-<p><em>Research Biostatistician</em></p>
+<p><em>Research biostatistician</em></p>
 <p>Henry Athiany is a Lecturer in the Department of Statistics and Actuarial Sciences (STACS) at JKUAT, with training in Biostatistics and Epidemiology and a background in Mathematics and Computer Science. His research spans epidemiology, infectious disease modelling, Bayesian and spatiotemporal analysis, clinical trials, statistical computing, bioinformatics, time-series forecasting, and mental health analytics. With over 15 years of experience working with large-scale eHealth and routinely collected healthcare data, he has contributed to national public health initiatives, including serving on Kenya’s COVID-19 Modelling Technical Committee and supporting multiple Ministry of Health projects on digital health systems, diagnostics optimization, and health information interoperability. He is also an experienced trainer in statistical software and research methods and has held leadership roles within the International Biometric Society and the Statistical Society of Kenya. Currently, he supports the ARBO-WATCH project as part of the JKUAT team.</p>
 </section>
 </div>
@@ -554,7 +468,7 @@ window.Quarto = {
 </div>
 <section id="caroline-wanja-mugo" class="level3 educator-content">
 <h3 class="anchored" data-anchor-id="caroline-wanja-mugo">Caroline Wanja Mugo</h3>
-<p><em>Lecturer Biostatistics</em></p>
+<p><em>Lecturer, biostatistics</em></p>
 <p>Caroline Wanja Mugo is a Lecturer in Biostatistics at JKUAT with a background in Biostatistics and Epidemiology. Her research interests include infectious disease epidemiology, statistical methods for public health, and data-driven decision-making. She has experience working with large datasets and routinely collected healthcare data, contributing to national public health initiatives. Caroline has also been involved in training and capacity-building efforts in biostatistics and epidemiology. She currently supports the ARBO-WATCH project as part of the JKUAT team.</p>
 </section>
 </div>
@@ -567,8 +481,8 @@ window.Quarto = {
 </div>
 <section id="anthony-waititu" class="level3 educator-content">
 <h3 class="anchored" data-anchor-id="anthony-waititu">Anthony Waititu</h3>
-<p><em>Associate Professor</em></p>
-<p>Gichuhi A. Waititu is an Associate Professor of Statistics at Jomo Kenyatta University of Agriculture and Technology (JKUAT), Kenya. He currently serves as the Dean of the School of Mathematics and Physical Sciences at JKUAT. He has over twenty (20) years of experience in teaching applied statistics at university level, alongside extensive engagement in research and academic leadership. His research interests focus on Machine Learning and Artificial Intelligence, with applications in data science and statistical modelling.</p>
+<p><em>Associate professor</em></p>
+<p>Gichuhi A. Waititu is an Associate Professor of Statistics at Jomo Kenyatta University of Agriculture and Technology (JKUAT), Kenya. He currently serves as the Dean of the School of Mathematics and Physical Sciences at JKUAT. He has over twenty years of experience teaching applied statistics at university level, alongside research and academic leadership. His research interests focus on machine learning and artificial intelligence, with applications in data science and statistical modelling.</p>
 </section>
 </div>
 <div class="educator-card">
@@ -580,13 +494,15 @@ window.Quarto = {
 </div>
 <section id="charity-wamwea" class="level3 educator-content">
 <h3 class="anchored" data-anchor-id="charity-wamwea">Charity Wamwea</h3>
-<p>Charity Wamwea is a lecturer and researcher in Actuarial Science, Applied Statistics, and Mathematical Finance at Jomo Kenyatta University of Agriculture and Technology (JKUAT). She specializes in statistical, risk, and financial modelling, machine learning, and data science, with research interests spanning epidemiology, public health, survival analysis, infectious disease modelling, and non‑communicable diseases. Her work applies quantitative methods to address challenges in health systems, disease surveillance, and financial risk management.</p>
+<p><em>Lecturer, actuarial science</em></p>
+<p>Charity Wamwea is a lecturer and researcher in Actuarial Science, Applied Statistics, and Mathematical Finance at Jomo Kenyatta University of Agriculture and Technology (JKUAT). She specializes in statistical, risk, and financial modelling, machine learning, and data science, with research interests spanning epidemiology, public health, survival analysis, infectious disease modelling, and non-communicable diseases. Her work applies quantitative methods to health systems, disease surveillance, and financial risk management.</p>
 </section>
 </div>
 </div>
 </section>
 <section id="partners" class="level2">
 <h2 class="anchored" data-anchor-id="partners">Partners</h2>
+<div class="partner-list">
 <ul>
 <li><a href="https://www.ilri.org">International Livestock Research Institute</a></li>
 <li><a href="https://www.jkuat.ac.ke">Jomo Kenyatta University of Agriculture and Technology</a></li>
@@ -599,6 +515,7 @@ window.Quarto = {
 <li>Kenya’s Department of Disease Surveillance and Epidemic Response</li>
 <li><a href="https://osu.edu">Ohio State University</a></li>
 </ul>
+</div>
 
 
 

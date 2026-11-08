@@ -1,9 +1,22 @@
 ---
-title: "Get in Touch"
+title: "Contact"
+subtitle: "Questions about the training go to the JKUAT team."
 ---
 
-For any inquiry, please reach out to:
+::: {.contact-list}
+::: {.contact-card}
+### Email
 
-- EMAIL: henry.athiany@gmail.com or cwmugo@jkuat.ac.ke
+[henry.athiany@gmail.com](mailto:henry.athiany@gmail.com)
 
-- PHONE: +254723440110 or +254733388887
+[cwmugo@jkuat.ac.ke](mailto:cwmugo@jkuat.ac.ke)
+:::
+
+::: {.contact-card}
+### Phone
+
+[+254 723 440 110](tel:+254723440110)
+
+[+254 733 388 887](tel:+254733388887)
+:::
+:::

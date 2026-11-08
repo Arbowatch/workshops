@@ -1,15 +1,23 @@
+lang: en
+
 project:
   type: website
   pre-render: build-gallery.py
+  render:
+    - "*.qmd"
+    - "workshops/**/*.qmd"
+    - "!gallery-template.qmd"
 
 website:
   title: "ARBO-WATCH"
+  description: "Training for dengue and chikungunya surveillance in Kenya, Somalia, and Ethiopia."
   search: true
+  page-navigation: true
   navbar:
     logo: assets/logo/arbowatch.png
     left:
       - href: index.qmd
-        text: Home
+        text: Overview
       - text: Workshops
         menu:
           - href: workshops/workshop-01/index.qmd
@@ -164,7 +172,7 @@ website:
               href: workshops/workshop-05/day-06.qmd
 
   page-footer:
-    background: "#3f3731"
+    background: "#f5f5f7"
     left:
       - text: "© 2025 ARBO-WATCH Project"
     center:
@@ -178,9 +186,11 @@ website:
 
 format:
   html:
+    theme: [default, theme-light.scss]
     css: styles.css
     toc: true
     toc-depth: 2
+    smooth-scroll: false
     code-tools: false
     code-copy: false
     include-in-header: auth.html

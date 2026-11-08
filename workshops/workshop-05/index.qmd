@@ -3,7 +3,7 @@ title: "Spatial Epidemiology, Risk Mapping, and Decision Support Systems"
 date: 2026-10-06
 ---
 
-### Introduction
+## Introduction
 
 This module introduces Geographic Information Systems (GIS) concepts and their applications in health research and infectious disease surveillance. It provides participants with foundational knowledge of spatial data, mapping principles, and the use of tools such as **QGIS** and **R** for geospatial analysis.
 

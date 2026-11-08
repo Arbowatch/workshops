@@ -21,4 +21,4 @@ Download all the day's Materials
 
 ### Video Recording
 
-{{< video https://www.youtube.com/watch?v=VIDEO_ID >}}
+{{< video https://www.youtube.com/watch?v=Za3K6YhdfSA >}}

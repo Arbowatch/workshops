@@ -3,12 +3,6 @@ title: "Pre-training session"
 date: 2026-08-01
 ---
 
-### Recording
-
-::: {.video-frame}
-{{< video https://www.youtube.com/watch?v=VIDEO_ID >}}
-:::
-
 ### Training Datasets and Shapefiles
 
 [Download zip](materials/day-00/training_datasets.zip){.btn-download}

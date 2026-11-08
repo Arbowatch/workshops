@@ -3,7 +3,7 @@ title: "Statistical Modelling for Public Health Research"
 date:  2026-04-19
 ---
 
-### Introduction
+## Introduction
 
 This module provides a foundation in statistical modelling for epidemiological and surveillance data analysis. It introduces key concepts in statistical inference, beginning with hypothesis formulation and testing, including p-values, confidence intervals, and commonly used statistical tests.
 

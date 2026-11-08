@@ -5,7 +5,7 @@ description: "Introduces R for reproducible data handling, analysis, and visuali
 ---
 
 
-### Introduction
+## Introduction
 
 R and RStudio are powerful, open-source tools widely used for modern public health data analysis, enabling analysts to manage, explore, visualize, and communicate data-driven insights effectively. 
 This module introduces participants to the `R` programming environment and the RStudio interface, with a focus on practical applications in public health surveillance and epidemiological analysis.
@@ -19,7 +19,7 @@ By the end of the module, participants will be able to apply `R` to perform desc
 Develop practical R skills for managing surveillance datasets, calculating key public health indicators, creating informative visualizations, and producing reproducible analytical outputs for routine public health analysis.
 :::
 
-### Prerequisites
+## Prerequisites
 
 Before attending, please ensure you have:
 
@@ -48,15 +48,13 @@ Before attending, please ensure you have:
 | | 04:00 pm - 05:00 pm | **Practicals** | Mentors |
 
 
-### Materials
+## Materials
 
-Download all
-
-[Download all](){.btn .btn-primary}
+Downloads for each day are on that day's page.
 
 
 
-### Facilitators
+## Facilitators
 
 | Name | Institution |
 | :--- |:---------- |
@@ -67,7 +65,7 @@ Download all
 | Winnie Chacha | JKUAT |
 
 
-### Mentors
+## Mentors
 
 | Name | Institution |
 | :---- | :----------- |

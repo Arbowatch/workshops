@@ -3,7 +3,7 @@ title: "Mathematical Modelling Techniques"
 date: 2026-07-21
 ---
 
-### Introduction
+## Introduction
 
 This module focuses on infectious disease transmission modelling and its application in public health surveillance, preparedness, and outbreak response. It introduces participants to the principles of epidemic modelling, including the differences between deterministic and stochastic approaches.
 
@@ -15,11 +15,11 @@ The module also demonstrates how to simulate public health interventions, includ
 Participants will be able to implement and interpret basic infectious disease models in R, explore outbreak dynamics, evaluate intervention scenarios, and apply modelling results to support public health decision-making.
 :::
 
-### Module Overview
+## Module Overview
 
 Infectious disease modeling is an increasingly important field that offers critical insights into how diseases spread and how they can be controlled. By fitting disease transmission and recovery models to real-world data, we can assess the effectiveness of potential interventions and explore different scenarios using key metrics such as the basic reproduction number ($R_0$) or by forward predictions generated from stochastic simulations. This training introduces participants to the implementation and interpretation of infectious disease models using the statistical programming language R, with a strong emphasis on policy applications and the effective communication of uncertainty in model results.
 
-### Learning Objectives
+## Learning Objectives
 
 By completing this course, participants should be able to:
 
@@ -30,9 +30,9 @@ By completing this course, participants should be able to:
 5. Understand approaches for fitting models to data and interpreting model outputs for policy and surveillance purposes.
 6. Strengthen their ability to communicate model results and uncertainty to decision-makers and public health stakeholders.
 
-### Module Outline
+## Module Outline
 
-#### Foundations of infectious disease epidemiology
+### Foundations of infectious disease epidemiology
 
 - Overview of infectious disease epidemiology and its public health importance
 - Patterns and measurements of infection (incidence, prevalence, epidemic curves)
@@ -41,7 +41,7 @@ By completing this course, participants should be able to:
 - Exploring and summarising epidemic data in R
 - Visualising outbreak trends using ggplot2
 
-#### Introduction to mathematical modelling in epidemiology
+### Introduction to mathematical modelling in epidemiology
 
 - Role of models in public health decision-making
 - Conceptual, mathematical, and computational modelling approaches
@@ -49,7 +49,7 @@ By completing this course, participants should be able to:
 - Building simple transmission models (SI model)
 - Implementing and visualising basic models in R
 
-#### Compartmental models and key epidemiological quantities
+### Compartmental models and key epidemiological quantities
 
 - SIR and SEIR models: structure, assumptions, and model diagrams
 - Deriving and interpreting ordinary differential equations (ODEs)
@@ -57,7 +57,7 @@ By completing this course, participants should be able to:
 - Implementing SIR models in R using deSolve
 - Simulating and interpreting epidemic curves
 
-#### Model calibration, fitting, and stochastic simulations
+### Model calibration, fitting, and stochastic simulations
 
 - Parameter estimation and model calibration using real or simulated data
 - Distinguishing between deterministic and stochastic modelling approaches
@@ -65,7 +65,7 @@ By completing this course, participants should be able to:
 - Exploring randomness and uncertainty in model outcomes
 - Summarising and visualising uncertainty using plots and summaries
 
-#### Modelling interventions and control strategies
+### Modelling interventions and control strategies
 
 - Incorporating interventions (vaccination, social distancing, treatment) into models
 - Simulating alternative control scenarios and comparing outcomes
@@ -73,7 +73,7 @@ By completing this course, participants should be able to:
 - Interpreting results to inform public health decision-making
 - Scenario-based exercises using R
 
-#### Communicating results and policy applications
+### Communicating results and policy applications
 
 - Communicating assumptions, limitations, and uncertainty in model results
 - Translating modelling insights into actionable policy recommendations
@@ -81,11 +81,11 @@ By completing this course, participants should be able to:
 - Extending models to include vectors and multiple transmission routes
 - Case study and group presentations: interpreting and reporting model outputs
 
-### Learning Experiences
+## Learning Experiences
 
 Participants will engage in interactive virtual lectures on Google Meet. At the end of each training session, trainees will be given tasks to tackle during the day so as to self-assess their understanding on the concepts covered within that day. The tasks will then be monitored and reviewed during the afternoon mentorship sessions.
 
-### Evaluation
+## Evaluation
 
 Participants will work in small groups to develop and present an infectious disease modelling project using real or simulated data, demonstrating their ability to apply epidemiological concepts, implement models in R, and interpret results for public health decision-making.
 

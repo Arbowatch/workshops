@@ -25,4 +25,4 @@ Download all the materials
 
 ## Video Recording
 
-{{< video https://www.youtube.com/watch?v=VIDEO_ID >}}
+{{< video https://www.youtube.com/watch?v=8tzLSsCCRmc >}}

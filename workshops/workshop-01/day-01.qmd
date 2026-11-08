@@ -1,0 +1,37 @@
+---
+title: "Data Collection and Ethics"
+subtitle: "Using Google Forms for data collection and management"
+date: 2024-08-25
+---
+
+### Schedule
+
+| Time | Activity | Facilitator |
+| ---- | -------- | ----------- |
+| 8:00 - 8:20 AM | Opening Remarks and Training Launch | Bernard Bett |
+| 8:25 - 10:00 AM | Pre-training Survey | Anthony Waititu |
+| | Understanding data and its importance | |
+| | Principles of good data collection | |
+| | Methods of data collection | |
+| | Tools for data collection | |
+| | Data management concepts | |
+| | Data quality management | |
+| | Data security and ethics | |
+| 4:00 - 5:00 PM | Practicals on data collection and ethics | Mentors |
+
+
+### Materials 
+Download all the day's materials
+
+[Download all](/materials/workshop_1/day-2/day_2.zip){.btn .btn-secondary}
+
+
+### Quiz
+- Follow the link to complete the quiz
+[Data Collection and Ethics Quiz](https://forms.gle/bvPuAryFnt3HowMFA)
+
+
+### Video Recording
+
+#### Session 1
+{{< video https://www.youtube.com/watch?v=r60h8bn8ZOU >}}
